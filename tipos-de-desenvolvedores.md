@@ -122,3 +122,6 @@ Basicamente você vai aprender a construir aquilo que você vê quando acessa si
 <strong> O que não vamos aprender dentro do mundo desenvolvimento FrontEnd Web? </strong> <br />
   Reconhecimento e identificação de imagem ou som, jogos 3D, mensagens entre dispositivos em tempo real(chat online),
   Inteligência artificial, machine learning, big data...  
+<br />
+
+[Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
