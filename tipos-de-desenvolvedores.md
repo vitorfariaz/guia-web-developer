@@ -7,13 +7,13 @@ que  uma pessoa desenvolvem a parte visual do aplicativo, da pessoa que faz as f
 informações no banco de dados. E essa divisão, é feita por cargos/papéis diferentes. <br />
 
 Mas aqui vai um resumo das resposnabilidade de alguns tipos de desenvolvedores: <br />
- - Desenvolvedor Backend: responsável pelos processos que rodam "por baixo dos panos"
- - Desenvolvedor FrontEnd Web (Sites): responsável pela construção da parte visual de sites
- - Desenvolvedor FrontEnd IOS (Aplicativos para IOS): responsável pela construção da parte visual de Aplicativo IOS
- - Desenvolvedor FrontEnd Android (Aplicativos para Android): responsável pela construção da parte visual de Aplicativos Android
- - Desenvolvedor FullStack Web(FrontEnd site + backend): responsável pela construção tanto da parte visual de sites quanto pelos processos do back 
- - Desenvolvedor FullStack Android(FrontEnd Android + backend): responsável pela construção tanto da parte visual de android quanto pelos processos do back
- - Desenvolvedor FullStack IOS(FrontEnd IOS + backend): responsável pela construção tanto da parte visual de IOS quanto pelos processos do back
+ - **Desenvolvedor Backend**: responsável pelos processos que rodam "por baixo dos panos"
+ - **Desenvolvedor FrontEnd Web**(Sites): responsável pela construção da parte visual de sites
+ - **Desenvolvedor FrontEnd IOS**(Aplicativos para IOS): responsável pela construção da parte visual de Aplicativo IOS
+ - **Desenvolvedor FrontEnd Android**(Aplicativos para Android): responsável pela construção da parte visual de Aplicativos Android
+ - **Desenvolvedor FullStack Web**(FrontEnd site + backend): responsável pela construção tanto da parte visual de sites quanto pelos processos do back 
+ - **Desenvolvedor FullStack Android**(FrontEnd Android + backend): responsável pela construção tanto da parte visual de android quanto pelos processos do back
+ - **Desenvolvedor FullStack IOS**(FrontEnd IOS + backend): responsável pela construção tanto da parte visual de IOS quanto pelos processos do back
 
 Obs.: existem vários termos para desenvolvedores, alguns deles:
  - Software Engineer
@@ -24,6 +24,7 @@ Dependendo da vaga, vai possuir algum desses títulos, ou até mesmo a linguagem
  - Java Developer
  - Senior Java Developer
  - Junior Software Engineer
+
 
 Abaixo, vou contar a versão mais longa e completa dos Tipos de desenvolvedores que existem em uma equipe de desenvolvimento de software através 
 de um exemplo pois acredito que vá ficar 
@@ -107,6 +108,8 @@ pois um site pode ser aberto no celular Android, IOs, na TV, etc... Pois todos e
 tenha mais demanda.  <br />
 Terão diversos conhecimentos que vocês irão aprender que serão muito úteis caso vocês queiram "mudar" de trilha no futuro.
 Então não se desesperem achando que escolheram a trilha errada. <br />
+Por que não o Backend? O backend por você não visualizar as coisas acontecendo, trabalhar somente vendo código e não vendo de fato o que seu 
+código está criando, muitas vezes não é tão animador quanto o frontend.<br />
 
 <strong> O que vamos aprender na trilha de desenvolvimento FrontEnd Web? </strong> <br />
   Criação de sites, componentes convencionais de um site, tudo aquilo que vemos em sites: cabeçalhos, menus, 
