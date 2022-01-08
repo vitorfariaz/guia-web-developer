@@ -37,7 +37,8 @@ A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é 
 <br />
 No menu lateral, tem 10 aulas, essa é a primeira de introdução sobre o tema e explicando de modo genérico como funciona o computador. <br />
 Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
-[Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0/) 
+
+[Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0) 
 
 
 ## Mercado de trabalho
