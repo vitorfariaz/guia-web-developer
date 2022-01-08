@@ -36,8 +36,6 @@ Um robô é uma tecnologia da informação? Qual a diferença entre a robótica 
 Um robô, é técnológico porém, ele não é criado, geralmente, para nos dar informação,
 ele é criado para executar uma tarefa da melhor forma possível. <br />
 
- 
-
 Já um sistema financeiro por exemplo, um aplicativo de banco, ele existe para 
 facilitar o nosso acesso aos "produtos" de um banco, como empréstimo por exemplo,
 porém, esse sistema também guarda nossos dados e gera informações a partir deles e com essas
@@ -61,3 +59,6 @@ os dados que ele coletou. Deu pra entender? <br />
 Então é isso, geralmente empresas maduras, médias, grandes e até pequenas, usam e criam diversos sistemas 
 para resolver um problema e obter o máximo de informação possível, oferecendo algo pra nós em troca, resolvendo algum problema ou facilitando algo...
 E com essas informações certas, elas podem ser muito mais úteis para a sociedade, gerar mais lucro, ser mais eficiente... 
+
+<br />
+[Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
