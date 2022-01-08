@@ -31,6 +31,8 @@ Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitua
 
 Você vai se sentir no colégio de novo, só que no melhor colégio do mundo, aprendendo algo fascinante. <br />
 A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é tecnologia, pra que serve, e o que podemos fazer com ela. <br />
+
+<br />
 No menu lateral, tem 10 aulas, essa é a primeira de introdução sobre o tema e explicando de modo genérico como funciona o computador. <br />
 Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0/) 
