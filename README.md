@@ -24,7 +24,7 @@ Não tem nada mirabolante mesmo, são várias dicas, compilados de conhecimento,
 ## O que é TI
 
 Bom, é bem importante frisar o que é TI antes de mais nada, então esse é um conteúdo bem básico com alguns fundamentos. <br />
-[Clique aqui para acessar](#o-que-e-ti.md)
+[Clique aqui para acessar](!o-que-e-ti.md)
 
 ## Introdução a computação
 Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitual, que tal dar uma assistida em uma aula de Harvard explicando como funciona um computador em 1Hr e 40 minutos? Sim, a melhor universidade do mundo, ti dando uma aula de graça em português E sem truque nenhum. O que acho fantástico nessa aula é que o professor consegue explicar algo SUPER complexo como o computador, de forma simples e lúdica. <br />
