@@ -1,5 +1,5 @@
 # Guia para se tornar uma pessoa Desenvolvedora de sites (Desenvolvimento Frontend Web)
-A ideia dessa página é ser um guia prático com conceitos e cursos técnicos para uma pessoa saber o que precisa para ser um desenvolvedor web um trabalho.
+A ideia dessa página é ser um guia prático com conceitos e cursos técnicos gratuitos para uma pessoa saber o que precisa para se tornar um desenvolvedor Frontend Web.
 
 ## Introdução
 Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabalha com isso faz, certo?! <br />
