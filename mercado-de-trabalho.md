@@ -68,3 +68,6 @@ A forma que as empresas avaliam o seu conhecimento geralmente é parecida e pode
 Esse processo é igual tanto para quem está iniciando na área(estágio) e vai ganhar R$1.500, quanto para quem já é experiente e está participando 
 de uma vaga sênior para ganhar R$14.000. Claro que os critérios de avaliação mudam, mas eles sempre vão tentar mapear aquilo que você conhece e 
 o teu perfil como pessoa, se é interessado, esforçado, agressivo, sabe se comunicar, expressar ideias, etc.. 
+<br />
+
+[Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
