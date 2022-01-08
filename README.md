@@ -37,7 +37,8 @@ A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é 
 <br />
 No menu lateral onde tem "Week 0-10", tem 11 aulas, a primeira aula(Week 0) é a introdução sobre ciência da computação e explica de modo genérico como funciona o computador. Fala também sobre outros termos que no futuro vai ser interessante você já saber do que se trata, mas não precisa anotar nada por enquanto. <br />
 Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
-[Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0) 
+
+[Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
 
 ## Mercado de trabalho
