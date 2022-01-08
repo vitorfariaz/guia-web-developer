@@ -1,4 +1,4 @@
-# Guia para se tornar uma pessoa Desenvolvedora Web
+# Guia para se tornar uma pessoa Desenvolvedora de sites (Desenvolvimento Frontend Web)
 A ideia dessa página é ser um guia prático com conceitos e cursos técnicos para uma pessoa saber o que precisa para ser um desenvolvedor web um trabalho.
 
 ## Introdução
@@ -40,7 +40,6 @@ Agora que você entendeu como um computador funciona, o que é um algoritmo, acr
 Pense nas possibilidades que são possíveis através da tecnologia. <br />
 Bom, agora que você sabe o que é TI conceitualmente, teve uma breve introdução sobre computação, vou falar um pouco mais sobre MERCADO DE TRABALHO<br />
 [Clique aqui para acessar](#mercado-de-trabalho.md)
-
 
 ## Tipos de desenvolvedores
 Agora depois de entender um pouco mais sobre o mercado de trabalho, computador, TI, vou explicar quais são os tipos de desenvolvedores
