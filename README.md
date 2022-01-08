@@ -5,7 +5,7 @@ A ideia dessa página é ser um guia prático com conceitos e cursos técnicos p
 Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabalha com isso faz, certo?! <br />
 Isso é um pouco estranho não? <br />
 
-Então, eu criei esse material que, antes de despejar um monte de cursos técnicos, explicar sobre o contexto geral da área de tecnologia, separado por tópicos, a ideia é que você consuma o conteúdo na ordem dos tópicos, que são:
+Então, eu criei esse material que, antes de despejar um monte de cursos técnicos, explica sobre o contexto geral da área de tecnologia, separado por tópicos, a ideia é que você consuma o conteúdo na ordem dos tópicos, que são:
  - O que é TI(por alguém que trabalha nela há mais de 5 anos) (5Min)
  - Introdução a computação (1Hr e 30min)
  - Mercado de trabalho(quantidade de empregos, quais cargos, o que fazem, quanto ganham, etc..) 
