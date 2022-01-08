@@ -41,9 +41,11 @@ Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(
 ## Mercado de trabalho
 Agora que você entendeu como um computador funciona, o que é um algoritmo, acredito que sua cabeça deva estar explodindo, se acalma, é só o começo. E não precisa querer anotar tudo e gravar, ainda não é preciso e caso queira revisitar algo, esse material vai ficar disponível para sempre. Fique deslumbrando sobre esse conhecimento sem se preocupar, logo ali na frente nós iremos rever esses conceitos. <br />
 Pense nas possibilidades que são possíveis através da tecnologia. <br />
-Bom, agora que você sabe o que é TI conceitualmente, teve uma breve introdução sobre computação, vou falar um pouco mais sobre MERCADO DE TRABALHO,
- [clique aqui](#mercado-de-trabalho.md) para acessar
+Bom, agora que você sabe o que é TI conceitualmente, teve uma breve introdução sobre computação, vou falar um pouco mais sobre MERCADO DE TRABALHO<br />
+[Clique aqui para acessar](#mercado-de-trabalho.md)
 
 
 ## Tipos de desenvolvedores
-
+Agora depois de entender um pouco mais sobre o mercado de trabalho, computador, TI, vou explicar quais são os tipos de desenvolvedores
+e por que acredito que o Desenvolvimento de Sites (Desenvolviment FrontEnd Web) é minha indicação e falarei também um pouco mais sobre o que são esses termos todos.<br />
+[Clique aqui para acessar](#tipos-de-desenvolvedores.md)
