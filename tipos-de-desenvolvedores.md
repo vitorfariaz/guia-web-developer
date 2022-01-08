@@ -108,7 +108,7 @@ tenha mais demanda.  <br />
 Terão diversos conhecimentos que vocês irão aprender que serão muito úteis caso vocês queiram "mudar" de trilha no futuro.
 Então não se desesperem achando que escolheram a trilha errada. <br />
 
-<strong>O que vamos aprender na trilha de desenvolvimento FrontEnd Web?<strong /> <br />
+<strong> O que vamos aprender na trilha de desenvolvimento FrontEnd Web? </strong> <br />
   Criação de sites, componentes convencionais de um site, tudo aquilo que vemos em sites: cabeçalhos, menus, 
   rodapés, botões, caixa de diálogo, campos de texto, colocar imagens no site, etc... Algumas interações simples nesses 
   componentes como: cores, estilização dos componentes, etc.. <br />
@@ -116,6 +116,6 @@ Então não se desesperem achando que escolheram a trilha errada. <br />
 Basicamente você vai aprender a construir aquilo que você vê quando acessa sites tipo: blog, e-commerce, rede social(sem a parte de
   mensagem em tempo real), site com gestão interna de empresas, etc.. <br />
 
-<strong>O que não vamos aprender dentro do mundo desenvolvimento FrontEnd Web?<strong /> <br />
+<strong> O que não vamos aprender dentro do mundo desenvolvimento FrontEnd Web? </strong> <br />
   Reconhecimento e identificação de imagem ou som, jogos 3D, mensagens entre dispositivos em tempo real(chat online),
   Inteligência artificial, machine learning, big data...  
