@@ -57,21 +57,8 @@ Já vou adiantando, não adianta só assistir os cursos e não praticar. É fund
 
 Você pode ir praticando a cada aula, geralmente os cursos deixam alguns exercícios, e no final da aula vou passar um exercício também, que exigirá todo o conhecimento adquirido no curso. Então você pode reassistir as aulas caso no exercício peça algo que você não se lembre como fazer. Os cursos servem também como material prático, um "livro" que você pode consultar quando não se lembrar de como fazer algo. <br />
 
-[Clique aqui para acessar os Cursos](cursos-desenvolvimento-web)
+[Clique aqui para acessar os Cursos](cursos-desenvolvimento-web.md)
 
 ## LINKEDIN  
 
 Nesse momento do curso vamos fazer o seu Linkedin de forma profissional para que fique fácil de empresas de localizarem, e até mesmo você localizar as empresas que estão procurando pessoas como você. 
-
-
-### GITHUB 
-
-GitHub é um site de armazenamento e gestão de código fonte. É através dessa ferramenta que as empresas atualizam os códigos fontes de seus sistemas.  
-
-Você irá disponibilizar seus projetos que fez até aqui nessa ferramenta e irá colocar o link do seu Github no currículo e Linkedin para que os avaliadores vejam seus projetos, servirá como seu portifólio. 
-
-
-### PROCESSO DE DESENVOLVIMENTO(ágil, papel dos outros profissionais.) 
-
-Talvez em algum momento você se pergunte: tá, mas como é feito o processo todo? Como assim outra pessoa vai fazer o desenho da tela e eu vou criar o código depois? O processo de idealização até a construção e colocar o produto "no ar" como é? Quantas pessoas participam do processo como um todo? 
-
