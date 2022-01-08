@@ -3,7 +3,7 @@ Nesse curso você irá aprender sobre lógica e algoritmos. Isso é fundamental 
 É basicamente sobre como pensar de forma racional para resolver um problema específico. Entender isso e ter esse racional antes mesmo de aprender 
 coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próximos conteúdos mais complexos. <br />
 
-7 Horas de conteúdo(mais ou menos) 
+7 Horas de conteúdo(mais ou menos) <br />
 [Clique aqui para acessar](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
 
 EXERCÍCIOS
@@ -21,7 +21,7 @@ fundamentais/cruciais do desenvolvimento de sites, então caso queira repetir um
 Com a prática você vai dominando e se lembrando das coisas. Por isso é extremamente importante você praticar mais do que somente estudar.
 Se você só estuda e não faz exercício, você não vai evoluir. <br />
 
-9 Horas de conteúdo(mais ou menos) 
+9 Horas de conteúdo(mais ou menos) <br />
 [Clique aqui para acessar](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo)
 
 EXERCÍCIOS
@@ -42,7 +42,7 @@ modificada e/ou seja chamada uma função do "backend" ou diversas outras possib
 enorme. Existe diversos Games que são criados somente com JavaScript, HTML e CSS. Isso é a base fundamental do desenvolvimento Web, é extremamente 
 importante você conhecer esses conceitos. Pratique, faça os exercícios junto com o professor do curso. <br />
 
-9 Horas de conteúdo(mais ou menos) 
+9 Horas de conteúdo(mais ou menos) <br />
 [Clique aqui para acessar](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1)
 
 EXERCÍCIOS
@@ -62,12 +62,24 @@ diversos componentes, além de importar coisas prontas de outras bibliotecas, o 
 Hoje, essa biblioteca é uma das mais utilizadas no mundo para o desenvolvimento de sites. Do facebook até sites pequenos usam essa biblioteca de 
 desenvolvimento. <br />
 
-Introdução React - 17min de conteúdo
+Introdução React - 17min de conteúdo <br />
 [Clique aqui para acessar](https://www.youtube.com/watch?v=aJR7f45dBNs&ab_channel=FilipeDeschamps)
 
-Curso React - 6Horas de conteúdo
+Curso React - 6Horas de conteúdo <br />
 [Clique aqui para acessar](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&ab_channel=MatheusBattisti-HoradeCodar)
 
 
 ### GITHUB
 
+Já parou para pensar como as empresas atualizam o código fonte dos seus sistemas? Imagina vários desenvolvedores mexendo no mesmo código fonte de um site? 😧 <br />
+GitHub é o site de armazenamento e gestão de código fonte. É através dessa ferramenta que as empresas fazem a gestão dos códigos fontes de seus sistemas. <br /> 
+Ela fornece diversas ferramentas de versionamento de código para que vários desenvolvedores consigam editar diversos arquivos fontes. <br />
+Você irá disponibilizar seus projetos que fez até aqui nessa ferramenta e irá colocar o link do seu Github no currículo e Linkedin para que os avaliadores vejam seus projetos, servirá como seu portifólio. <br />
+
+ADICIONAR CURSO
+
+### PROCESSO DE DESENVOLVIMENTO ÁGIL
+Talvez em algum momento você se pergunte: tá, mas como é feito o processo todo? Como assim outra pessoa vai fazer o desenho da tela e eu vou criar o 
+código depois? O processo de idealização até a construção e colocar o produto "no ar" como é? Quantas pessoas participam do processo como um todo? <BR />
+
+ADICIONAR CURSO
