@@ -7,7 +7,7 @@ Isso é um pouco estranho não? <br />
 
 Então, eu criei esse material que, antes de despejar um monte de cursos técnicos, explica sobre o contexto geral da área de tecnologia, separado por tópicos, a ideia é que você consuma o conteúdo na ordem dos tópicos, que são:
  - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](#O-que-é-TI)
- - [Introdução a computação](#introducao-a-computacao)
+ - [Introdução a computação](#introdução-a-computação)
  - [Mercado de trabalho](#mercado-de-trabalho)
  - [Tipos de desenvolvedores](#tipos-de-desenvolvedores)
  - [Cursos gratuitos para desenvolvimento de sites](#cursos-para-desenvolvimento-de-sites)
