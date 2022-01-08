@@ -59,6 +59,6 @@ os dados que ele coletou. Deu pra entender? <br />
 Então é isso, geralmente empresas maduras, médias, grandes e até pequenas, usam e criam diversos sistemas 
 para resolver um problema e obter o máximo de informação possível, oferecendo algo pra nós em troca, resolvendo algum problema ou facilitando algo...
 E com essas informações certas, elas podem ser muito mais úteis para a sociedade, gerar mais lucro, ser mais eficiente... 
-
 <br />
+
 [Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
