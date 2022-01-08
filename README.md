@@ -6,11 +6,11 @@ Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabal
 Isso é um pouco estranho não? <br />
 
 Então, eu criei esse material que, antes de despejar um monte de cursos técnicos, explica sobre o contexto geral da área de tecnologia, separado por tópicos, a ideia é que você consuma o conteúdo na ordem dos tópicos, que são:
- - O que é TI(por alguém que trabalha nela há mais de 5 anos) (5Min)
- - Introdução a computação (1Hr e 30min)
- - Mercado de trabalho(quantidade de empregos, quais cargos, o que fazem, quanto ganham, etc..) 
- - Tipos de desenvolvedores
- - Indicação dos cursos técnicos (Lógica, ferramentas e tecnologias para desenvolvimento de Sites)
+ - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](#O-que-e-TI)
+ - [Introdução a computação](#introducao-a-computacao)
+ - [Mercado de trabalho](#mercado-de-trabalho)
+ - [Tipos de desenvolvedores](#tipos-de-desenvolvedores)
+ - [Cursos gratuitos para desenvolvimento de sites](#cursos-para-desenvolvimento-de-sites)
  - A FAZER <s>Dicas para criação do teu currículo</s>
  - A FAZER <s>Dicas de onde encontrar e se candidatar a estágios/empregos</s>
  - A FAZER <s>Dicas sobre como te preparar para as vagas e atender os principais requisitos</s>
@@ -47,7 +47,7 @@ e por que acredito que o Desenvolvimento de Sites (Desenvolviment FrontEnd Web) 
 [Clique aqui para acessar](tipos-de-desenvolvedores.md)
 
 
-## Cursos
+## Cursos para desenvolvimento de Sites
 Você já deve estar ansioso para que eu mande de uma vez os cursos pra aprender logo, né?! Mas pare e reflita um pouco, agora você entendeu o
 que você irá desenvolver, e qual parte dessa construção você irá se envolver e qual outras pessoas irão fazer pra você: a parte visual do site e chamar funções do "backend" geralmente você que irá construir. <br />
 
