@@ -25,19 +25,17 @@ Não tem nada mirabolante mesmo, são várias dicas, compilados de conhecimento,
 ## O que é TI
 
 Bom, é bem importante frisar o que é TI antes de mais nada, então esse é um conteúdo bem básico com alguns fundamentos. <br />
-Para acessar, [clique aqui](#o-que-e-ti.md)
+[Clique aqui para acessar](#o-que-e-ti.md)
 
 ## Introdução a computação
 Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitual, que tal dar uma assistida em uma aula de Harvard explicando como funciona um computador em 1Hr e 40 minutos? Sim, a melhor universidade do mundo, ti dando uma aula de graça em português E sem truque nenhum. O que acho fantástico nessa aula é que o professor consegue explicar algo SUPER complexo como o computador, de forma simples e lúdica. <br />
 
 Você vai se sentir no colégio de novo, só que no melhor colégio do mundo, aprendendo algo fascinante. <br />
 A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é tecnologia, pra que serve, e o que podemos fazer com ela. <br />
-
-Para acessar o curso, [clique aqui](https://cs50.harvard.edu/x/2021/weeks/0/) 
 No menu lateral, tem 10 aulas, essa é a primeira de introdução sobre o tema e explicando de modo genérico como funciona o computador. <br />
 Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
+[Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0/) 
 
- 
 ## Mercado de trabalho
 Agora que você entendeu como um computador funciona, o que é um algoritmo, acredito que sua cabeça deva estar explodindo, se acalma, é só o começo. E não precisa querer anotar tudo e gravar, ainda não é preciso e caso queira revisitar algo, esse material vai ficar disponível para sempre. Fique deslumbrando sobre esse conhecimento sem se preocupar, logo ali na frente nós iremos rever esses conceitos. <br />
 Pense nas possibilidades que são possíveis através da tecnologia. <br />
