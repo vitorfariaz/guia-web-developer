@@ -10,8 +10,7 @@ Então, eu criei esse material que, antes de despejar um monte de cursos técnic
  - Introdução a computação (1Hr e 30min)
  - Mercado de trabalho(quantidade de empregos, quais cargos, o que fazem, quanto ganham, etc..) 
  - Tipos de desenvolvedores
- - Por que o Desenvolvimento Web é a melhor pra começar
- - Indicação dos cursos técnicos (Lógica, ferramentas e tecnologias do desenvolvimento Web)
+ - Indicação dos cursos técnicos (Lógica, ferramentas e tecnologias para desenvolvimento de Sites)
  - A FAZER <s>Dicas para criação do teu currículo</s>
  - A FAZER <s>Dicas de onde encontrar e se candidatar a estágios/empregos</s>
  - A FAZER <s>Dicas sobre como te preparar para as vagas e atender os principais requisitos</s>
