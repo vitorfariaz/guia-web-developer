@@ -6,7 +6,7 @@ Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabal
 Isso é um pouco estranho não? <br />
 
 Então, eu criei esse material que, antes de despejar um monte de cursos técnicos, explica sobre o contexto geral da área de tecnologia, separado por tópicos, a ideia é que você consuma o conteúdo na ordem dos tópicos, que são:
- - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](#O-que-e-TI)
+ - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](#O-que-é-TI)
  - [Introdução a computação](#introducao-a-computacao)
  - [Mercado de trabalho](#mercado-de-trabalho)
  - [Tipos de desenvolvedores](#tipos-de-desenvolvedores)
@@ -59,6 +59,19 @@ Você pode ir praticando a cada aula, geralmente os cursos deixam alguns exercí
 
 [Clique aqui para acessar os Cursos](cursos-desenvolvimento-web.md)
 
-## LINKEDIN  
 
-Nesse momento do curso vamos fazer o seu Linkedin de forma profissional para que fique fácil de empresas de localizarem, e até mesmo você localizar as empresas que estão procurando pessoas como você. 
+## Dicas para criação do currículo
+
+A fazer 
+
+## Dicas de onde encontrar e se candidatar a vagas de emprego/estágio
+
+Detalhar pesquisas e criação do perfil no Linkedin para buscar e/ou atrair empresas a oferecerem vagas
+
+A fazer 
+
+## Dicas para entrevistas 
+
+A fazer 
+
+
