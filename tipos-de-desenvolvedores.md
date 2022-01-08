@@ -101,7 +101,7 @@ Ou imaginem que temos que consultar alguma informação do paciente através do 
 o sistema do SUS para verificar alguma informação daquele paciente, isso poderia ser feito pelo Dev backend Também. Só alguns exemplos... <br />
 
 
-## Por que Desenvolvimento Web?
+## Por que Desenvolvimento Frontend Web?
 Aqui na mentoria vamos focar no Desenvolvimento FrontEnd Web. Por que? Hoje, existe mais demanda para desenvolvimento Web que aplicativo,
 pois um site pode ser aberto no celular Android, IOs, na TV, etc... Pois todos essas plataformas possuem o navegador. Então é natural que
 tenha mais demanda.  <br />
