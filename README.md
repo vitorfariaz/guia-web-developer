@@ -34,7 +34,6 @@ Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitua
 Você vai se sentir no colégio de novo, só que no melhor colégio do mundo, aprendendo algo fascinante. <br />
 A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é tecnologia, pra que serve, e o que podemos fazer com ela. <br />
 
-<br />
 No menu lateral onde tem "Week 0-10", tem 11 aulas, a primeira aula(Week 0) é a introdução sobre ciência da computação e explica de modo genérico como funciona o computador. Fala também sobre outros termos que no futuro vai ser interessante você já saber do que se trata, mas não precisa anotar nada por enquanto. <br />
 Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
 
@@ -52,6 +51,7 @@ Bom, agora que você sabe o que é TI conceitualmente, teve uma breve introduç�
 Agora depois de entender um pouco mais sobre o mercado de trabalho, computador, TI, vou explicar quais são os tipos de desenvolvedores
 e por que acredito que o Desenvolvimento de Sites (Desenvolviment FrontEnd Web) é minha indicação e falarei também um pouco mais sobre o que são esses termos todos.<br />
 [Clique aqui para acessar](tipos-de-desenvolvedores.md)
+
 
 ## Cursos para desenvolvimento de Sites
 Você já deve estar ansioso para que eu mande de uma vez os cursos pra aprender logo, né?! Mas pare e reflita um pouco, agora você entendeu o
@@ -71,9 +71,11 @@ Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercí
 
 [Clique aqui para acessar os Cursos](cursos-desenvolvimento-web.md)
 
+
 ## Dicas para criação do currículo
 
 A fazer 
+
 
 ## Dicas de onde encontrar e se candidatar a vagas de emprego/estágio
 
@@ -81,8 +83,7 @@ Detalhar pesquisas e criação do perfil no Linkedin para buscar e/ou atrair emp
 
 A fazer 
 
+
 ## Dicas para entrevistas 
 
 A fazer 
-
-
