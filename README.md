@@ -1,7 +1,7 @@
 # Guia para se tornar uma pessoa Desenvolvedora de sites (Desenvolvimento Frontend Web)
 A ideia dessa página é ser um guia prático com conceitos e cursos técnicos gratuitos para uma pessoa saber o que precisa para se tornar um desenvolvedor Frontend Web. <br />
 
-Em resumo, **você precisa saber desenvolver sites. Nunca se esqueça disso**, as ferramentas, linguagens de programação, bibliotecas de programação, entre vários outros termos que você vai aprender no decorrer dessa jornada, as vezes mais complicam do que ajudam. Por isso é bom lembrar: **tudo que você vai aprender nessa jornada é sobre como desenvolver sites seguindo boas práticas** que são usadas por empresas maduras.
+Em resumo, **você precisa saber desenvolver sites. Nunca se esqueça disso**, as ferramentas, linguagens de programação, bibliotecas de programação, entre vários outros termos que você vai aprender no decorrer dessa jornada são sobre **como desenvolver sites seguindo boas práticas** que são usadas por empresas maduras.
 
 ## Introdução
 Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabalha com isso faz, certo?! <br />
@@ -58,12 +58,13 @@ Você já deve estar ansioso para que eu mande de uma vez os cursos pra aprender
 que você irá desenvolver, e qual parte dessa construção você irá se envolver e qual outras pessoas irão fazer pra você: a parte visual do site e chamar funções do "backend" geralmente você que irá construir. <br />
 
 Dito isso, agora irei passar alguns cursos que contém a parte fundamental de **todo** o desenvolvimento de sites, que é: 
- - **HTML**
- - **CSS**
- - **Javascript**
- - **React**
+ - **HTML**: linguagem de **marcação** de texto responsável por representar efeitos de fonte, cor, gráfico, botões, input de textos, arquivos e hiperlink em páginas da Internet
+ - **CSS**: linguagem de **marcação** responsável por adicionar estilização e animação nos elementos HTML, ajuda a editar, alinhar, remover e trabalhar no espaço entre elementos de uma página da Internet.
+ - **Javascript**: linguagem de **programação** responsável por deixar as páginas da internet, interativas, com ele você consegue criar comportamentos específicos ao interagir com uma página da Internet.
+ - **React**: Biblioteca JavaScript responsável por facilitar a criação e interatividade de páginas da Internet, é uma das bibliotecas mais utilizadas no mundo pra desenvolvimento de sites.
+ - **GitHub**: Sistema responsável pelo versionamento e controle de códigos fontes
 
-Você conhecendo bem cada uma dessas tecnologias, consegue dominar o desenvolvimento de sites e estará pronto pra diversas vagas na área. <br />   
+Você conhecendo bem cada uma dessas tecnologias, conseguirá dominar o desenvolvimento de sites e estará pronto pra diversas vagas na área. <br />   
 
 **Já vou adiantando, não adianta só assistir os cursos e não praticar**. É fundamental/crucial que você pratique, senão você realmente não irá aprender. <br /> 
 
