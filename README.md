@@ -13,7 +13,7 @@ No início é bastante conteúdo, várias coisas passam pela nossa cabeça e nos
 
 Não tem nada mirabolante mesmo, são várias dicas, compilados de conhecimento, indicações de cursos que fui juntando nesses anos de trabalho que pessoas próximas foram me perguntando. <br />
 
-A ideia é que você consuma o conteúdo na ordem dos tópicos abaixo:
+A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado pra cada:
  - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](#O-que-é-TI)(5Min)
  - [Introdução a computação](#introdução-a-computação)(1Hr e 40Min)
  - [Mercado de trabalho](#mercado-de-trabalho)(10Min)
