@@ -57,7 +57,13 @@ e por que acredito que o Desenvolvimento de Sites (Desenvolviment FrontEnd Web) 
 Você já deve estar ansioso para que eu mande de uma vez os cursos pra aprender logo, né?! Mas pare e reflita um pouco, agora você entendeu o
 que você irá desenvolver, e qual parte dessa construção você irá se envolver e qual outras pessoas irão fazer pra você: a parte visual do site e chamar funções do "backend" geralmente você que irá construir. <br />
 
-Dito isso, agora irei passar alguns cursos, nesses cursos contém a parte fundamental de todo o desenvolvimento de sites, que é basicamente HTML, CSS e Javascript. <br />   
+Dito isso, agora irei passar alguns cursos, nesses cursos contém a parte fundamental de **todo** o desenvolvimento de sites, que é: 
+ - **HTML**
+ - **CSS**
+ - **Javascript**
+ - **React**
+
+Você conhecendo bem cada uma dessas tecnologias, consegue dominar o desenvolvimento de sites e estará pronto pra diversas vagas na área. <br />   
 
 **Já vou adiantando, não adianta só assistir os cursos e não praticar**. É fundamental/crucial que você pratique, senão você realmente não irá aprender. <br /> 
 
