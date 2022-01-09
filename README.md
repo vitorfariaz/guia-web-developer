@@ -14,11 +14,11 @@ No início é bastante conteúdo, várias coisas passam pela nossa cabeça e nos
 Não tem nada mirabolante mesmo, são várias dicas, compilados de conhecimento, indicações de cursos que fui juntando nesses anos de trabalho que pessoas próximas foram me perguntando. <br />
 
 A ideia é que você consuma o conteúdo na ordem dos tópicos abaixo:
- - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](#O-que-é-TI)
- - [Introdução a computação](#introdução-a-computação)
- - [Mercado de trabalho](#mercado-de-trabalho)
- - [Tipos de desenvolvedores](#tipos-de-desenvolvedores)
- - [Cursos gratuitos para desenvolvimento de sites](#cursos-para-desenvolvimento-de-sites)
+ - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](#O-que-é-TI)(5Min)
+ - [Introdução a computação](#introdução-a-computação)(1Hr e 40Min)
+ - [Mercado de trabalho](#mercado-de-trabalho)(10Min)
+ - [Tipos de desenvolvedores](#tipos-de-desenvolvedores)(10Min)
+ - [Cursos gratuitos para desenvolvimento de sites](#cursos-para-desenvolvimento-de-sites)(20Hrs +)
  - A FAZER <s>Dicas para criação do teu currículo</s>
  - A FAZER <s>Dicas de onde encontrar e se candidatar a estágios/empregos</s>
  - A FAZER <s>Dicas sobre como te preparar para as vagas e atender os principais requisitos</s>
