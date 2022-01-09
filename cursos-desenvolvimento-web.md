@@ -1,4 +1,4 @@
-### Curso Lógica e algoritmos (7Hrs)
+### Lógica e algoritmos (7Hrs)
 Nesse curso você irá aprender sobre lógica e algoritmos. Isso é fundamental e é "alheio" a tecnologias e a linguagem de programação.
 É basicamente sobre como pensar de forma racional para resolver um problema específico. Entender isso e ter esse racional antes mesmo de aprender 
 coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próximos conteúdos mais complexos. <br />
@@ -10,7 +10,7 @@ EXERCÍCIOS
  - "Lógica" é usada somente na tecnologia e desenvolvimento de sistemas?  
  - Em quais outros lugares a lógica pode ser usada? 
  
-### Curso HTML, CSS (9Hrs)
+### HTML, CSS (9Hrs)
 Nesse curso você irá aprender quase tudo sobre como criar páginas HTML estáticas. Com isso, é possível você criar um site inteiro, 
 então é bastante conteúdo. Porém, é limitado, pois com esse conhecimento, você só conseguirá criar páginas que não se modificam, por exemplo: 
 imagine que você quer que quando seja apertado um botão na sua página HTML, algum elemento ou componente mude de cor ou de lugar(que algo modifique 
@@ -34,11 +34,12 @@ PRIMEIRO EXERCÍCIO PRÁTICO, GUARDE ESSE CÓDIGO POIS SERÁ USADO PARA SEU PORT
  - Alteração: deve ser possível alterar qualquer uma das informações(Pode ser somente uma página, sem a funcionalidade de alterar os dados de fato pois ainda não terão sido salvos) 
  - Pesquisa: deve ser possível consultar por CPF, nome parcial ou completo e doenças. (Pode ser somente a página com os filtros, sem a funcionalidade de trazer de fato os registros pois ainda não terão sido construído) 
 
-### Curso JavaScript (9Hrs)
+### JavaScript (9Hrs)
 Com esse curso, você irá aprender a deixar sua página HTML mais dinâmica, poderá fazer com que quando um botão seja apertado na página, a mesma seja 
 modificada e/ou seja chamada uma função do "backend" ou diversas outras possibilidades. Esse é somente um curso inicial, o potencial do Javascript é
 enorme. Existe diversos Games que são criados somente com JavaScript, HTML e CSS. Isso é a base fundamental do desenvolvimento Web, é extremamente 
 importante você conhecer esses conceitos. Pratique, faça os exercícios junto com o professor do curso. <br />
+
 
 [Clique aqui para acessar](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1)
 
