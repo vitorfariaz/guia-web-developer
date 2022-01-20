@@ -13,8 +13,9 @@ Se você só estuda e não faz exercício, você não vai evoluir. <br />
 EXERCÍCIOS
  - O que é a "linguagem" html? 
  - Qual programa tem a inteligência para interpretar código HTML e transformar isso no que vemos quando acessamos um site? 
- - O que acontece se abrirmos um arquivo com extensão .html com o programa bloco de notas? E o que acontece se abrirmos esse mesmo arquivo .html com o programa googlo Chrome? Por que acontece essa diferença? 
- - O que é a "linguagem" CSS? 
+ - O que acontece se abrirmos um arquivo com extensão .html com o programa bloco de notas? 
+ - O que acontece se abrirmos esse mesmo arquivo .html com o programa google Chrome? Por que acontece essa diferença? 
+ - O que é a "linguagem de marcação" CSS? 
 
 PRIMEIRO EXERCÍCIO PRÁTICO, GUARDE ESSE CÓDIGO POIS SERÁ USADO PARA SEU PORTFÓLIO E CURRÍCULO FUTURAMENTE: 
  - Faça um site de cadastro e consulta de pacientes. É preciso poder criar, alterar e consultar pacientes. (Essa será nosso site inicial que servirá como base prática para os próximos conhecimentos) 
