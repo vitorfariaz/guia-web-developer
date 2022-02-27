@@ -60,7 +60,7 @@ os desenvolvedores precisam entender o projeto e o que deve ser feito e elaborar
 2. Implementação: agora que já temos o entendimento do projeto e os requisitos de negócios e de sistemas levantados, os Desenvolvedores FrontEnd
 Android e Frontend Web vão se basear no protótipo e requisitos para criar o aplicativo Android e o site, fazendo a funcionalidade de cadastro dos pacientes. <br /> 
 Essa funcionalidade precisará salvar as informações do cadastro dos pacientes de forma persistente em algum lugar, para que a  funcionalidade de 
-pesquisa de pacientes funcione depois. "Salvar de forma persistente" significa que as informações do cadastro dos pacientes devam ser salvas em 
+pesquisa de pacientes funcione depois. "Salvar de forma persistente" significa que as informações do cadastro dos pacientes devem ser salvas em 
 "algum lugar" para que possam ser consultadas depois de forma programática(através do sistema). Nós chamamos esse "algum lugar" de banco de dados. <br />
 
 A funcionalidade do Site e do aplicativo Android são iguais, as 2 devem salvar o cadastro do usuário, o que muda é a parte visual, do site e 
@@ -79,7 +79,7 @@ toda a lógica pra se comunicar com um banco de dados e aplicar as regras do ban
 chamar uma mesma "função" que simplesmente salva as informações num banco de dados, e a responsabilidade de tratar os dados, se conectar 
 com o banco de dados fica somente nessa "função", mas tanto o Android quanto o site terão que chamar essa "função" da sua forma... <br />
 
-E é aí que entra o Backend que vou explicar melhor abaixo, mas aqui no "frontEnd", você só irá chamar uma "função" que salva o cadastro 
+E é aí que entra o Backend que vou explicar melhor abaixo, mas aqui no "frontend", você só irá chamar uma "função" que salva o cadastro 
 dos pacientes, por exemplo, em cada plataforma diferente usando linguagem de programação diferentes. <br />
 
 ## Backend 
