@@ -46,7 +46,7 @@ https://www.glassdoor.com.br/Sal%C3%A1rios/porto-alegre-software-engineer-i-sal%
 Claro, as vagas começam a aparecer muito mais pra quem já tem um pouco de experiência trabalhando na área, geralmente são bem menores as vagas pra 
 quem tá iniciando, mas ainda assim tem bastante. <br />
 
-Ti aconselho a entrar no https://www.linkedin.com/, ir no ícone Jobs/trabalhos, e pesquisar por "software engineer", que é um termo genérico 
+Te aconselho a entrar no https://www.linkedin.com/, ir no ícone Jobs/trabalhos, e pesquisar por "software engineer", que é um termo genérico 
 pra programador, e veja quantas vagas tem... Eu pesquisei aqui, e filtrei somente as vagas postadas no último mês e retornou um total de 15Mil vagas pro Brasil. <br /> 
 Pesquisei algumas outras vagas para ter uma comparação sobre o número de vagas, somente pra ter uma noção, usando o mesmo filtro das vagas postadas no 
 último mês, e lembrando que essas outras vagas, estão espalhadas pelo brasil inteiro, provavelmente você não teria acesso a elas como nas de programação: 
