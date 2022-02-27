@@ -3,7 +3,7 @@ Se você pesquisou as vagas como sugeri no material anterior, deve ter lido os t
 Bom, além de diferenciar um sistema pela plataforma, celular(android/IOS), TV, computador, sim tinha esquecido de comentar, além dessa divisão toda, 
 não é UM desenvolvedor Android que irá fazer TODO o desenvolvimento daquele aplicativo sozinho. <br />
 Além de ser papéis diferentes que tem a ideia do aplicativo, o que cria o protótipo das interfaces, ainda no próprio desenvolvimento são pessoas diferentes 
-que  uma pessoa desenvolvem a parte visual do aplicativo, da pessoa que faz as funcionalidades "internas", como salvar algo no banco de dados ou consultar
+que desenvolvem a parte visual do aplicativo, da pessoa que faz as funcionalidades "internas", como salvar algo no banco de dados ou consultar
 informações no banco de dados. E essa divisão, é feita por cargos/papéis diferentes. <br />
 
 Mas aqui vai um resumo das resposnabilidade de alguns tipos de desenvolvedores: <br />
