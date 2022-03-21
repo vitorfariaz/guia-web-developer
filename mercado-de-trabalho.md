@@ -1,3 +1,6 @@
+Agora que você entendeu como um computador funciona, o que é um algoritmo, acredito que sua cabeça deva estar explodindo, se acalma, é só o começo. E não precisa querer anotar tudo e gravar, ainda não é preciso e caso queira revisitar algo, esse material vai ficar disponível para sempre. Fique deslumbrando sobre esse conhecimento sem se preocupar, logo ali na frente nós iremos rever esses conceitos. <br />
+Pense nas possibilidades que são possíveis através da tecnologia. <br />
+
 ## Mercado de trabalho
 Bom, não precisa falar muito, você já sabe que tem muitas vagas nesse mercado, e se eu falar em números não sei se vai ficar tão mais claro, 
 mas vou tentar trazer uma reflexão. <br />
