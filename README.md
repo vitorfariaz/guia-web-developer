@@ -15,37 +15,13 @@ Não tem nada mirabolante mesmo, são várias dicas, compilados de conhecimento,
 
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado pra cada:
  - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
- - [Introdução a computação](#introdução-a-computação)(1Hr e 40Min)
- - [Mercado de trabalho](#mercado-de-trabalho)(10Min)
- - [Tipos de desenvolvedores](#tipos-de-desenvolvedores)(10Min)
+ - [Introdução a computação](intro-computacao.md)(1Hr e 40Min)
+ - [Mercado de trabalho](mercado-de-trabalho.md)(10Min)
+ - [Tipos de desenvolvedores](tipos-de-desenvolvedores.md)(10Min)
  - [Cursos gratuitos para desenvolvimento de sites](#cursos-para-desenvolvimento-de-sites)(20Hrs +)
  - A FAZER <s>Dicas para criação do teu currículo</s>
  - A FAZER <s>Dicas de onde encontrar e se candidatar a estágios/empregos</s>
  - A FAZER <s>Dicas sobre como te preparar para as vagas e atender os principais requisitos</s>
-
-## Introdução a computação
-Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitual, que tal dar uma assistida em uma aula de Harvard explicando como funciona um computador em 1Hr e 40 minutos? Sim, a melhor universidade do mundo dando uma aula de graça em português e sem truque nenhum. O que acho fantástico nessa aula é que o professor consegue explicar algo SUPER complexo como o computador, de forma simples e lúdica. <br />
-
-Você vai se sentir no colégio de novo, só que no melhor colégio do mundo, aprendendo algo fascinante. <br />
-A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é tecnologia, pra que serve e o que podemos fazer com ela. <br />
-
-No menu lateral onde tem "Week 0-10", tem 11 aulas, a primeira aula(Week 0) é a introdução sobre ciência da computação e explica de modo genérico como funciona o computador. Fala também sobre outros termos que no futuro vai ser interessante você já saber do que se trata, mas não precisa anotar nada por enquanto. <br />
-Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
-
-[Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
-
-
-## Mercado de trabalho
-Agora que você entendeu como um computador funciona, o que é um algoritmo, acredito que sua cabeça deva estar explodindo, se acalma, é só o começo. E não precisa querer anotar tudo e gravar, ainda não é preciso e caso queira revisitar algo, esse material vai ficar disponível para sempre. Fique deslumbrando sobre esse conhecimento sem se preocupar, logo ali na frente nós iremos rever esses conceitos. <br />
-Pense nas possibilidades que são possíveis através da tecnologia. <br />
-Bom, agora que você sabe o que é TI conceitualmente, teve uma breve introdução sobre computação, vou falar um pouco mais sobre MERCADO DE TRABALHO <br />
-[Clique aqui para acessar](mercado-de-trabalho.md)
-
-
-## Tipos de desenvolvedores
-Agora depois de entender um pouco mais sobre o mercado de trabalho, computador, TI, vou explicar quais são os tipos de desenvolvedores
-e por que acredito que o Desenvolvimento de Sites (Desenvolviment FrontEnd Web) é minha indicação e falarei também um pouco mais sobre o que são esses termos todos.<br />
-[Clique aqui para acessar](tipos-de-desenvolvedores.md)
 
 
 ## Cursos para desenvolvimento de Sites
