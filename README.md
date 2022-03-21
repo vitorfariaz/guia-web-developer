@@ -55,9 +55,10 @@ e por que acredito que o Desenvolvimento de Sites (Desenvolviment FrontEnd Web) 
 
 ## Cursos para desenvolvimento de Sites
 Você já deve estar ansioso para que eu mande de uma vez os cursos pra aprender logo, né?! Mas pare e reflita um pouco, agora você entendeu o
-que você irá desenvolver, e qual parte dessa construção você irá se envolver e qual outras pessoas irão fazer pra você: a parte visual do site e chamar funções do "backend" geralmente você que irá construir. <br />
+que você irá desenvolver, qual parte dessa construção você irá se envolver e qual outras pessoas irão fazer pra você: a parte visual do site e chamar funções do "backend" geralmente você que irá construir. <br />
 
 Dito isso, agora irei passar alguns cursos que contém a parte fundamental de **todo** o desenvolvimento de sites, que é: 
+ - **Fundamentos da WEB**: Como a internet funciona
  - **HTML**: linguagem de **marcação** de texto responsável por representar efeitos de fonte, cor, gráfico, botões, input de textos, arquivos e hiperlink em páginas da Internet
  - **CSS**: linguagem de **marcação** responsável por adicionar estilização e animação nos elementos HTML, ajuda a editar, alinhar, remover e trabalhar no espaço entre elementos de uma página da Internet.
  - **Javascript**: linguagem de **programação** responsável por deixar as páginas da internet, interativas, com ele você consegue criar comportamentos específicos ao interagir com uma página da Internet.
