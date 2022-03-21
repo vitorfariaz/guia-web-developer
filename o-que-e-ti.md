@@ -1,5 +1,3 @@
-Bom, primeiro vamos explicar o que signifca TI(Técnologia da informação)  
-
 ## O QUE É TECNOLOGIA? 
 Tecnologia é um conjunto de instrumentos, métodos e técnicas para algo, É a aplicação prática do conhecimento científico em diversas áreas de pesquisas. <br />
 
