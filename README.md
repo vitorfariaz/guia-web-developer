@@ -63,7 +63,7 @@ Dito isso, agora irei passar alguns cursos que contém a parte fundamental de **
  - **CSS**: linguagem de **marcação** responsável por adicionar estilização e animação nos elementos HTML, ajuda a editar, alinhar, remover e trabalhar no espaço entre elementos de uma página da Internet.
  - **Javascript**: linguagem de **programação** responsável por deixar as páginas da internet, interativas, com ele você consegue criar comportamentos específicos ao interagir com uma página da Internet.
  - **React**: Biblioteca JavaScript responsável por facilitar a criação e interatividade de páginas da Internet, é uma das bibliotecas mais utilizadas no mundo pra desenvolvimento de sites.
- - **GitHub**: Sistema responsável pelo versionamento e controle de códigos fontes
+ - **Git**: Sistema responsável pelo versionamento e controle de códigos fontes
 
 Você conhecendo bem cada uma dessas tecnologias, conseguirá dominar o desenvolvimento de sites e estará pronto pra diversas vagas na área. <br />   
 
