@@ -1,3 +1,10 @@
+### Fundamentos da WEB
+Nesse material, você vai entender como a internet funciona. Como é trafegado as informações pela rede, o que acontece quando você acessa um site, qual o papel do navegador, o que é HTTP, HTTPS, TLS, SSL, DNS entre outras siglas. <br />
+São bastante conteúdos, mas são só o básico para você se contextualizar e entender por cima os fundamentos básicos. Isso vai ser a base de todo o teu conhecimento.
+
+[Clique aqui para acessar](https://roadmap.sh/guides/what-is-internet)
+
+
 ### HTML, CSS (9Hrs)
 Nesse curso você irá aprender quase tudo sobre como criar páginas HTML estáticas. Com isso, é possível você criar um site inteiro, 
 então é bastante conteúdo. Porém, é limitado, pois com esse conhecimento, você só conseguirá criar páginas que não se modificam, por exemplo: 
