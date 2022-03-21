@@ -1,3 +1,7 @@
+## Tipos de desenvolvedores
+Agora depois de entender um pouco mais sobre o mercado de trabalho, computador, TI, vou explicar quais são os tipos de desenvolvedores
+e por que Desenvolvimento de Sites (Desenvolvimento FrontEnd Web) é minha indicação e falarei também um pouco mais sobre o que são esses termos todos.<br />
+
 Se você pesquisou as vagas como sugeri no material anterior, deve ter lido os termos frontend/backend/web... 
 
 Bom, além de diferenciar um sistema pela plataforma, celular(android/IOS), TV, computador, sim tinha esquecido de comentar, além dessa divisão toda, 
