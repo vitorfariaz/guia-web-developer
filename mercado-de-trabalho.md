@@ -19,7 +19,7 @@ recados e salva alarmes, e que é completamente diferente de um programa pra cel
 o teu score no Serasa. Então, tem muita demanda em diversos sentido, tanto para as mesmas plataformas e nichos específicos, quanto pra nichos comuns. <br /> 
 
 Bom, pra não dizer que não trouxe alguns números, algumas pesquisas indicam que até 2022, irão faltar 408Mil profissionais na área. <br />
-https://canaltech.com.br/carreira/pesquisa-preve-carencia-de-408-mil-profissionais-de-ti-ate-2022-189998/ 
+[Pesquisa indica que faltarão 400Mil profissionais na área de TI até 2022](https://canaltech.com.br/carreira/pesquisa-preve-carencia-de-408-mil-profissionais-de-ti-ate-2022-189998/) 
 
 Então, tem muita vaga... <br />
 Outra coisa que esqueci de comentar, um detalhe pequeno mas que faz muita diferença, é que agora com a pandemia, você não procura mais vaga somente
@@ -41,13 +41,13 @@ Hoje sou Sênior e recebo diversas propostas, toda semana, com salários um pouc
 que a média é real e aplicada no dia a dia. <br />
 
 Abaixo, segue um site em que é possível pesquisar salários por cargo/empresa também, não acredite em mim, faça a pesquisa você mesmo: <br />
-https://www.glassdoor.com.br/Sal%C3%A1rios/porto-alegre-software-engineer-i-sal%C3%A1rio-SRCH_IL.0,12_IM1000_KO13,32.htm?clickSource=searchBtn 
+[Glassdoor salários de engenheiros de software](https://www.glassdoor.com.br/Sal%C3%A1rios/porto-alegre-software-engineer-i-sal%C3%A1rio-SRCH_IL.0,12_IM1000_KO13,32.htm?clickSource=searchBtn)
 
 Claro, as vagas começam a aparecer muito mais pra quem já tem um pouco de experiência trabalhando na área, geralmente são bem menores as vagas pra 
 quem tá iniciando, mas ainda assim tem bastante. <br />
 
-Te aconselho a entrar no https://www.linkedin.com/, ir no ícone Jobs/trabalhos, e pesquisar por "software engineer", que é um termo genérico 
-pra programador, e veja quantas vagas tem... Eu pesquisei aqui, e filtrei somente as vagas postadas no último mês e retornou um total de 15Mil vagas pro Brasil. <br /> 
+Te aconselho a entrar no [LinkedIn](https://www.linkedin.com), ir no ícone Jobs/trabalhos e pesquisar por "software engineer", que é um termo genérico 
+pra programador e veja quantas vagas tem... Eu pesquisei aqui, e filtrei somente as vagas postadas no último mês e retornou um total de 15Mil vagas pro Brasil. <br /> 
 Pesquisei algumas outras vagas para ter uma comparação sobre o número de vagas, somente pra ter uma noção, usando o mesmo filtro das vagas postadas no 
 último mês, e lembrando que essas outras vagas, estão espalhadas pelo brasil inteiro, provavelmente você não teria acesso a elas como nas de programação: 
  - Nutricionista: 600 vagas
