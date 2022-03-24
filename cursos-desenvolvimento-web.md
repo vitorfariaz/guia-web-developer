@@ -99,7 +99,7 @@ GitHub é o site de armazenamento e gestão de código fonte. É através dessa 
 Ela fornece diversas ferramentas de versionamento de código para que vários desenvolvedores consigam editar diversos arquivos fontes. <br />
 Você irá disponibilizar seus projetos que fez até aqui nessa ferramenta e irá colocar o link do seu Github no currículo e Linkedin para que os avaliadores vejam seus projetos, servirá como seu portifólio. <br />
 
-ADICIONAR CURSO
+[Clique aqui para acessar](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo)
 
 
 ### PROCESSO DE DESENVOLVIMENTO ÁGIL
