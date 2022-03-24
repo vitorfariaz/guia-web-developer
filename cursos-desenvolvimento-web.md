@@ -1,8 +1,23 @@
 ### Fundamentos da WEB
 Nesse material, você vai entender como a internet funciona. Como é trafegado as informações pela rede, o que acontece quando você acessa um site, qual o papel do navegador, o que é HTTP, HTTPS, TLS, SSL, DNS entre outras siglas. <br />
-São bastante conteúdos, mas são só o básico para você se contextualizar e entender por cima os fundamentos básicos. Isso vai ser a base de todo o teu conhecimento.
+São bastante conteúdos, mas são só o básico para você se contextualizar e entender por cima os fundamentos básicos. Isso vai ser a base de todo o teu conhecimento. <br />
+
+O site é em inglês, traduza a página a acione as legendas nos vídeos clicando na engrenagem > legendas > traduzir legendas em PT portugal
 
 [Clique aqui para acessar](https://roadmap.sh/guides/what-is-internet)
+
+EXERCÍCIOS:
+ - O que é HTTP? 
+ - O que é HTTPS?
+ - Quando você envia sua senha para para algum site, é exatamente o valor que você inseriu que é trafegado pela rede?
+  Se não, qual é o valor?
+ - O que é TLS?
+ - O que é DNS?
+ - O que é SSL?
+ - O navegador é um interpretador de qual arquivo?
+ - Qual a linguagem que o navegador entende?
+ - O que é a internet?
+ - 
 
 
 ### HTML, CSS (9Hrs)
