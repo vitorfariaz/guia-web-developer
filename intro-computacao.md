@@ -1,4 +1,4 @@
-## Introdução a computação
+## Introdução - Fundamentos da Computação e Internet
 Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitual, você vai entender como funciona um computador e as linguagens de programação. O que acho fantástico nesse mini curso é que o professor consegue explicar algo complexo como o computador, de forma simples e lúdica. <br />
 
 Você vai se sentir no colégio de novo, só que no melhor colégio do mundo, aprendendo algo fascinante. <br />
