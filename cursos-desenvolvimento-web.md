@@ -210,18 +210,19 @@ ADICIONAR CURSO
 ### Fundamentos Computação
  1. Binário, zeros e uns
  2. Bits = binary digits = Binários
- 3. 8
+ 3. 8 possibilidades
 
-valor em binário | valor em decimal  
+Valor em binário | Valor em Decimal  
 ------------- | -------------
-|    000          |     0             |
-| 001             |     1             |
-| 010             |    2              |
-| 011             |    3              |
-| 100             |    4              |
-| 101             |    5              |
-| 110             |    6              |
-| 111             |    7              |
+|    000       |   0      |       
+|    001       |   1      |      
+|    010       |   2      |      
+|    011       |   3      |      
+|    100       |   4      |       
+|    101       |   5      |      
+|    110       |   6      |      
+|    111       |   7      |         
+
 
  5. Por que o computador com pouco recurso ou seja, só guardando energia elétrica(ligado ou desligado) ele consegue guardar e montar informações mais complexas. Dentro do computador existem bilhões de transistores(interruptores) que guardam a energia elétrica ligada ou desligada e com isso, eles conseguem interpretar/processar e manter informações mais complexas, como letras, números, cores, fotos, vídeos, sons, etc...
  6. Os humanos chegaram em um acordo que cada número representa uma letra, caractere, números, etc... Essa tabela de representação se chama ASCII.
