@@ -12,7 +12,7 @@ Assista somente as aulas **Week 0** e **Week 1** <br />
 
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
-**EXERCÍCIOS:**
+**EXERCÍCIOS: fundamentos computação**
  - Qual a linguagem que o  computador entende? Binário, zeros e uns. 0 e 1.
  - Como o computador representa informações? O que ele "guarda"? Bits = binary digits - Binários
  - Se usarmos 3 lampâdas para guardar informação, até quanto poderemos contar? 8
