@@ -4,7 +4,7 @@ Essas dicas são **essenciais** para você montar um plano de estudos bem defini
 ### Siga uma trilha de estudos
 Tenha a trilha de estudos bem mapeada para você não se perder nos estudos. Minha sugestão é a abaixo pois é o que
  irá aprender nos cursos que indico:
- - [ ] Fundamentos da computação
+ - [] Fundamentos da computação
    - Aprendi como funciona o computador
    - Aprendi como funciona as linguagens de programação
    - Aprendi como criar um programa de computador básico
