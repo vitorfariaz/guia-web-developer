@@ -8,7 +8,7 @@ No menu lateral onde tem "Week 0-10", tem 11 aulas, asista as aulas **Week 0** e
 Fala também sobre outros termos que no futuro vai ser interessante você já saber do que se trata. <br />
 Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
 
-Assista somente as aulas **0, 1** <br />
+Assista somente as aulas **Week 0** e **Week 1** <br />
 
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
