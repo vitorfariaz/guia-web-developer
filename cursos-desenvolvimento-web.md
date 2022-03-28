@@ -12,7 +12,7 @@ Assista somente as aulas **Week 0** e **Week 1** <br />
 
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
-EXERCÍCIOS:
+**EXERCÍCIOS:**
  - Qual a linguagem que o  computador entende? Binário, zeros e uns. 0 e 1.
  - Como o computador representa informações? O que ele "guarda"? Bits = binary digits - Binários
  - Se usarmos 3 lampâdas para guardar informação, até quanto poderemos contar? 8
@@ -43,7 +43,7 @@ Assista somente a aula **Week 8**, acione as legendas no vídeo clicando nas leg
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
 
-EXERCÍCIOS:
+**EXERCÍCIOS:**
 
  - Qual a linguagem que um computador se comunica com outro? a linguagem da internet? TCP/IP Transmission Control Protocol / Internet Protocol. Essa é a forma como todos os humanos concordaram que os computadores iriam se comunicar. Como enviar cartas no correio, a carta é um pacote de informação e na carta, você precisa identificar o endereço de origem e destino, no computador esse endereço é o endereço da sua máquina e o endereço destino, conhecido como IP
  - Como os computadores padronizaram o endereço de cada um dos computadores? Através do endereço IP
@@ -79,7 +79,7 @@ Nesse material, você vai reforçar os mesmos conceitos de outras formas para pe
 
 [Clique aqui para acessar](https://roadmap.sh/guides/what-is-internet)
 
-EXERCÍCIOS:
+**EXERCÍCIOS:**
  - O que é HTTP? 
  - O que é HTTPS?
  - Quando você envia sua senha para para algum site, é exatamente o valor que você inseriu que é trafegado pela rede?
@@ -118,7 +118,7 @@ Se você só estuda e não faz exercício, você não vai evoluir. <br />
 
 [Clique aqui para acessar](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo)
 
-EXERCÍCIOS
+**EXERCÍCIOS**
  - O que é a "linguagem" html? 
  - Qual programa tem a inteligência para interpretar código HTML e transformar isso no que vemos quando acessamos um site? 
  - O que acontece se abrirmos um arquivo com extensão .html com o programa bloco de notas? 
@@ -139,7 +139,7 @@ coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próx
 
 [Clique aqui para acessar](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
 
-EXERCÍCIOS
+**EXERCÍCIOS**
  - O que é um algoritmo? 
  - "Lógica" é usada somente na tecnologia e desenvolvimento de sistemas?  
  - Em quais outros lugares a lógica pode ser usada? 
@@ -153,7 +153,7 @@ importante você conhecer esses conceitos. Pratique, faça os exercícios junto 
 
 [Clique aqui para acessar](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1)
 
-EXERCÍCIOS
+**EXERCÍCIOS**
  - Crie a parte do "backend" do cadastro de pacientes, faça com que salve em memória os dados dos pacientes  
  - Crie a parte do "backend" da funcionalidade de alteração das informações do paciente. 
  - Crie a parte do "backend" da funcionalidade de pesquisa dos pacientes, possibilitando a pesquisa por CPF, nome parcial ou completo e doenças.  
