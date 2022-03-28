@@ -212,7 +212,8 @@ ADICIONAR CURSO
  2. Bits = binary digits = Binários
  3. 8
 
-|valor em binário | valor em decimal  | 
+valor em binário | valor em decimal  
+------------- | -------------
 |    000          |     0             |
 | 001             |     1             |
 | 010             |    2              |
