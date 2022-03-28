@@ -13,22 +13,23 @@ Assista somente as aulas **Week 0** e **Week 1** <br />
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
 **EXERCÍCIOS: fundamentos computação**
- - Qual a linguagem que o  computador entende? Binário, zeros e uns. 0 e 1.
- - Como o computador representa informações? O que ele "guarda"? Bits = binary digits - Binários
- - Se usarmos 3 lampâdas para guardar informação, até quanto poderemos contar? 8
- - Por que isso é importante? pq o computador com pouco recurso ou seja, só guardando energia elétrica(ligado ou desligado) ele consegue guardar e montar informações mais complexas. Dentro do computador existem bilhões de transistores(interruptores) que guardam a energia elétrica ligada ou desligada e com isso, eles processam e mantém informações mais complexas, como letras, números, cores, fotos, vídeos, sons, etc...
- - Se o computador só entende binário(1 e 0), como ele guarda letras do alfabeto ou qualquer caractere como exclamação, números, etc? Os humanos chegaram num acordo que cada número representa uma letra, caractere, números, etc... Essa tabela de representação se chama ASCII.
- - O que é 1 bit? É um termo utilizado para dígito binário ou binary digit em inglês.
- - Quantos símbolos 1 bits podem representar? 2. Pode guardar 0 e 1, Ligado ou desligado, verdadeiro ou falso, isso depende do contexto.
- - Quantos símbolos 8 bits podem representar? 256, pois é 2x2x2x2 x 2x2x2x2 = 256
- - Por que o ASCII é limitado para representar a linguagem humana? Por que as 256 possibilidades do ASCII não são suficientes? Letras de outras linguas como japonês, mandarim, etc... Demandam muito mais que 256 possibilidades.
- - Qual foi a solução para o ASCII? Inventaram o Unicode, que representa todas as linguagens dos humanos. Unicode usa até 16/24/32 bits para representar todas outras linguas, caracteres.
- - Como os computadores representam cores só com binários? RGB, é a quantidade de Red, Green and blue em cada pixel.
- - Como os computadores representam vídeos só com binários? Eles guardam primeiro a informação de que aquele arquivo binário é um vídeo, depois guardam diversas imagens, com vários pixels em cada imagem, dizendo onde está cada pixel, cada ponto RGB da foto, tudo através dos bits. Por isso um vídeo as vezes tem Gigabits de informações, por que são muitos pixels. E existem vários formatos de leitura de vídeos e imagens, como mp4, mov, JPG, PNG, etc... São várias convenções que pessoas chegaram de como armezenar os bits de forma que um computador conseguisse interpretar e apresentar isso.
- - O computador entende a linguagem de programação que nós programadores usamos? Não, só entende 0 e 1
- - O que temos que fazer para ele entender? Transformar o código da linguagem em código binário
- - Qual o nome do processo para transformar o código fonte que os desenvolvedores codificam em código que a máquina entende(Binário)? Compilar
-<br />
+ 1. Qual a linguagem que o  computador entende? 
+ 2. Como o computador representa informações? O que ele "guarda"? 
+ 3. Se usarmos 3 lampâdas para guardar informação, até quanto poderemos contar? 
+ 4. Por que isso é importante?
+ 5. Se o computador só entende binário(1 e 0), como ele guarda letras do alfabeto ou qualquer caractere como exclamação, números, etc? 
+ 6. O que é bit? 
+ 7. Quantos símbolos 1 bits podem representar? 
+ 8. Quantos símbolos 8 bits podem representar? 
+ 9. Por que o ASCII é limitado para representar a linguagem humana?
+ 10. Qual foi a solução para o ASCII?
+ 11. Como os computadores representam cores só com binários?
+ 12. Como os computadores representam vídeos só com binários? 
+ 13. O computador entende a linguagem de programação que nós programadores usamos?
+ 14. O que temos que fazer para ele entender? 
+ 15. Qual o nome do processo para transformar o código fonte que os desenvolvedores codificam em código que a máquina entende(Binário)? 
+
+**Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.**
 
 
 ## Introdução - Fundamentos da Internet
@@ -45,12 +46,12 @@ Assista somente a aula **Week 8**, acione as legendas no vídeo clicando nas leg
 
 **EXERCÍCIOS:**
 
- - Qual a linguagem que um computador se comunica com outro? a linguagem da internet? TCP/IP Transmission Control Protocol / Internet Protocol. Essa é a forma como todos os humanos concordaram que os computadores iriam se comunicar. Como enviar cartas no correio, a carta é um pacote de informação e na carta, você precisa identificar o endereço de origem e destino, no computador esse endereço é o endereço da sua máquina e o endereço destino, conhecido como IP
- - Como os computadores padronizaram o endereço de cada um dos computadores? Através do endereço IP
- - Quando vamos enviar uma informação para o facebook por exemplo, não sabemos qual o IP dele, nós digitamos uma URL(endereço do site). Quem "redireciona" essa chamada para o endereço IP dos servidores do facebook? DNS = Domain Name system = Sistema de nomes de domínio. É um sistema que fica "interceptando" as suas chamadas para redirecionar para o endereço IP correto dos computadores/servidores a partir da URL que você digitou ou qualquer chamada de rede que você fez para outro computador passando um nome de dominio.
- - Quem fornece o serviço de DNS? é o provedor de internet, se você usa Oi, é ela, se usa Vivo é ela, se você está no shopping, é o provedor de internet do shopping.
- - Quando você acessa um site como facebook.com, qual página você está "buscando" do servidor? index.html
- - Como é uma típica requisição HTTP?
+ 1. Qual a linguagem que um computador se comunica com outro? a linguagem da internet? TCP/IP Transmission Control Protocol / Internet Protocol. Essa é a forma como todos os humanos concordaram que os computadores iriam se comunicar. Como enviar cartas no correio, a carta é um pacote de informação e na carta, você precisa identificar o endereço de origem e destino, no computador esse endereço é o endereço da sua máquina e o endereço destino, conhecido como IP
+ 2. Como os computadores padronizaram o endereço de cada um dos computadores? Através do endereço IP
+ 3. Quando vamos enviar uma informação para o facebook por exemplo, não sabemos qual o IP dele, nós digitamos uma URL(endereço do site). Quem "redireciona" essa chamada para o endereço IP dos servidores do facebook? DNS = Domain Name system = Sistema de nomes de domínio. É um sistema que fica "interceptando" as suas chamadas para redirecionar para o endereço IP correto dos computadores/servidores a partir da URL que você digitou ou qualquer chamada de rede que você fez para outro computador passando um nome de dominio.
+ 4. Quem fornece o serviço de DNS? é o provedor de internet, se você usa Oi, é ela, se usa Vivo é ela, se você está no shopping, é o provedor de internet do shopping.
+ 5. Quando você acessa um site como facebook.com, qual página você está "buscando" do servidor? index.html
+ 6. Como é formada uma típica requisição HTTP?
 ```
 GET / HTTP/1.2 
 host: facebook.com
@@ -59,7 +60,7 @@ host: facebook.com
 <br /> O http/1.2 significa a versão da requisição http
 <br /> host é o endereço do servidor que você está buscando a informação
  
-- Como é uma típica resposta de uma requisição HTTP?
+ 7. Como é uma típica **resposta** de uma requisição HTTP que retornou com sucesso?
 ```
 HTTP/1.1 200 OK
 Content-Type: text/html
@@ -69,9 +70,12 @@ Body: ~ arquivo html
 <br /> O 200 significa status da requisição, 200 é uma convenção para informar que a requisição retornou com sucesso.
 <br /> O content-Type significa o tipo do arquivo. Pode ser uma página html, uma foto, um vídeo, etc...
 
- - Quando você visita uma página na internet geralmente é feito somente 1 requisição e retornado somente 1 arquivo? Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
- - Por quais componentes fisícos uma requisição HTTP passa do seu Computador até chegar no servidor destino? PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
- - Faça um desenho da arquitetura da internet da sua casa até um servidor que você acessa.
+ 8. Quando você visita uma página na internet geralmente é feito somente 1 requisição e retornado somente 1 arquivo? Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
+ 9. Por quais componentes fisícos uma requisição HTTP passa do seu Computador até chegar no servidor destino? PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
+ 10. Faça um desenho da arquitetura da internet da sua casa até um servidor que você acessa.
+
+**Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.**
+
 
 ### Reforçando conteúdo sobre fundamentos da internet
 
@@ -90,6 +94,8 @@ Nesse material, você vai reforçar os mesmos conceitos de outras formas para pe
  - O navegador é um interpretador de qual arquivo?
  - Qual a linguagem que o navegador entende?
  - O que é a internet?
+
+**Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.**
 
 
 Algumas definições <br />
@@ -197,3 +203,55 @@ ADICIONAR CURSO
 <br />
 
 [Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
+
+
+## Respostas para os exercícios
+
+### Fundamentos Computação
+ 1. Binário, zeros e uns
+ 2. Bits = binary digits = Binários
+ 3. 8
+ 4. Por que o computador com pouco recurso ou seja, só guardando energia elétrica(ligado ou desligado) ele consegue guardar e montar informações mais complexas. Dentro do computador existem bilhões de transistores(interruptores) que guardam a energia elétrica ligada ou desligada e com isso, eles conseguem interpretar/processar e manter informações mais complexas, como letras, números, cores, fotos, vídeos, sons, etc...
+ 5. Os humanos chegaram em um acordo que cada número representa uma letra, caractere, números, etc... Essa tabela de representação se chama ASCII.
+ 6. É um termo utilizado para dígito binário ou binary digit em inglês.
+ 7. 2. Pode guardar 0 e 1, Ligado ou desligado, verdadeiro ou falso, isso depende do contexto.
+ 8. 256, pois é 2x2x2x2 x 2x2x2x2 = 256
+ 9. Por que as 256 possibilidades do ASCII não são suficientes? Letras de outras linguas como japonês, mandarim, etc... Demandam muito mais que 256 possibilidades.
+ 10. Inventaram o Unicode, que representa todas as linguagens dos humanos. Unicode usa até 16/24/32 bits para representar todas outras linguas, caracteres.
+ 11. RGB, é a quantidade de Red, Green and blue em cada pixel.
+ 12. Eles guardam primeiro a informação de que aquele arquivo binário é um vídeo, depois guardam diversas imagens, com vários pixels em cada imagem, dizendo onde está cada pixel, cada ponto RGB da foto, tudo através dos bits. Por isso um vídeo as vezes tem Gigabits de informações, por que são muitos pixels. E existem vários formatos de leitura de vídeos e imagens, como mp4, mov, JPG, PNG, etc... São várias convenções que pessoas chegaram de como armezenar os bits de forma que um computador conseguisse interpretar e apresentar isso.
+ 13. Não, só entende 0 e 1
+ 14. Transformar o código da linguagem em código binário
+ 15.  Compilar
+<br />
+
+
+### Fundamentos da Internet
+ 1. TCP/IP Transmission Control Protocol / Internet Protocol. Essa é a forma como todos os humanos concordaram que os computadores iriam se comunicar. Podemos relacionar isso com enviar cartas no correio, a carta é um pacote de informação e na carta, você precisa identificar o endereço de origem e destino, no computador esse endereço é o endereço da sua máquina e o endereço destino, conhecidos como IP
+ 2. Através do endereço IP
+ 3. DNS = Domain Name system = Sistema de nomes de domínio. É um sistema que fica "interceptando" as suas chamadas para redirecionar para o endereço IP correto dos computadores/servidores a partir da URL que você digitou ou qualquer chamada de rede que você fez para outro computador passando um nome de dominio.
+ 4. É o provedor de internet, se você usa Oi, é ela, se usa Vivo é ela, se você está no shopping, é o provedor de internet do shopping.
+ 5. index.html
+ 6. Típica requisição HTTP?
+```
+GET / HTTP/1.2 
+host: facebook.com
+```
+<br /> O GET significa que você está "buscando" uma informação
+<br /> O http/1.2 significa a versão da requisição http
+<br /> host é o endereço do servidor que você está buscando a informação
+ 
+ 7. Típica resposta com sucesso abaixo
+```
+HTTP/1.1 200 OK
+Content-Type: text/html
+Body: ~ arquivo html
+
+```
+<br /> O 200 significa status da requisição, 200 é uma convenção para informar que a requisição retornou com sucesso.
+<br /> O content-Type significa o tipo do arquivo. Pode ser uma página html, uma foto, um vídeo, etc...
+
+ 8. Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
+ 9. PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
+ 10. 
+
