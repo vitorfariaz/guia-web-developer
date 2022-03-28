@@ -91,3 +91,12 @@ Para tirar prints basta apertar a tecla **prtsc** ou **print screen** do seu com
 Faça os resumos não para você, mas como se você estivesse que explicar o que aprendeu em cada aula para uma **criança de 12 anos**. Quando você tenta simplificar algo complexo para ensinar alguém, você ativa outra parte do cerébro bem diferente da parte que você usou quando estava aprendendo. Fazendo isso você irá GRAVAR e APRENDER BEM MELHOR o conteúdo que acabou de absorver, além de criar um material resumido para você consumir futuramente. <br />
 
 Caso você não se adapte com os aplicativos de anotações que sugeri, use um caderno ou bloco de anotações de sua preferência, mas anotar e criar resumos é ESSENCIAL para o aprendizado.
+
+
+## Resumo das dicas
+ - Siga uma **trilha de estudos** e deixe **visível** para você acompanhar o **progresso**
+ - Crie um **cronograma** de estudos com **horários**
+ - Use alguma técnica de **concentração**
+ - Faça **resumos** de todas do conteúdo como se tivesse que ensinar para uma criança
+
+
