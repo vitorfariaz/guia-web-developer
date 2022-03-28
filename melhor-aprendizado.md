@@ -47,7 +47,7 @@ Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma va
  - [ ] Criar / Atualizar o LinkedIn
    - [ ] Preenchido com O QUE consigo fazer através da tecnologia
    - [ ] 200 contatos de Recutradores / Desenvolvedores
-   - [ ] Seguindo mais de 50 empresas na área de TI no Brasil(se quiser pode me pedir indicações ou olhar (meu perfil no linkedin)[https://www.linkedin.com/in/vitor-farias-a60760121/] e seguir as mesmas empresas que eu)
+   - [ ] Seguindo mais de 50 empresas na área de TI no Brasil(se quiser pode me pedir indicações ou olhar [meu perfil no linkedin](https://www.linkedin.com/in/vitor-farias-a60760121/) e seguir as mesmas empresas que eu)
    - [ ] Preenchido com POR QUE eu mereço uma oportunidade
    - [ ] Preenchido com POR QUE uma empresa deve me contratar
  - [ ] Achar vagas de estágio ou programas de diversidade
