@@ -49,8 +49,27 @@ EXERCÍCIOS:
  - Como os computadores padronizaram o endereço de cada um dos computadores? Através do endereço IP
  - Quando vamos enviar uma informação para o facebook por exemplo, não sabemos qual o IP dele, nós digitamos uma URL(endereço do site). Quem "redireciona" essa chamada para o endereço IP dos servidores do facebook? DNS = Domain Name system = Sistema de nomes de domínio. É um sistema que fica "interceptando" as suas chamadas para redirecionar para o endereço IP correto dos computadores/servidores a partir da URL que você digitou ou qualquer chamada de rede que você fez para outro computador passando um nome de dominio.
  - Quem fornece o serviço de DNS? é o provedor de internet, se você usa Oi, é ela, se usa Vivo é ela, se você está no shopping, é o provedor de internet do shopping.
+ - Quando você acessa um site como facebook.com, qual página você está "buscando" do servidor? index.html
+ - Como é uma típica requisição HTTP?
+```
+GET / HTTP/1.2 
+host: facebook.com
+```
+<br /> O GET significa que você está "buscando" uma informação
+<br /> O http/1.2 significa a versão da requisição http
+<br /> host é o endereço do servidor que você está buscando a informação
+ 
+- Como é uma típica resposta de uma requisição HTTP?
+```
+HTTP/1.1 200 OK
+Content-Type: text/html
+Body: ~ arquivo html
 
+```
+<br /> O 200 significa status da requisição, 200 é uma convenção para informar que a requisição retornou com sucesso.
+<br /> O content-Type significa o tipo do arquivo. Pode ser uma página html, uma foto, um vídeo, etc...
 
+ - Quando você visita uma página na internet geralmente é feito somente 1 requisição e retornado somente 1 arquivo? Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
 
 
 ### Reforçando conteúdo sobre fundamentos da internet
