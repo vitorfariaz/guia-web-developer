@@ -253,5 +253,5 @@ Body: ~ arquivo html
 
  8. Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
  9. PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
- 10. 
+ 10. [Verifique a imagem](arquitetura-internet.png)
 
