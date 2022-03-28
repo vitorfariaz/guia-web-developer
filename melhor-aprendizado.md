@@ -1,32 +1,58 @@
 ## Dicas para melhor Aprendizado e Disciplina
-Essas dicas são **essenciais** para você montar um plano de estudos bem definido para que você consiga atingir seus objetivos Pessoais e Profissionais.
+Essas dicas são **essenciais** para  que vocêconsiga atingir seus objetivos Pessoais e Profissionais. <br />
+Você pode adicionar alguns pontos que achar necessário ou fazer alguma leve alteração, mas eu indico que faça **ao menos** o que estão nessas dicas.
 
 ### Siga uma trilha de estudos
-Tenha a trilha de estudos bem mapeada para você não se perder nos estudos. Minha sugestão é a abaixo pois é o que
- irá aprender nos cursos que indico:
+Ter uma trilha de estudos bem mapeada serve para você
+ - Não se perder
+ - Criar metas e objetivos pequenos
+ - Ter visão clara do que você deve fazer
+
+Essa trilha de estudos que indico aqui abaixo serve **perfeitamente** para quem deseja se tornar um desenvolvedor de site(desenvolvedor frontend) porém o conteúdo é 80% reaproveitável para caso você queira seguir outros caminhos como, cientista de dados, desenvolvedor backend, etc.. <br />
+
+Segue abaixo minha sugestão de trilha de estudos:
  - [ ] Fundamentos da computação
-   - Aprendi como funciona o computador
-   - Aprendi como funciona as linguagens de programação
-   - Aprendi como criar um programa de computador básico
-   - Aprendi para que serve os algoritmos
-   - Aprendi como criar algoritmos simples
+   - [ ] Aprendi como funciona o computador
+   - [ ] Aprendi como funciona as linguagens de programação
+   - [ ] Aprendi como criar um programa de computador básico
+   - [ ] Aprendi para que serve os algoritmos
+   - [ ] Aprendi a como criar algoritmos simples
  - [ ] Fundamentos da internet
-   - Aprendi como funciona a internet
-   - Aprendi como funciona o navegador
-   - Aprendi como é trafegado informações pela internet
-   - Aprendi como é criado um site e o que acontece quando alguém acessa ele   
+   - [ ] Aprendi o que é a internet
+   - [ ] Aprendi como funciona a internet
+   - [ ] Aprendi como funciona o navegador
+   - [ ] Aprendi como é trafegado informações pela internet
+   - [ ] Aprendi como é criado um site e o que acontece quando alguém acessamos ele   
  - [ ] HTML e CSS
-   - Aprendi criar uma página HTML
-   - Aprendi a deixar uma página HTML estilosa com CSS
-   - Aprendi a criar todos os componentes de um site: botões, campos de texto, cabeçalho, rodapé, menus, imagens, etc..
+   - [ ] Aprendi a criar uma página HTML
+   - [ ] Aprendi a deixar uma página HTML estilosa com CSS
+   - [ ] Aprendi a criar todos os componentes de um site como: botões, campos de texto, cabeçalho, rodapé, menus, imagens, etc..
+ - [ ] Alroritmos
+   - [ ]  Aprendi a criar variáveis
+   - [ ]  Aprendi o que são métodos/funções e parâmetros
+   - [ ]  Aprendi como fazer Loops
+   - [ ]  Aprendi o que são condicionais e expressões booleanas
+   - [ ]  Aprendi sobre estrutura dados: listas, mapas, objetos
  - [ ] Javascript
-   - Aprendi a deixar uma página HTML interativa
+   - [ ] Aprendi a realizar alterações em elementos HTML via javascript
  - [ ] React
-   - Aprendi a criar um site usando um framework de desenvolvimento
+   - [ ] Aprendi a criar um site usando um framework de desenvolvimento
  - [ ] Git
-   - Aprendi a hospedar o código fonte do meu site na internet
-   - Aprendi a baixar código fonte dos outros pela internet
-   - Aprendi a subir alterações no meu código fonte hospedado na internet
+   - [ ] Aprendi a colocar o código fonte do meu site no github
+   - [ ] Aprendi a baixar código fonte dos outros pela internet
+   - [ ] Aprendi a fazer alterações no meu código fonte hospedado na internet
+ - [ ] Criar o LinkedIn
+   - [ ] Preenchido com O QUE consigo fazer através da tecnologia
+   - [ ] 200 contaos de Recutradores / Desenvolvedores / 
+   - [ ] Preenchido com POR QUE eu mereço uma oportunidade
+   - [ ] Preenchido com POR QUE uma empresa deve me contratar
+  - [ ] Achar vagas de estágio ou programas de diversidade
+   - [ ] Achei mais de 3 vagas de estágio / programas de diversidade na minha área (desenvolvimento frontend)
+   - [ ] Vi os requisitos em comum das vagas e estou confiante e preparado
+   - [ ] 
+ - [ ] Me vinculei a alguma faculdade para iniciar um estágio logo no início
+ - [ ] Fiz algum(s) processos para estágios ou programas de diversidade
+ - [ ] **Consegui uma vaga num estágio ou programa de diversidade!!!** Vou lá comemorar com o @vitorfariaz no instagram!
 
 Siga essa trilha com **unhas e dentes**! Escreva essa trilha numa folha de papel cole na parede do seu quarto ou num local onde fique visível para você TODOS OS DIAS e vá marcando cada vez que você concluir uma etapa. Cada etapa/assunto desse é uma meta atingida e você estará mais próximo do seu objetivo. <br />
 
