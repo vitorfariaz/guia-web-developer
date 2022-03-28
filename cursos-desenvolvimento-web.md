@@ -44,34 +44,17 @@ Assista somente a aula **Week 8**, acione as legendas no vídeo clicando nas leg
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
 
-**EXERCÍCIOS:**
+**EXERCÍCIOS: fundamentos da internet**
 
- 1. Qual a linguagem que um computador se comunica com outro? a linguagem da internet? TCP/IP Transmission Control Protocol / Internet Protocol. Essa é a forma como todos os humanos concordaram que os computadores iriam se comunicar. Como enviar cartas no correio, a carta é um pacote de informação e na carta, você precisa identificar o endereço de origem e destino, no computador esse endereço é o endereço da sua máquina e o endereço destino, conhecido como IP
- 2. Como os computadores padronizaram o endereço de cada um dos computadores? Através do endereço IP
- 3. Quando vamos enviar uma informação para o facebook por exemplo, não sabemos qual o IP dele, nós digitamos uma URL(endereço do site). Quem "redireciona" essa chamada para o endereço IP dos servidores do facebook? DNS = Domain Name system = Sistema de nomes de domínio. É um sistema que fica "interceptando" as suas chamadas para redirecionar para o endereço IP correto dos computadores/servidores a partir da URL que você digitou ou qualquer chamada de rede que você fez para outro computador passando um nome de dominio.
- 4. Quem fornece o serviço de DNS? é o provedor de internet, se você usa Oi, é ela, se usa Vivo é ela, se você está no shopping, é o provedor de internet do shopping.
- 5. Quando você acessa um site como facebook.com, qual página você está "buscando" do servidor? index.html
+ 1. Qual a linguagem que um computador se comunica com outro? 
+ 2. Como os computadores padronizaram o endereço de cada um dos computadores? 
+ 3. Quando vamos enviar uma informação para o facebook por exemplo, não sabemos qual o IP dele, nós digitamos uma URL(endereço do site). Quem "redireciona" essa chamada para o endereço IP dos servidores do facebook?
+ 4. Quem fornece o serviço de DNS?
+ 5. Quando você acessa um site como facebook.com, qual página você está "buscando" do servidor?
  6. Como é formada uma típica requisição HTTP?
-```
-GET / HTTP/1.2 
-host: facebook.com
-```
-<br /> O GET significa que você está "buscando" uma informação
-<br /> O http/1.2 significa a versão da requisição http
-<br /> host é o endereço do servidor que você está buscando a informação
- 
  7. Como é uma típica **resposta** de uma requisição HTTP que retornou com sucesso?
-```
-HTTP/1.1 200 OK
-Content-Type: text/html
-Body: ~ arquivo html
-
-```
-<br /> O 200 significa status da requisição, 200 é uma convenção para informar que a requisição retornou com sucesso.
-<br /> O content-Type significa o tipo do arquivo. Pode ser uma página html, uma foto, um vídeo, etc...
-
- 8. Quando você visita uma página na internet geralmente é feito somente 1 requisição e retornado somente 1 arquivo? Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
- 9. Por quais componentes fisícos uma requisição HTTP passa do seu Computador até chegar no servidor destino? PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
+ 8. Quando você visita uma página na internet geralmente é feito somente 1 requisição e retornado somente 1 arquivo?
+ 9. Por quais componentes fisícos uma requisição HTTP passa do seu Computador até chegar no servidor destino?
  10. Faça um desenho da arquitetura da internet da sua casa até um servidor que você acessa.
 
 **Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.**
@@ -83,7 +66,7 @@ Nesse material, você vai reforçar os mesmos conceitos de outras formas para pe
 
 [Clique aqui para acessar](https://roadmap.sh/guides/what-is-internet)
 
-**EXERCÍCIOS:**
+**EXERCÍCIOS: fundamentos da internet**
  - O que é HTTP? 
  - O que é HTTPS?
  - Quando você envia sua senha para para algum site, é exatamente o valor que você inseriu que é trafegado pela rede?
@@ -93,10 +76,8 @@ Nesse material, você vai reforçar os mesmos conceitos de outras formas para pe
  - O que é SSL?
  - O navegador é um interpretador de qual arquivo?
  - Qual a linguagem que o navegador entende?
- - O que é a internet?
 
-**Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.**
-
+**Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.** <br />
 
 Algumas definições <br />
 <br /> IP: como os computadores se endereçam exclusivamente com números de algum tipo
