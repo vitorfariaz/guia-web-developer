@@ -2,27 +2,28 @@
 Essas dicas são **essenciais** para você montar um plano de estudos bem definido para que você consiga atingir seus objetivos Pessoais e Profissionais.
 
 ### Siga uma trilha de estudos
-Tenha a trilha de estudos bem mapeada para você não se perder nos estudos. Minha sugestão são as abaixo:
- - Fundamentos da computação
+Tenha a trilha de estudos bem mapeada para você não se perder nos estudos. Minha sugestão é a abaixo pois é o que
+ irá aprender nos cursos que indico:
+ [] Fundamentos da computação
    - Aprendi como funciona o computador
    - Aprendi como funciona as linguagens de programação
    - Aprendi como criar um programa de computador básico
    - Aprendi para que serve os algoritmos
    - Aprendi como criar algoritmos simples
- - Fundamentos da internet
+ [] Fundamentos da internet
    - Aprendi como funciona a internet
    - Aprendi como funciona o navegador
    - Aprendi como é trafegado informações pela internet
    - Aprendi como é criado um site e o que acontece quando alguém acessa ele   
- - HTML e CSS
+ [] HTML e CSS
    - Aprendi criar uma página HTML
    - Aprendi a deixar uma página HTML estilosa com CSS
    - Aprendi a criar todos os componentes de um site: botões, campos de texto, cabeçalho, rodapé, menus, imagens, etc..
- - Javascript
+ [] Javascript
    - Aprendi a deixar uma página HTML interativa
- - React
+ [] React
    - Aprendi a criar um site usando um framework de desenvolvimento
- - Git
+ [] Git
    - Aprendi a hospedar o código fonte do meu site na internet
    - Aprendi a baixar código fonte dos outros pela internet
    - Aprendi a subir alterações no meu código fonte hospedado na internet
