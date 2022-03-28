@@ -17,43 +17,49 @@ EXERCÍCIOS:
  - Como o computador representa informações? O que ele "guarda"? Bits = binary digits - Binários
  - Se usarmos 3 lampâdas para guardar informação, até quanto poderemos contar? 8
  - Por que isso é importante? pq o computador com pouco recurso ou seja, só guardando energia elétrica(ligado ou desligado) ele consegue guardar e montar informações mais complexas. Dentro do computador existem bilhões de transistores(interruptores) que guardam a energia elétrica ligada ou desligada e com isso, eles processam e mantém informações mais complexas, como letras, números, cores, fotos, vídeos, sons, etc...
- - Se o computador só entende binário(1 e 0), como ele guarda letras do alfabeto ou qualquer caractere como exclamação, números, etc? Os humanos chegaram num acordo que cada número decimal representa uma letra, caractere, números, etc... Essa tabela de representação se chama ASCII(Código Padrão Americano para o Intercâmbio de Informação. American Standard Code For Information Interchange) 
- - Quantos símbolos 1 bits podem representar? 2, ligado ou desligado, 1 ou zero, verdadeiro ou falso, dependendo do contexto.
+ - Se o computador só entende binário(1 e 0), como ele guarda letras do alfabeto ou qualquer caractere como exclamação, números, etc? Os humanos chegaram num acordo que cada número representa uma letra, caractere, números, etc... Essa tabela de representação se chama ASCII.
+ - O que é 1 bit? É um termo utilizado para dígito binário ou binary digit em inglês.
+ - Quantos símbolos 1 bits podem representar? 2. Pode guardar 0 e 1, Ligado ou desligado, verdadeiro ou falso, isso depende do contexto.
  - Quantos símbolos 8 bits podem representar? 256, pois é 2x2x2x2 x 2x2x2x2 = 256
- - Pq o ASCII é limitado para representar a linguagem humana? O que estava faltando no ASCII, Pq 256 não são suficientes? Letras de outras linguas como japonês, mandarim, etc... Demandam muito mais que 256 possibilidades.
+ - Por que o ASCII é limitado para representar a linguagem humana? Por que as 256 possibilidades do ASCII não são suficientes? Letras de outras linguas como japonês, mandarim, etc... Demandam muito mais que 256 possibilidades.
  - Qual foi a solução para o ASCII? Inventaram o Unicode, que representa todas as linguagens dos humanos. Unicode usa até 16/24/32 bits para representar todas outras linguas, caracteres.
  - Como os computadores representam cores só com binários? RGB, é a quantidade de Red, Green and blue em cada pixel.
- - Como os computadores representam vídeos só com binários? Eles guardam primeiro a informação que é um vídeo, através dos bits, depois guardam diversas imagens, com vários pixels em cada imagem, dizendo onde está cada pixel, cada ponto RGB da foto. Por isso um vídeo as vezes tem Gigabits de informações, pq são muitos pixels. E existem vários formatos de leitura de vídeos e imagens, como mp4, mov, JPG, PNG, etc... São várias conveções que pessoas chegaram de como armezenar os bits de forma que um computador conseguisse interpretar e apresentar isso.
+ - Como os computadores representam vídeos só com binários? Eles guardam primeiro a informação de que aquele arquivo binário é um vídeo, depois guardam diversas imagens, com vários pixels em cada imagem, dizendo onde está cada pixel, cada ponto RGB da foto, tudo através dos bits. Por isso um vídeo as vezes tem Gigabits de informações, por que são muitos pixels. E existem vários formatos de leitura de vídeos e imagens, como mp4, mov, JPG, PNG, etc... São várias convenções que pessoas chegaram de como armezenar os bits de forma que um computador conseguisse interpretar e apresentar isso.
  - O computador entende a linguagem de programação que nós programadores usamos? Não, só entende 0 e 1
- - O que temos que fazer para ele entender? transformar o código da linguagem em código binário
+ - O que temos que fazer para ele entender? Transformar o código da linguagem em código binário
  - Qual o nome do processo para transformar o código fonte que os desenvolvedores codificam em código que a máquina entende(Binário)? Compilar
-
 <br />
 
 
 ## Introdução - Fundamentos da Internet
+
 Nesse material, você vai entender como a internet funciona. Como é trafegado as informações pela rede, o que acontece quando você acessa um site, qual o papel do navegador, entre outras coisas. <br />
-A internet é como se fosse os nossos canos que trazem água pra nós, nesses mini cursos, você vai entender um pouco mais como esse "encanamento da internet" funciona.
+A internet é como se fosse os canos que trazem água para nossa casa, nesses mini cursos, você vai entender um pouco mais sobre como esse "encanamento da internet" funciona. <br />
 
 São bastante conteúdos, mas são só o básico para você se contextualizar e entender por cima os fundamentos básicos. Isso vai ser a base de todo o teu conhecimento. Tudo que você irá construir, sites e aplicativos, irão ser feitos em cima dessa base de conhecimento. <br />
 
-
-Assista somente a aula **Week 8**, acione as legendas no vídeo clicando na engrenagem > legendas > traduzir legendas em Português  <br />
+Assista somente a aula **Week 8**, acione as legendas no vídeo clicando nas legendas > depois engrenagem > traduzir legendas automaticamente em Português  <br />
 
 [Clique aqui para acessar](https://cs50.harvard.edu/x/2021/weeks/0)
 
-Nesse material, você vai reforçar os mesmos conceitos de outras formas para pegar bem. O site é em inglês, traduza a página e acione as legendas nos vídeos clicando na engrenagem > legendas > traduzir legendas em PT portugal. (portugal mesmo, a legenda do Brasil ficou atrasada.)
-
-[Clique aqui para acessar](https://roadmap.sh/guides/what-is-internet)
 
 EXERCÍCIOS:
 
  - Qual a linguagem que um computador se comunica com outro? a linguagem da internet? TCP/IP Transmission Control Protocol / Internet Protocol. Essa é a forma como todos os humanos concordaram que os computadores iriam se comunicar. Como enviar cartas no correio, a carta é um pacote de informação e na carta, você precisa identificar o endereço de origem e destino, no computador esse endereço é o endereço da sua máquina e o endereço destino, conhecido como IP
  - Como os computadores padronizaram o endereço de cada um dos computadores? Através do endereço IP
- - Quando vamos enviar uma informação para o facebook por exemplo, não sabemos qual o IP dele, nós digitamos uma URL ou endereço do site. Quem "redireciona" essa chamada para o endereço IP do facebook? DNS = Domain Name system = Sistema de nomes de domínio. É um sistema que fica "interceptando" as suas chamadas para redirecionar para o endereço IP corretos dos computadores a partir da URL que você digitou ou qualquer chamada de rede que você fez pra outro computador passando um nome de dominio.
+ - Quando vamos enviar uma informação para o facebook por exemplo, não sabemos qual o IP dele, nós digitamos uma URL(endereço do site). Quem "redireciona" essa chamada para o endereço IP dos servidores do facebook? DNS = Domain Name system = Sistema de nomes de domínio. É um sistema que fica "interceptando" as suas chamadas para redirecionar para o endereço IP correto dos computadores/servidores a partir da URL que você digitou ou qualquer chamada de rede que você fez para outro computador passando um nome de dominio.
+ - Quem fornece o serviço de DNS? é o provedor de internet, se você usa Oi, é ela, se usa Vivo é ela, se você está no shopping, é o provedor de internet do shopping.
 
 
 
+
+### Reforçando conteúdo sobre fundamentos da internet
+
+Nesse material, você vai reforçar os mesmos conceitos de outras formas para pegar bem. O site é em inglês, traduza a página e acione as legendas no vídeo clicando nas legendas > depois engrenagem > traduzir legendas automaticamente em Português portugal(portugal mesmo, a legenda do Brasil ficou atrasada)
+
+[Clique aqui para acessar](https://roadmap.sh/guides/what-is-internet)
+
+EXERCÍCIOS:
  - O que é HTTP? 
  - O que é HTTPS?
  - Quando você envia sua senha para para algum site, é exatamente o valor que você inseriu que é trafegado pela rede?
@@ -70,7 +76,14 @@ Algumas definições <br />
 <br /> IP: como os computadores se endereçam exclusivamente com números de algum tipo
 <br /> TCP: Governa algumas coisas, elas entre elas a numeração de serviços como 80 para trafego inseguro na web(http), 443 para trafego seguro(https)
 <br /> DNS: identifica e relaciona os dominios com os endereços dos PCs
-<br /> Esse bando de siglas é como se fosse o encanamento de como uma informação vai de um ponto para o outro. Como a água. Sabendo disso, somos capazes de construir sistemas que executam através desses "canos"
+<br /> URL: uniform resource locator. 
+<br /> Um endereço na web é formado pelo seguinte:
+<br /> Endereço exemplo: https://github.com/vitorfariaz/guia-web-developer
+<br /> github = nome do dominio
+<br /> .com = categoria do dominio: com = comercial, edu = educacional, gov = governamental, etc..
+<br /> vitorfariaz = caminho de um recurso específico
+
+<br /> Esse bando de siglas é como se fosse o encanamento de como uma informação vai de um ponto para o outro. Como a água. Sabendo disso, somos capazes de construir sistemas que funcionam através desses "canos"
 
 
 ### HTML, CSS (9Hrs)
