@@ -70,7 +70,8 @@ Body: ~ arquivo html
 <br /> O content-Type significa o tipo do arquivo. Pode ser uma página html, uma foto, um vídeo, etc...
 
  - Quando você visita uma página na internet geralmente é feito somente 1 requisição e retornado somente 1 arquivo? Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
-
+ - Por quais componentes fisícos uma requisição HTTP passa do seu Computador até chegar no servidor destino? PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
+ - Faça um desenho da arquitetura da internet da sua casa até um servidor que você acessa.
 
 ### Reforçando conteúdo sobre fundamentos da internet
 
