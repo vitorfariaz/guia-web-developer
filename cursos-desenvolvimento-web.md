@@ -224,18 +224,18 @@ Valor em binário | Valor em Decimal
 |    111       |   7      |         
 
 
- 5. Por que o computador com pouco recurso ou seja, só guardando energia elétrica(ligado ou desligado) ele consegue guardar e montar informações mais complexas. Dentro do computador existem bilhões de transistores(interruptores) que guardam a energia elétrica ligada ou desligada e com isso, eles conseguem interpretar/processar e manter informações mais complexas, como letras, números, cores, fotos, vídeos, sons, etc...
- 6. Os humanos chegaram em um acordo que cada número representa uma letra, caractere, números, etc... Essa tabela de representação se chama ASCII.
- 7. É um termo utilizado para dígito binário ou binary digit em inglês.
- 8. 2. Pode guardar 0 e 1, Ligado ou desligado, verdadeiro ou falso, isso depende do contexto.
- 9. 256, pois é 2x2x2x2 x 2x2x2x2 = 256
- 10. Por que as 256 possibilidades do ASCII não são suficientes? Letras de outras linguas como japonês, mandarim, etc... Demandam muito mais que 256 possibilidades.
- 11. Inventaram o Unicode, que representa todas as linguagens dos humanos. Unicode usa até 16/24/32 bits para representar todas outras linguas, caracteres.
- 12. RGB, é a quantidade de Red, Green and blue em cada pixel.
- 13. Eles guardam primeiro a informação de que aquele arquivo binário é um vídeo, depois guardam diversas imagens, com vários pixels em cada imagem, dizendo onde está cada pixel, cada ponto RGB da foto, tudo através dos bits. Por isso um vídeo as vezes tem Gigabits de informações, por que são muitos pixels. E existem vários formatos de leitura de vídeos e imagens, como mp4, mov, JPG, PNG, etc... São várias convenções que pessoas chegaram de como armezenar os bits de forma que um computador conseguisse interpretar e apresentar isso.
- 14. Não, só entende 0 e 1
- 15. Transformar o código da linguagem em código binário
- 16.  Compilar
+ 4. Por que o computador com pouco recurso ou seja, só guardando energia elétrica(ligado ou desligado) ele consegue guardar e montar informações mais complexas. Dentro do computador existem bilhões de transistores(interruptores) que guardam a energia elétrica ligada ou desligada e com isso, eles conseguem interpretar/processar e manter informações mais complexas, como letras, números, cores, fotos, vídeos, sons, etc...
+ 5. Os humanos chegaram em um acordo que cada número representa uma letra, caractere, números, etc... Essa tabela de representação se chama ASCII.
+ 6. É um termo utilizado para dígito binário ou binary digit em inglês.
+ 7. 2. Pode guardar 0 e 1, Ligado ou desligado, verdadeiro ou falso, isso depende do contexto.
+ 8. 256, pois é 2x2x2x2 x 2x2x2x2 = 256
+ 9. Por que as 256 possibilidades do ASCII não são suficientes? Letras de outras linguas como japonês, mandarim, etc... Demandam muito mais que 256 possibilidades.
+ 10. Inventaram o Unicode, que representa todas as linguagens dos humanos. Unicode usa até 16/24/32 bits para representar todas outras linguas, caracteres.
+ 11. RGB, é a quantidade de Red, Green and blue em cada pixel.
+ 12. Eles guardam primeiro a informação de que aquele arquivo binário é um vídeo, depois guardam diversas imagens, com vários pixels em cada imagem, dizendo onde está cada pixel, cada ponto RGB da foto, tudo através dos bits. Por isso um vídeo as vezes tem Gigabits de informações, por que são muitos pixels. E existem vários formatos de leitura de vídeos e imagens, como mp4, mov, JPG, PNG, etc... São várias convenções que pessoas chegaram de como armezenar os bits de forma que um computador conseguisse interpretar e apresentar isso.
+ 13. Não, só entende 0 e 1
+ 14. Transformar o código da linguagem em código binário
+ 15.  Compilar
 <br />
 
 
