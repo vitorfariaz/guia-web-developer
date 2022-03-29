@@ -8,7 +8,7 @@ Pegue um CADERNO ou anote em algum outro lugar essas dicas e bote o plano em PR�
 Ter uma trilha de estudos bem mapeada serve para você
  - Não se perder nos estudos e ter **foco**
  - Criar **metas** e **objetivos** pequenos atingíveis
- - Ter visão clara do que você deve conhecer para conseguir a primeira vaga
+ - Ter visão clara do caminho que você deve percorrer para conseguir a primeira vaga
 
 Essa trilha de estudos que indico abaixo serve **perfeitamente** para quem deseja se tornar um desenvolvedor de site(desenvolvedor frontend) porém o conteúdo é 80% reaproveitável para caso você queira seguir outros caminhos como, cientista de dados, desenvolvedor backend, etc.. <br />
 
