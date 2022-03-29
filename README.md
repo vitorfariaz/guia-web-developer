@@ -44,9 +44,10 @@ Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercí
 [Clique aqui para acessar os Cursos](cursos-desenvolvimento-web.md)
 
 
-## Dicas para criação do currículo
+## Dicas para criação do currículo / LinkedIn
+A fazer <br />
 
-A fazer 
+[Dicas para o perfil do LinkedIn](https://www.youtube.com/watch?v=h06KIgcPUnU)
 
 
 ## Dicas de onde encontrar e se candidatar a vagas de emprego/estágio
