@@ -18,9 +18,9 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - [Tipos de desenvolvedores](tipos-de-desenvolvedores.md)(10Min)
  - [Dicas ESSENCIAIS para um melhor aprendizado](melhor-aprendizado.md)(5Min)
  - [Cursos gratuitos para desenvolvimento](#cursos-para-desenvolvimento-de-sites)(40Hrs +)
- - A FAZER <s>Dicas para criação do teu currículo</s>
- - A FAZER <s>Dicas de onde encontrar e se candidatar a estágios/empregos</s>
- - A FAZER <s>Dicas sobre como te preparar para as vagas e atender os principais requisitos</s>
+ - FAZENDO <s>Dicas para criação do teu currículo</s>
+ - FAZENDO <s>Dicas de onde encontrar e se candidatar a estágios/empregos</s>
+ - FAZENDO <s>Dicas sobre como te preparar para as vagas e atender os principais requisitos</s>
 
 ## Cursos para desenvolvimento de Sites
 Você já deve estar ansioso para que eu mande de uma vez os cursos pra aprender logo, né?! Mas pare e reflita um pouco, agora você entendeu o
