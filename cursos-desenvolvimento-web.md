@@ -70,11 +70,9 @@ Nesse material, você vai reforçar os mesmos conceitos de outras formas para pe
  1. O que é HTTP? 
  2. O que é HTTPS?
  3. Quando você envia sua senha para para algum site, é exatamente o valor que você inseriu que é trafegado pela rede?
- 4. O que é TLS?
  5. O que é DNS?
- 6. O que é SSL?
- 7. O navegador é um interpretador de qual arquivo?
- 8. Qual a linguagem que o navegador entende?
+ 7. O navegador é um interpretador de qual tipo de arquivo?
+ 8. Quais a linguagens o navegador entende?
 
 **Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.** <br />
 
@@ -253,9 +251,7 @@ Body: ~ arquivo html
  2. É a forma segura de enviar e receber mensagens: em vez de ir as informações "originais" na mensagem, é encriptografado as informações enviadas para que caso alguém intercepte a informação não consiga identificar o que significa.
  3. Caso você esteja usando HTTPS para fazer a comunicaçãom não pois é encriptografado a informação trafegada. Mas caso não seja, é exatamente a sua senha é que passada pela requisição.
   Se não, qual é o valor?
- 4. O que é TLS?
- 5. O que é DNS?
- 6. O que é SSL?
- 7. O navegador é um interpretador de qual arquivo?
- 8. Qual a linguagem que o navegador entende?
+ 5. Domain Name System. É o sistema que identifica se o endereço IP dos computadores a partir do nome de domínio
+ 7. Arquivos HTML, CSS
+ 8. Javascript
 
