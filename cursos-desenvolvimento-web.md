@@ -67,15 +67,14 @@ Nesse material, você vai reforçar os mesmos conceitos de outras formas para pe
 [Clique aqui para acessar](https://roadmap.sh/guides/what-is-internet)
 
 **EXERCÍCIOS: fundamentos da internet**
- - O que é HTTP? 
- - O que é HTTPS?
- - Quando você envia sua senha para para algum site, é exatamente o valor que você inseriu que é trafegado pela rede?
-  Se não, qual é o valor?
- - O que é TLS?
- - O que é DNS?
- - O que é SSL?
- - O navegador é um interpretador de qual arquivo?
- - Qual a linguagem que o navegador entende?
+ 1. O que é HTTP? 
+ 2. O que é HTTPS?
+ 3. Quando você envia sua senha para para algum site, é exatamente o valor que você inseriu que é trafegado pela rede?
+ 4. O que é TLS?
+ 5. O que é DNS?
+ 6. O que é SSL?
+ 7. O navegador é um interpretador de qual arquivo?
+ 8. Qual a linguagem que o navegador entende?
 
 **Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.** <br />
 
@@ -186,7 +185,7 @@ ADICIONAR CURSO
 [Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
 
 
-## Respostas para os exercícios
+## RESPOSTAS para os exercícios
 
 ### Fundamentos Computação
  1. Binário, zeros e uns
@@ -248,4 +247,15 @@ Body: ~ arquivo html
  8. Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
  9. PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
  10. [Verifique a imagem](arquitetura-internet.png)
+
+### Reforçando conceitos da internet
+ 1.  HTTP(Protocolo de Transferência de Hipertexto) é o padrão que espeficica o formato das mensagens que são enviadas entre os computadores e servidores. Através desse padrão é possível compartilhar todo tipo de arquivo; texto, imagens, vídeos, sons, páginas HTML, etc..
+ 2. É a forma segura de enviar e receber mensagens: em vez de ir as informações "originais" na mensagem, é encriptografado as informações enviadas para que caso alguém intercepte a informação não consiga identificar o que significa.
+ 3. Caso você esteja usando HTTPS para fazer a comunicaçãom não pois é encriptografado a informação trafegada. Mas caso não seja, é exatamente a sua senha é que passada pela requisição.
+  Se não, qual é o valor?
+ 4. O que é TLS?
+ 5. O que é DNS?
+ 6. O que é SSL?
+ 7. O navegador é um interpretador de qual arquivo?
+ 8. Qual a linguagem que o navegador entende?
 
