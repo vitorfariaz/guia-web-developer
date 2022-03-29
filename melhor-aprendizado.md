@@ -24,9 +24,9 @@ Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma va
    - [ ] Aprendi como funciona a internet
    - [ ] Aprendi como funciona o navegador
    - [ ] Aprendi como é trafegado informações pela internet
-   - [ ] Aprendi como é criado um site e o que acontece quando alguém acessamos ele   
+   - [ ] Aprendi como é criado um site e o que acontece quando acessamos ele   
  - [ ] HTML e CSS
-   - [ ] Aprendi o que é HTML e CSS e pra que serve
+   - [ ] Aprendi o que é HTML e CSS e para que serve
    - [ ] Aprendi a criar uma página HTML
    - [ ] Aprendi a deixar uma página HTML estilosa com CSS
    - [ ] Aprendi a criar todos os componentes de um site como: botões, campos de texto, cabeçalho, rodapé, menus, imagens, etc..
@@ -35,7 +35,7 @@ Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma va
    - [ ]  Aprendi o que são métodos/funções e parâmetros
    - [ ]  Aprendi como fazer Loops
    - [ ]  Aprendi o que são condicionais e expressões booleanas
-   - [ ]  Aprendi sobre estrutura dados: listas, mapas, objetos
+   - [ ]  Aprendi sobre estrutura dados: listas, mapas e objetos
  - [ ] Javascript
    - [ ] Aprendi a realizar alterações em elementos HTML via javascript
  - [ ] React
