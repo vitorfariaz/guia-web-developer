@@ -247,11 +247,10 @@ Body: ~ arquivo html
  10. [Verifique a imagem](arquitetura-internet.png)
 
 ### Reforçando conceitos da internet
- 1.  HTTP(Protocolo de Transferência de Hipertexto) é o padrão que espeficica o formato das mensagens que são enviadas entre os computadores e servidores. Através desse padrão é possível compartilhar todo tipo de arquivo; texto, imagens, vídeos, sons, páginas HTML, etc..
+ 1. HTTP(Protocolo de Transferência de Hipertexto) é o padrão que espeficica o formato das mensagens que são enviadas entre os computadores e servidores. Através desse padrão é possível compartilhar todo tipo de arquivo; texto, imagens, vídeos, sons, páginas HTML, etc..
  2. É a forma segura de enviar e receber mensagens: em vez de ir as informações "originais" na mensagem, é encriptografado as informações enviadas para que caso alguém intercepte a informação não consiga identificar o que significa.
  3. Caso você esteja usando HTTPS para fazer a comunicaçãom não pois é encriptografado a informação trafegada. Mas caso não seja, é exatamente a sua senha é que passada pela requisição.
-  Se não, qual é o valor?
- 5. Domain Name System. É o sistema que identifica se o endereço IP dos computadores a partir do nome de domínio
+ 5. Domain Name System. É o sistema que identifica o endereço IP dos computadores a partir do nome de domínio
  7. Arquivos HTML, CSS
  8. Javascript
 
