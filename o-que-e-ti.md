@@ -1,5 +1,5 @@
 ## O QUE É TECNOLOGIA? 
-Tecnologia é um conjunto de instrumentos, métodos e técnicas para algo, É a aplicação prática do conhecimento científico em diversas áreas de pesquisas. <br />
+Tecnologia é um conjunto de instrumentos, métodos e técnicas para realizar algo. É a aplicação prática do conhecimento científico em diversas áreas de pesquisas. <br />
 
 Alguns exemplos: <br />
 As tecnologias primitivas ou clássicas envolvem a descoberta do fogo, a invenção da roda, a escrita, dentre outras. <br />
@@ -14,7 +14,7 @@ Temos também tecnologias ainda mais avançadas como energia nuclear, nanotecnol
 Essas últimas geralmente são chamadas de tecnologia de ponta, mas não são elas o foco do nosso conteúdo. <br />
 
 ## O QUE É INFORMAÇÃO? 
-Bom, acho que deu pra entender o que é tecnologia, o que é informação? <br />
+Bom, acho que deu pra entender o que é tecnologia mas o que é informação? <br />
 
 É o ato de informar, notícia, conhecimento, ciência, é a reunião ou o conjunto de dados e conhecimentos organizados, 
 que possam constituir referências sobre um determinado acontecimento, fato ou fenômeno... <br />
@@ -24,7 +24,7 @@ Exemplo de dado: 6 graus C° <br />
 
 Exemplo de informação: Hoje está fazendo 6 graus C° <br />
 O dado sozinho não nos diz nada, não nos "engrandece de conhecimento", já a informação, sim,
-e ela só pode nos engrandecer de conhecimento fazendo sentido, e sempre com um conjunto de dados. <br />
+e ela só pode nos engrandecer de conhecimento fazendo sentido e sempre com um conjunto de dados. <br />
 
 ## O QUE É TECNOLOGIA DA INFORMAÇÃO? 
 É a tecnologia que nos dá conhecimento sobre algo e/ou nos ajuda a executar uma tarefa. <br />
