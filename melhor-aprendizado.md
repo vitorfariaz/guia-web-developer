@@ -2,7 +2,7 @@
 Essas dicas são **essenciais** para  que você consiga atingir seus objetivos Pessoais e Profissionais. <br />
 Você pode adicionar alguns pontos se achar necessário ou fazer alguma leve alteração, mas eu indico que faça **ao menos** o que estão nessas dicas. <br />
 
-Pegue um CADERNO ou anote essas dicas! Bote o plano em PRÁTICA!
+Pegue um CADERNO ou anote em algum outro lugar essas dicas e bote o plano em PRÁTICA!
 
 ### Tenha e Siga uma trilha de estudos
 Ter uma trilha de estudos bem mapeada serve para você
