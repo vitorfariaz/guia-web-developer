@@ -16,8 +16,8 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
  - [Mercado de trabalho](mercado-de-trabalho.md)(10Min)
  - [Tipos de desenvolvedores](tipos-de-desenvolvedores.md)(10Min)
- - [Dicas ESSENCIAIS para um melhor aprendizado](melhor-aprendizado.md)
- - [Cursos gratuitos para desenvolvimento](#cursos-para-desenvolvimento-de-sites)(20Hrs +)
+ - [Dicas ESSENCIAIS para um melhor aprendizado](melhor-aprendizado.md)(5Min)
+ - [Cursos gratuitos para desenvolvimento](#cursos-para-desenvolvimento-de-sites)(40Hrs +)
  - A FAZER <s>Dicas para criação do teu currículo</s>
  - A FAZER <s>Dicas de onde encontrar e se candidatar a estágios/empregos</s>
  - A FAZER <s>Dicas sobre como te preparar para as vagas e atender os principais requisitos</s>
