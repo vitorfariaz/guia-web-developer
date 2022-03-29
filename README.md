@@ -53,8 +53,10 @@ Hoje em dia, 90% das vagas na área de tecnologia são encontradas através do L
 - [Dicas para construção do perfil do LinkedIn 2](https://www.youtube.com/watch?v=rYWwXtQ4vkw)
 
 ## Metodologia de trabalho Agil
-O ágil, é uma metodologia de trabalho, que tem valores e princípios que direcionam práticas do dia a dia para o desenvolvimento de software. <br />
-
+Como as empresas se organizam no dia a dia para desenvolver software? Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
+Ele faz o pedido pelo whats? <br />
+Como funciona o fluxo de trabalho? <br />
+O ágil, é uma metodologia de trabalho, que tem valores e princípios que direcionam as práticas do dia a dia para o desenvolvimento de software. <br />
 Hoje em dia, grande parte das empresas trabalham com essa metodologia e algumas vezes chega ser um requisito para você conseguir um vaga entender essaa metodologia. <br />
 
 
