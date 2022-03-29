@@ -45,11 +45,20 @@ Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercí
 
 
 ## Dicas para criação do currículo / LinkedIn
-A fazer <br />
 
-[Dicas para o perfil do LinkedIn](https://www.youtube.com/watch?v=h06KIgcPUnU)
-[Dicas para o perfil do LinkedIn 2](https://www.youtube.com/watch?v=rYWwXtQ4vkw)
+Hoje em dia, 90% das vagas na área de tecnologia são encontradas através do LinkedIn, ter um perfil bem construído e bem utilizado na plataforma é extramente importante para ser achado por recrutadores. <br />
+É também um lugar onde você pode encontrar vagas de estágio / programas de inclusão e vagas para trabalho mesmo.
 
+- [Dicas para construção do perfil do LinkedIn](https://www.youtube.com/watch?v=h06KIgcPUnU)
+- [Dicas para construção do perfil do LinkedIn 2](https://www.youtube.com/watch?v=rYWwXtQ4vkw)
+
+## Metodologia de trabalho Agil
+O ágil, é uma metodologia de trabalho, que tem valores e princípios que direcionam práticas do dia a dia para o desenvolvimento de software. <br />
+
+Hoje em dia, grande parte das empresas trabalham com essa metodologia e algumas vezes chega ser um requisito para você conseguir um vaga entender essaa metodologia. <br />
+
+
+ - [O que é Agilidade](https://www.linkedin.com/video/event/urn:li:ugcPost:6914525357228331009/)
 
 ## Dicas de onde encontrar e se candidatar a vagas de emprego/estágio
 
