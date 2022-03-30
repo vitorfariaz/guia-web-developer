@@ -37,7 +37,7 @@ Dito isso, agora irei passar alguns cursos que contém a parte fundamental sobre
  - **Git**: Sistema responsável pelo versionamento e controle de códigos fontes
 
 Você conhecendo bem cada uma dessas tecnologias, conseguirá dominar o desenvolvimento de sites e estará pronto para diversas vagas na área. <br />   
-**Já vou adiantando, não adianta só assistir os cursos e não praticar**. É fundamental/crucial que você pratique, senão você realmente não irá aprender. <br /> 
+**Já vou adiantando, não adianta só assistir os cursos e não praticar**. É fundamental/crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
 Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercícios, e no final da aula vou passar exercícios também, que exigirá todo o conhecimento adquirido no curso. Então você pode reassistir as aulas caso no exercício peça algo que você não se lembre como fazer. Os cursos servem também como material prático, um "livro" que você pode consultar quando não se lembrar de como fazer algo. <br />
 
