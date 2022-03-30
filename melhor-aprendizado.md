@@ -103,9 +103,18 @@ Quando você tenta simplificar algo complexo para ensinar alguém usando o seu j
 
 Caso você não se adapte com os aplicativos de anotações que sugeri, use um caderno ou bloco de anotações de sua preferência, mas anotar e criar resumos de fácil acesso e que você consiga buscar uma informação de maneira fácil, é ESSENCIAL para o aprendizado.
 
+## Intercale teoria com a prática
+Aprender a programar é que nem andar de bicicleta, não adianta ver 300 vídeos sobre a teoria e/ou outras pessoas praticando. <br />
+Só quando você subir na bike e tentar andar que você irá de fato aprender. <br />
+E é fato que você irá CAIR muito no início. Você não vai escrever o primeiro programa sem errar. <br />
+Use os erros para aprender. Deu erro, encare a mensagem de exceção e tente entender o motivo do erro. <br />
+O sistema não está se comportando como deveria? Leia de novo todo o seu código com calma, se atente para os ponto e vírgula, provavelmente sua lógica está errada. 
+No início é bem comum acharmos que programar é coisa do demônio e que as ferramentas que estamos usando estão com problemas porém é geralmente algum erro de lógica ou sintaxe(ponto e vírgula, letra maiuscula/minuscula).
+
 
 ## Resumo das dicas
  - Siga uma **trilha de estudos** e deixe **visível** para você acompanhar o **progresso**
  - Crie um **cronograma** de estudos com **horários** e **metas**
  - Use alguma técnica de **concentração** para estudar
  - Faça **resumos** de todos conteúdos como se tivesse ensinando uma criança o que aprendeu em cada aula
+ - Praticar é fundamental e obrigatório para aprender.
