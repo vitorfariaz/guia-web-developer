@@ -45,6 +45,8 @@ Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma va
    - [ ] Aprendi a baixar código fonte dos outros pela internet
    - [ ] Aprendi a fazer alterações no meu código fonte hospedado na internet
 
+<br />
+
 Atividades/Metas pessoais para conseguir a primeira vaga
  - [ ] Criar / Atualizar o perfil no LinkedIn
    - [ ] Preenchido com O QUE consigo fazer através da tecnologia
@@ -105,7 +107,5 @@ Caso você não se adapte com os aplicativos de anotações que sugeri, use um c
 ## Resumo das dicas
  - Siga uma **trilha de estudos** e deixe **visível** para você acompanhar o **progresso**
  - Crie um **cronograma** de estudos com **horários** e **metas**
- - Use alguma técnica de **concentração**
- - Faça **resumos** de todos do conteúdo como se tivesse ensinando uma criança o que aprendeu em cada aula
-
-
+ - Use alguma técnica de **concentração** para estudar
+ - Faça **resumos** de todos conteúdos como se tivesse ensinando uma criança o que aprendeu em cada aula
