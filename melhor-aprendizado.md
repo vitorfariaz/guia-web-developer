@@ -1,10 +1,10 @@
-## Dicas para melhor Aprendizado e Disciplina
+# Dicas para melhor Aprendizado e Disciplina
 Essas dicas são **essenciais** para  que você consiga atingir seus objetivos Pessoais e Profissionais. <br />
 Você pode adicionar alguns pontos se achar necessário ou fazer alguma leve alteração, mas eu indico que faça **ao menos** o que estão nessas dicas. <br />
 
 Pegue um CADERNO ou anote em algum outro lugar essas dicas e bote o plano em PRÁTICA!
 
-### Tenha e Siga uma trilha de estudos
+## Tenha e Siga uma trilha de estudos
 Ter uma trilha de estudos bem mapeada serve para você
  - Não se perder nos estudos e ter **foco**
  - Criar **metas** e **objetivos** pequenos atingíveis
@@ -79,17 +79,17 @@ Concluindo essa trilha básica de estudos para desenvolvimento, você:
  - Vai estar BEM qualificado para vagas de estágio, programas, etc...
  - Vai estar 70% apto a criar um site do zero e hospeda-lo na internet
 
-### Crie cronograma de estudos
+## Crie cronograma de estudos
 Faça planejamentos CURTOS dos estudos, planeje o que você vai estudar na semana, com horários e datas que você SABE que conseguirá.
 NÃO planeje começar a estudar somente daqui uma semana durante 4-8 horas por dia sendo que você SABE que NÃO irá conseguir. <br />
 
 Comece PEQUENO e HOJE. Tente estudar todos os dias ao menos 30 minutos, com o tempo crie a displina para estudar mais e vá aprendendo qual melhor horário você se adapta melhor e aprende mais.
 
-### Use técnicas de concentração
+## Use técnicas de concentração
 Desligue as notificações do celular enquanto for estudar, deixa somente ligações. <br />
 Use uma técnica de concentração como a **Pomodoro**: Quando você começar a estudar, separe seu tempo de estudo em intervalos de 25 minutos e entre os intervalos, dê uma pausa de 5 minutos e vá fazer outra coisa completamente diferente para aliviar. Faça isso até fechar seu tempo de estudo.  
 
-### Faça resumos de cada aula
+## Faça resumos de cada aula
 Cada aula que você assistir a partir daqui, faça resumos. Escreva de preferencia em algum lugar que você consiga acessar pela internet.
 Eu aconselho o aplicativo [Notion](https://www.notion.so/pt-br) e caso você não se adapte use o [OneNote](https://www.onenote.com). <br />
 
