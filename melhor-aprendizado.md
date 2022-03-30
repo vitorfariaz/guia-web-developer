@@ -44,17 +44,23 @@ Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma va
    - [ ] Aprendi a colocar o código fonte do meu site num repositório compartilhado(github)
    - [ ] Aprendi a baixar código fonte dos outros pela internet
    - [ ] Aprendi a fazer alterações no meu código fonte hospedado na internet
- - [ ] Criar / Atualizar o LinkedIn
+
+Atividades/Metas pessoais para conseguir a primeira vaga
+ - [ ] Criar / Atualizar o perfil no LinkedIn
    - [ ] Preenchido com O QUE consigo fazer através da tecnologia
-   - [ ] 200 contatos de Recutradores / Desenvolvedores
-   - [ ] Seguindo mais de 50 empresas na área de TI no Brasil(se quiser pode me pedir indicações ou olhar [meu perfil no linkedin](https://www.linkedin.com/in/vitor-farias-a60760121/) e seguir as mesmas empresas que eu)
+   - [ ] + 100 contatos de Recutradores
+   - [ ] + 100 contatos de Desenvolvedores
+   - [ ] Seguindo + 50 empresas na área de TI no Brasil(olhar [meu perfil no linkedin](https://www.linkedin.com/in/vitor-farias-a60760121/) e ir em empresas que sigo para sugestões)
    - [ ] Preenchido com POR QUE eu mereço uma oportunidade
    - [ ] Preenchido com POR QUE uma empresa deve me contratar
+   - [ ] Preenchido com QUAL valor eu entrego
+   - [ ] Preenchido com QUAIS minhas principais conquistas
  - [ ] Achar vagas de estágio ou programas de diversidade
    - [ ] Achei mais de 3 vagas de estágio / programas de diversidade na minha área (desenvolvimento frontend)
-   - [ ] Vi os requisitos em comum das vagas e estou confiante e preparado
+   - [ ] Vi os requisitos em comum das vagas
+   - [ ] Me preparei para os requisitos de no mínino 3 vagas
  - [ ] Me vinculei a alguma faculdade para iniciar um estágio logo no início
- - [ ] Fiz algum(s) processos para estágios ou programas de diversidade
+ - [ ] Fiz algum(s) processos seletivos para estágios ou programas de diversidade
  - [ ] **Consegui uma vaga num estágio ou programa de diversidade!!!** Vou lá comemorar com o @vitorfariaz no instagram!
 
 Siga essa trilha com **unhas e dentes**! Escreva-a numa folha de papel cole na parede do seu quarto ou num local onde fique visível para você TODOS OS DIAS e vá marcando cada vez que você concluir uma etapa. Cada etapa concluída é um passo mais próximo do seu objetivo. <br />
