@@ -1,16 +1,14 @@
 ## Tipos de desenvolvedores
-Agora depois de entender um pouco mais sobre o mercado de trabalho, computador, TI, vou explicar quais são os tipos de desenvolvedores
-e por que Desenvolvimento de Sites (Desenvolvimento FrontEnd Web) é minha indicação e falarei também um pouco mais sobre o que são esses termos todos.<br />
+Agora depois de entender um pouco mais sobre o mercado de trabalho, TI, vou explicar quais são os tipos de desenvolvedores, alguns cargos na área de TI e por que Desenvolvimento de Sites (Desenvolvimento FrontEnd Web) é minha indicação e falarei também um pouco mais sobre o que são esses termos todos.<br />
 
 Se você pesquisou as vagas como sugeri no material anterior, deve ter lido os termos frontend/backend/web... 
 
-Bom, além de diferenciar um sistema pela plataforma, celular(android/IOS), TV, computador, sim tinha esquecido de comentar, além dessa divisão toda, 
-não é UM desenvolvedor Android que irá fazer TODO o desenvolvimento daquele aplicativo sozinho. <br />
-Além de ser papéis diferentes que tem a ideia do aplicativo, o que cria o protótipo das interfaces, ainda no próprio desenvolvimento são pessoas diferentes 
-que desenvolvem a parte visual do aplicativo, da pessoa que faz as funcionalidades "internas", como salvar algo no banco de dados ou consultar
-informações no banco de dados. E essa divisão, é feita por cargos/papéis diferentes. <br />
+Bom, além de diferenciar um sistema pela plataforma, celular(android/IOS), TV, computador,  
+não é somente UM desenvolvedor Android que irá fazer TODO o desenvolvimento daquele aplicativo sozinho. <br />
+Além de ser papéis diferentes que tem a **ideia** do aplicativo, o que cria o **protótipo das interfaces**, ainda no próprio desenvolvimento são pessoas diferentes 
+que desenvolvem a parte **visual** do aplicativo, da pessoa que faz as funcionalidades **internas**, como salvar/consultar/editar algo no **banco de dados**, ou algum processamento mais longo. E essa divisão, é feita por cargos/papéis diferentes dentro de um *time de desenvolvimento*. <br />
 
-Mas aqui vai um resumo das resposnabilidade de alguns tipos de desenvolvedores: <br />
+Mas aqui vai um resumo das responsabilidade de alguns tipos de desenvolvedores: <br />
  - **Desenvolvedor Backend**: responsável pelos processos que rodam "por baixo dos panos"
  - **Desenvolvedor FrontEnd Web**(Sites): responsável pela construção da parte visual de sites
  - **Desenvolvedor FrontEnd IOS**(Aplicativos para IOS): responsável pela construção da parte visual de Aplicativo IOS
@@ -29,28 +27,34 @@ Dependendo da vaga, vai possuir algum desses títulos, ou até mesmo a linguagem
  - Senior Java Developer
  - Junior Software Engineer
 
+Além somente dos desenvolvedores existem diversos outros cargos/pessoas que fazem diferentes partes do processo de desenvolvimento como:
+ - Product Owner: responsável pelo escopo do produto de negócio. Ele que diz O QUE o time deve fazer
+ - UX/UI designer: respnsável por fazer pesquisa e descoberta do produto, além de criar protótipos para os desenvolvedores
+ - Analista de qualidade: responsável por todo o processo de desenvolvimento e validação se O QUE foi pedido foi entregue.
+ - DevOps: responsável por facilitar a vida dos devs automatizando etapas que são comuns para todos os devs de uma empresa.
+ - Scrum master / Agile Coach: responsável por incentivar uma metodologia de trabalho organizada que meça produtividade
+ - Entre outros...
 
-Abaixo, vou contar a versão mais longa e completa dos Tipos de desenvolvedores que existem em uma equipe de desenvolvimento de software através 
-de um exemplo pois acredito que vá ficar 
+Abaixo, vou contar a versão mais longa e completa dos Tipos de desenvolvedores que existem em uma equipe de 
+desenvolvimento de software através de um exemplo pois acredito que vá ficar 
 mais claro de entender: <br />
 
 Imaginem que nós trabalhamos para a empresa fictícia ENTERPRISE-X, que desenvolve programas e dessa vez um hospital nos contratou para criar um
 programa  que faça toda a gestão dos pacientes internados, informe quantos pacientes estão internados, quais os motivos, sintomas, quais remédios
-foram prescritos, quais remédios, em qual horário foram dados os remédios, qual o médico responsável por cada paciente, etc.. E por praticidade, 
+foram prescritos, em qual horário foram dados os remédios, qual o médico responsável por cada paciente, etc.. E por praticidade, 
 o hospital decidiu que seria melhor criar uma versão para aplicativo Android e um Site na internet. <br />
  
 O projeto foi iniciado há algumas semanas, nessas primeiras semanas detalharam melhor as funcionalidades que terá o programa e criaram protótipos 
-de como será o aplicativo android e a versão do site também. <br />
+de como será o aplicativo Android e a versão do site também. <br />
 
-E a nossa empresa decidiu que, para agilizar o desenvolvimento, e conseguirmos concluir o projeto mais rápido, nós iremos nos dividir 
-em equipes/times de desenvolvimento. Cada equipe irá pegar uma parte do sistema para desenvolver, dessa forma conseguiremos paralelizar o trabalho. <br />
+E a nossa empresa decidiu que, para agilizar o desenvolvimento e conseguirmos concluir o projeto mais rápido, nós iremos nos dividir 
+em equipes/times de desenvolvimento. Cada equipe irá pegar uma parte do sistema para desenvolver, dessa forma conseguiremos **paralelizar** o trabalho. <br />
 Nosso time ficou responsável somente pela parte do cadastro dos pacientes, o restante será construído pelos outros times de desenvolvimento. <br />
 
 Nosso time é composto por: 
  - 1 analista de negócio: responsável pelo negócio e explicar para o time as necessidades que devem ser atendidas, além de aprovar ou não
 se o sistema que iremos desenvolver atende os requisitos do hospital. 
- - 1 UX/UI:  responsável por entender e criar os protótipos do sistemas com o intuito de antes de construir o código, já termos feedback 
-do analista de negócio para garantir que atende os requisitos do hospital 
+ - 1 UX/UI:  responsável por entender o fluxo e criar os protótipos do sistema
  - 1 Desenvolvedor Frontend Web: responsável por desenvolver a parte visual do site, baseado nos protótipos criados pelo UX/UI. 
  - 1 Desenvolvedor Frontend Android: responsável por desenvolver a parte visual do site, baseado nos protótipos criados pelo UX/UI. 
  - 1 Desenvolvedor Backend: responsável por desenvolver os processos que rodam por "trás" do sistema. 
@@ -84,7 +88,7 @@ chamar uma mesma "função" que simplesmente salva as informações num banco de
 com o banco de dados fica somente nessa "função", mas tanto o Android quanto o site terão que chamar essa "função" da sua forma... <br />
 
 E é aí que entra o Backend que vou explicar melhor abaixo, mas aqui no "frontend", você só irá chamar uma "função" que salva o cadastro 
-dos pacientes, por exemplo, em cada plataforma diferente usando linguagem de programação diferentes. <br />
+dos pacientes. <br />
 
 ## Backend 
 Geralmente no desenvolvimento terão funcionalidades que precisarão ser usadas diversas vezes em lugares diferentes,
