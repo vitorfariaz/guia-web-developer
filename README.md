@@ -1,8 +1,29 @@
 # Guia para se tornar uma pessoa Desenvolvedora de sites (Desenvolvimento Frontend Web)
-A ideia dessa página é ser um guia prático com conceitos e cursos técnicos gratuitos para uma pessoa saber o que precisa para se tornar um desenvolvedor Frontend Web. <br />
+A ideia dessa página é ser um **guia prático** DO ZERO onde eu possui TUDO você irá precisar conhecer e saber fazer para conseguir desenvolver um site e conseguir entrar no mercado de trabalho. <br />
 
-Eu criei esse material que, antes de despejar um monte de cursos técnicos, explica sobre o contexto geral da área de tecnologia, separado por tópicos. É um passo a passo detalhado do zero até você entender o que é uma linguagem de programação e desenvolver algumas coisas usando-a. <br />
-Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes serão úteis independente de que caminho você siga no desenvolvimento de software.<br />
+
+Após a leitura você:
+ - Terá uma boa noção sobre como funciona a internet e os computadores
+ - Terá aprendido a programar
+ - Poderá criar sistemas e aprender novas tecnologias com mais facilidade
+ - Saberá criar um site
+ - Estará MAIS próximo ou conseguirá atuar na área de TI como desenvolvedor Web  
+
+Mas como? <br />
+
+Montei essa trilha de estudos com tudo que você irá precisar conhecer DESDE O ZERO para entrar na área de TI e indiquei cursos BONS e gratuitos para cada um desses assuntos, além disso, dei algumas dicas de como estudar melhor e achar e ser achado para vagas de trabalho/estágio. <br />
+
+
+Criei esse material por identifiquei a necessidade/falta de conteúdo com um viés para pessoas mais iniciantes. A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia, separado por tópicos. É um passo a passo detalhado do zero para você entender: 
+ - O que é um computador e como ele funciona
+ - Como funciona a internet
+ - O que é uma linguagem de programação 
+ - Como desenvolver sites
+ - Dicas de COMO estudar
+ - Como achar e ser achado para vagas de trabalho ou estágios
+ 
+Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e texto colocado aqui é extramamente importante e foi pensado para estar aqui e facilitar o seu entendimento das coisas.
+
 
 ## Introdução
 Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabalha com isso faz, certo?! <br />
