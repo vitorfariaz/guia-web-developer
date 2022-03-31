@@ -1,9 +1,8 @@
 # Guia para se tornar uma pessoa Desenvolvedora de sites (Desenvolvimento Frontend Web)
-A ideia dessa página é ser um **guia prático** DO ZERO onde eu possui TUDO você irá precisar conhecer e saber fazer para conseguir desenvolver um site e conseguir entrar no mercado de trabalho. <br />
+A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e conseguir entrar no mercado de trabalho! <br />
 
-
-Após a leitura você:
- - Terá uma boa noção sobre como funciona a internet e os computadores
+Após concluir esse guia você:
+ - Terá uma boa noção sobre COMO funciona a internet e os computadores
  - Terá aprendido a programar
  - Poderá criar sistemas e aprender novas tecnologias com mais facilidade
  - Saberá criar um site
@@ -11,10 +10,11 @@ Após a leitura você:
 
 Mas como? <br />
 
-Montei essa trilha de estudos com tudo que você irá precisar conhecer DESDE O ZERO para entrar na área de TI e indiquei cursos BONS e gratuitos para cada um desses assuntos, além disso, dei algumas dicas de como estudar melhor e achar e ser achado para vagas de trabalho/estágio. <br />
+Montei essa trilha de estudos com tudo que você irá precisar conhecer **DESDE O ZERO** para entrar na área de TI e indiquei cursos BONS e GRATUITOS para cada um desses assuntos, além disso, dei algumas dicas de como estudar melhor e achar e ser achado para vagas de trabalho/estágio. <br />
 
+Criei esse material por identifiquei a necessidade/falta de conteúdo com um viés para pessoas mais iniciantes. A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia, separado por tópicos. <br />
 
-Criei esse material por identifiquei a necessidade/falta de conteúdo com um viés para pessoas mais iniciantes. A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia, separado por tópicos. É um passo a passo detalhado do zero para você entender: 
+É um passo a passo detalhado do zero para você entender: 
  - O que é um computador e como ele funciona
  - Como funciona a internet
  - O que é uma linguagem de programação 
@@ -27,11 +27,8 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
 
 ## Introdução
 Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabalha com isso faz, certo?! <br />
-Isso é um pouco estranho não? <br />
 
-No início são bastante conteúdos, várias coisas passam pela nossa cabeça e nos perdemos quando temos contato com tanta informação nova, mas eu preparei esse material com muito cuidado, tentando tirar a principais dúvidas para que você consiga se "achar" e entender onde está e quais são os passos para que você consiga entrar na área sabendo o que fazer. <br />
-
-Não tem nada mirabolante mesmo, são várias dicas, compilados de conhecimento, indicações de cursos e materiais que fui juntando nesses anos de trabalho que pessoas próximas foram me perguntando. <br />
+No início são bastante conteúdos, várias coisas passam pela nossa cabeça e nos perdemos quando temos contato com tanta informação nova, mas eu preparei esse material com muito cuidado, tentando tirar as principais dúvidas para que você consiga se "achar" e entender onde está e quais são os passos para que você consiga entrar na área sabendo o que fazer. <br />
 
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada:
  - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
