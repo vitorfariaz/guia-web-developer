@@ -11,18 +11,18 @@ Após concluir esse guia você:
 
 Mas como? <br />
 
-Montei essa trilha de estudos com tudo que você irá precisar conhecer **DESDE O ZERO** para entrar na área de TI e indiquei cursos BONS e GRATUITOS para cada um desses assuntos, além disso, dei algumas dicas de como estudar melhor e achar e ser achado para vagas de trabalho/estágio. <br />
+Montei essa trilha de estudos com **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até conseguir um emprego na área de TI. Aqui você também contrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar e ser achado para vagas de trabalho/estágio.** <br />
 
 Criei esse material pois identifiquei a necessidade/falta de conteúdo com um viés mais iniciante.
-A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia, separado por tópicos. <br />
+A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia. <br />
 
 É um passo a passo detalhado do zero para você conseguir a primeira vaga na área.
 
-Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e texto
- colocado aqui são extremamente importantes.
+Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e textos
+ colocados aqui são extremamente importantes. Não pule etapas!
 
 <br />
-<p align="center"><i>Caso tenho qualquer dúvida, será uma prazer de ajudar! Minhas redes sociais.</i><p>
+<p align="center"><i>Caso tenho qualquer dúvida, será um prazer te ajudar! Minhas redes sociais.</i><p>
 
 <p align="center">
      <a href="https://instagram.com/vitorfariaz">
@@ -35,9 +35,7 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
     	 <img src="https://www.gov.br/agricultura/pt-br/centrais-de-conteudo/imagens/linkedin.png" height="68" alt="linkedin vitor" />
     </a>
 </p>
- 
-  
-  
+     
 
 <h1 align="center">Introdução</h1>
   
