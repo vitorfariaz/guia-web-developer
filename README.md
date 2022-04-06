@@ -37,15 +37,6 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - [Cursos gratuitos para desenvolvimento](cursos-desenvolvimento-web.md)(40Hrs +)
  - [Dicas para criação do teu currículo](#dicas-criacao-curriculo)
 
-## Dicas para criação do currículo
-
-Hoje em dia, 90% das vagas na área de tecnologia são encontradas através do LinkedIn, ter um perfil bem construído e bem utilizado na plataforma é extramente importante para ser achado por recrutadores. <br />
-É também um lugar onde você pode encontrar vagas de estágio / programas de inclusão e vagas para trabalho mesmo.
-
-- [Dicas para construção do perfil do LinkedIn](https://www.youtube.com/watch?v=h06KIgcPUnU)
-- [Dicas para construção do perfil do LinkedIn 2](https://www.youtube.com/watch?v=rYWwXtQ4vkw)
-
-
 
 ## Metodologia de trabalho Agil
 Como as empresas se organizam no dia a dia para desenvolver software? Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
