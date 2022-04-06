@@ -9,10 +9,12 @@ Nessa página você encontrará cursos de:
  - **React**: Biblioteca JavaScript responsável por facilitar a criação e interatividade de páginas da Internet, é uma das bibliotecas mais utilizadas no mundo para desenvolvimento de sites.
  - **Git**: Sistema responsável pelo armazenamento/versionamento e controle de códigos fontes.
 
-Você conhecendo bem cada uma dessas tecnologias, conseguirá dominar o desenvolvimento de sites e estará pronto para diversas vagas na área. <br />   
+Basicamente dominando esses assuntos de forma prática, conseguirá desenvolver sites e estará pronto para diversas vagas na área. <br />   
+
 **Já vou adiantando, não adianta só assistir os cursos e não praticar**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
-Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercícios e no final da aula vou passar exercícios também, que exigirá todo o conhecimento adquirido no curso. Então você pode reassistir as aulas caso você não se lembre como fazer. Os cursos servem também como material prático, um "livro" que você pode consultar quando não se lembrar de como fazer algo. <br />
+Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercícios e no final da aula vou passar exercícios também, que exigirá todo o conhecimento adquirido no curso. Então você pode reassistir as aulas caso você não se lembre como fazer. 
+Os cursos servem também como material prático, um "livro" que você pode consultar quando não se lembrar de como fazer algo. <br />
 
 
 ## Introdução - Fundamentos da Computação
@@ -22,8 +24,7 @@ A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é 
 
 No menu lateral onde tem "Week 0-10", tem 11 aulas, asista as aulas **Week 0** e **Week 1**. Que são a introdução sobre ciência da computação e explica de modo genérico como funciona o computador e as linguagens de programação.
 
-Fala também sobre outros termos que no futuro vai ser interessante você já saber do que se trata. <br />
-Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e seleciona o idioma Português. <br />
+Obs.: No player do vídeo, marque a opção de legendas, vá em configurações(ícone de engrenagem) e selecione o idioma Português. <br />
 
 Assista somente as aulas **Week 0** e **Week 1** <br />
 
