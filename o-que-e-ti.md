@@ -13,7 +13,7 @@ utilização dos computadores e o desenvolvimento da internet. <br />
 Temos também tecnologias ainda mais avançadas como energia nuclear, nanotecnologia, biotecnologia, etc.. 
 Essas últimas geralmente são chamadas de tecnologia de ponta, mas não são elas o foco do nosso conteúdo. <br />
 
-## O QUE É INFORMAÇÃO? 
+## O que é informação? 
 Bom, acho que deu pra entender o que é tecnologia mas o que é informação? <br />
 
 É o ato de informar, notícia, conhecimento, ciência, é a reunião ou o conjunto de dados e conhecimentos organizados, 
@@ -26,7 +26,7 @@ Exemplo de informação: Hoje está fazendo 6 graus C° <br />
 O dado sozinho não nos diz nada, não nos "engrandece de conhecimento", já a informação, sim,
 e ela só pode nos engrandecer de conhecimento fazendo sentido e sempre com um conjunto de dados. <br />
 
-## O QUE É TECNOLOGIA DA INFORMAÇÃO? 
+## O que é tecnologia da informação? 
 É a tecnologia que nos dá conhecimento sobre algo e/ou nos ajuda a executar uma tarefa. <br />
 
 Um robô é uma tecnologia da informação? Qual a diferença entre a robótica e a TI? <br />
