@@ -1,4 +1,9 @@
 # Guia para Desenvolvedores(as) de sites (Desenvolvimento Frontend Web)
+  
+|Início do Mês  | Final do Mês |
+| :------------:|:---------------:| 
+ <img src="https://i.makeagif.com/media/12-06-2015/xb2feE.gif" height="140"  alt="monkey typing" />  | <img src="https://c.tenor.com/j5dZt5jLdpkAAAAC/monkey-money.gif" height="140" alt="monkey with money vitor" /><br /><br />
+
 A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e conseguir entrar no mercado de trabalho! <br />
 
 Após concluir esse guia você:
@@ -20,17 +25,33 @@ A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologi
 Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e texto
  colocado aqui são extremamente importantes.
 
+
+<p align="center">Caso tenho alguma dúvida, pode entrar em contato comigo através das minhas redes sociais<p>
+
+<p align="center">
+     <a href="https://instagram.com/vitorfariaz">
+    	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="68" alt="roadmaps" />
+    </a>
+     <a href="https://www.youtube.com/channel/UCt0raH0P0UX-rEuiJZkkOvA/videos">
+    	 <img src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" height="68" alt="youtube vitor" />
+    </a>
+      <a href="https://www.linkedin.com/in/vitor-farias-a60760121/">
+    	 <img src="https://www.gov.br/agricultura/pt-br/centrais-de-conteudo/imagens/linkedin.png" height="68" alt="linkedin vitor" />
+    </a>
+</p>
+ 
+
 ## Introdução
 No início são bastante conteúdos mas eu preparei esse material com muito cuidado, tentando tirar as principais dúvidas para que você consiga trilhar um caminho
 e entender onde está e quais são os passos para que você consiga entrar na área sabendo o que fazer. <br />
 
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada:
- - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
- - [Mercado de trabalho](mercado-de-trabalho.md)(10Min)
- - [Tipos de desenvolvedores](tipos-de-desenvolvedores.md)(10Min)
- - [Dicas essenciais para melhor aprendizado](melhor-aprendizado.md)(5Min)
- - [Cursos gratuitos para desenvolvimento](cursos-desenvolvimento-web.md)(+ 40Hrs)
- - [Dicas para criação do currículo](dicas-criacao-curriculo.md)(30Min)
+ - 💻[O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
+ - 👷‍♂️[Mercado de trabalho](mercado-de-trabalho.md)(10Min)
+ - 👨‍💻[Tipos de desenvolvedores](tipos-de-desenvolvedores.md)(10Min)
+ - ✍[Dicas essenciais para melhor aprendizado](melhor-aprendizado.md)(5Min)
+ - 🎬[Cursos gratuitos para desenvolvimento](cursos-desenvolvimento-web.md)(+ 40Hrs)
+ - 📝[Dicas para criação do currículo](dicas-criacao-curriculo.md)(30Min)
  
 <br />
 
