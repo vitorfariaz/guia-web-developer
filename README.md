@@ -30,7 +30,7 @@ Essa trilha possui **tudo** que você precisará saber 💥**DESDE O ZERO**💥 
 Criei esse material pois identifiquei a necessidade/falta de conteúdos com um viés mais iniciante.
 A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia. <br />
 
-É um passo a passo detalhado do zero para você conseguir a primeira vaga na área.
+É um passo a passo detalhado do zero para você se tornar um profissional da área de TI.
 
 Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e textos
  colocados aqui são extremamente importantes. Não pule etapas!
