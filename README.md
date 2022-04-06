@@ -22,7 +22,7 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
  colocado aqui são extremamente importantes.
 
 <br />
-<p align="center"><i>Caso tenho qualquer dúvida, será uma prazer de ajudar! Minhas redes sociais.<i><p>
+<p align="center"><i>Caso tenho qualquer dúvida, será uma prazer de ajudar! Minhas redes sociais.</i><p>
 
 <p align="center">
      <a href="https://instagram.com/vitorfariaz">
@@ -39,12 +39,9 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
   
   
 
-  <h1 align="center">Introdução</h1>
+<h1 align="center">Introdução</h1>
   
-No início são bastante conteúdos mas eu preparei esse material com muito cuidado, tentando tirar as principais dúvidas para que você consiga trilhar um caminho
-e entender onde está e quais são os passos para que você consiga entrar na área sabendo o que fazer. <br />
-
-A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada:
+A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada
  - 💻[O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
  - 👷‍♂️[Mercado de trabalho](mercado-de-trabalho.md)(10Min)
  - 👨‍💻[Tipos de desenvolvedores](tipos-de-desenvolvedores.md)(10Min)
