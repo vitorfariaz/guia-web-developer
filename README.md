@@ -33,6 +33,15 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - [Dicas para criação do currículo](dicas-criacao-curriculo.md)(30Min)
 
 
+
+<br />
+<br />
+<br />
+<br />
+
+Fazendo ~~
+
+
 ## Metodologia de trabalho Agil
 Como as empresas se organizam no dia a dia para desenvolver software? Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
 Ele faz o pedido pelo whats? <br />
