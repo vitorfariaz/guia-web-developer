@@ -1,4 +1,4 @@
-# Guia para desenvolvedor de sites
+<h1 align="center">💻 Guia para desenvolvedor de sites 💻</h1> 
   
 A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e trabalhar profissionalmente como Desenvolvedor Frontend! <br />
 
