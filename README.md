@@ -15,15 +15,13 @@ Montei essa trilha de estudos com tudo que você irá precisar conhecer **DESDE 
 Criei esse material pois identifiquei a necessidade/falta de conteúdo com um viés mais iniciante.
  A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia, separado por tópicos. <br />
 
-É um passo a passo detalhado do zero para você entender: 
- - O que é um computador e como ele funciona
- - Como funciona a internet
- - O que é uma linguagem de programação 
- - Como desenvolver sites
- - Dicas de COMO estudar
- - Como achar e ser achado para vagas de trabalho ou estágios
- 
-Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e texto colocado aqui é extramamente importante e foi pensado para estar aqui e facilitar o seu entendimento das coisas.
+É um passo a passo detalhado do zero até você estar
+Capacitado para a primeira vaga na área.
+
+Tomei o cuidado de passar alguns conteúdos bem 
+fundamentais 
+que são importantes, cada curso indicado e texto
+ colocado aqui são extremamente importantes.
 
 
 ## Introdução
