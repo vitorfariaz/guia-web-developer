@@ -52,8 +52,9 @@ Pesquisei algumas outras vagas para ter uma comparação sobre o número de vaga
 último mês, e lembrando que essas outras vagas, estão espalhadas pelo brasil inteiro, provavelmente você não teria acesso a elas como nas de programação: 
  - Nutricionista: 600 vagas
  - Advogado: 800
- - Dentista: 300, 
- - Motorista: 4Mil. 
+ - Dentista: 300
+ - Motorista: 4Mil
+ - Software Engineer(Brasil): 15 mil
 Pesquisem vocês, não acreditem em mim. <br />
 
 Agora que você já gastou um certo tempo, deve estar se perguntando se isso que está aprendendo agora será cobrado, ou se precisa de certificado, 
