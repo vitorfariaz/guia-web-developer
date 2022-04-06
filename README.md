@@ -1,19 +1,33 @@
 # Guia para desenvolvedores de sites
   
-A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e conseguir entrar no mercado de trabalho! <br />
+A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e trabalhar profissionalmente como Desenvolvedor Frontend! <br />
+
+Qual o problema que esse guia visa resolver:
+<br /> ❌ A taxa de desemprego está altíssima no Brasil
+<br /> ❌ Pessoas formadas em diversas áreas estão sem emprego
+<br /> ❌ Pessoas formadas em diversas áreas com salários baixos(menos de 2 salários mínimos)
+
+E por outro lado, na área de TI
+<br /> 📣 Falta profissionais na área de desenvolvimento de software 
+<br /> 📣 Milhares de vagas de emprego
+<br /> 📣 Profissionais podendo trabalhar para empresas do brasil inteiro remotamente
+<br /> 📣 Salários alto devido a demanda de profissionais muito alta
+
+Com esse guia, busco fomentar e ajudar mais pessoas a entrarem na área de TI. Aqui você encontrará ferramentas que te auxiliaram na sua jornada 
+até se tornar um desenvolvedor se software! <br />
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
 <br />  ✔ Terá aprendido a programar em uma linguagem de programação
 <br />  ✔ Poderá aprender novas tecnologias com mais facilidade
 <br />  ✔ Saberá criar sites
-<br />  ✔ Estará MAIS próximo ou conseguirá atuar na área de TI profissionalmente como desenvolvedor Web  
+<br />  ✔ Estará MAIS próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Frontend Web  
 
 Mas como? <br />
 
-Montei essa trilha de estudos com **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até conseguir um emprego na área de TI. Aqui você também contrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar e ser achado para vagas de trabalho/estágio.** <br />
+Essa trilha possui **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até se tornar um profissional na área de TI. Aqui você também contrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar e ser achado para vagas de trabalho/estágio.** <br />
 
-Criei esse material pois identifiquei a necessidade/falta de conteúdo com um viés mais iniciante.
+Criei esse material pois identifiquei a necessidade/falta de conteúdos com um viés mais iniciante.
 A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia. <br />
 
 É um passo a passo detalhado do zero para você conseguir a primeira vaga na área.
