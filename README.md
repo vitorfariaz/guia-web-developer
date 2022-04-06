@@ -3,15 +3,19 @@
 A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e trabalhar profissionalmente como Desenvolvedor Frontend! <br />
 
 Qual o problema que esse guia visa resolver:
-<br /> ❌ A taxa de desemprego está altíssima no Brasil
+<br /> ❌ Taxa de desemprego altíssima no Brasil
+<br /> ❌ Muita concorrência para poucas vagas
+<br /> ❌ Salários baixos devido a ter muitos candidatos para as vagas
 <br /> ❌ Pessoas formadas em diversas áreas estão sem emprego
 <br /> ❌ Pessoas formadas em diversas áreas com salários baixos(menos de 2 salários mínimos)
+<br /> ❌ Pessoas formadas em diversas áreas concorrendo a poucas vagas
 
 E por outro lado, na área de TI
 <br /> 📣 Falta profissionais na área de desenvolvimento de software 
 <br /> 📣 Milhares de vagas de emprego
 <br /> 📣 Profissionais podendo trabalhar para empresas do brasil inteiro remotamente
-<br /> 📣 Salários alto devido a demanda de profissionais muito alta
+<br /> 📣 Salários altos devido a demanda de profissionais muito alta
+<br /> 📣 Profissionais podendo trabalhar para fora do brasil ganhando em Dólar/Euro/Libra
 
 Com esse guia, busco fomentar e ajudar mais pessoas a entrarem na área de TI. Aqui você encontrará ferramentas que te auxiliaram na sua jornada 
 até se tornar um desenvolvedor se software! <br />
