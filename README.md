@@ -1,4 +1,4 @@
-# Guia para desenvolvedores de sites
+# Guia para desenvolvedor de sites
   
 A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e trabalhar profissionalmente como Desenvolvedor Frontend! <br />
 
@@ -67,6 +67,17 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  
 <br />
 
+<h1 align="center">Roadmaps para outros tipos de desesenvolvedores</h1>
+Me inspirei na versão abaixo para criar este guia. Clicando na imagem, você encontrará demais guias e a fonte de inspiração desse repositório
+<br /><br />
+<p align="center">
+   <a href="https://roadmap.sh/roadmaps">
+     <img src="https://raw.githubusercontent.com/vitorfariaz/developer-roadmap/1b9d74525aae3c4e95daedbbdbea3945a15964b9/public/logo.svg" height="128">
+   </a>
+    <h2 align="center">roadmap.sh</h2>
+</p>
+  
+  
 ## Metodologia de trabalho Agil
 Como as empresas se organizam no dia a dia para desenvolver software? Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
 Ele faz o pedido pelo whats? <br />
