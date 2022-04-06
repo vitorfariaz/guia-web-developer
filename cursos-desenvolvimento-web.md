@@ -16,7 +16,7 @@ Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercí
 
 
 ## Introdução - Fundamentos da Computação
-Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitual, você vai entender como funciona um computador e as linguagens de programação. O que acho fantástico nesse mini curso é que o professor consegue explicar algo complexo como o computador, de forma simples e lúdica. <br />
+Nesse material você vai entender como funciona um computador e as linguagens de programação. O que acho fantástico nesse mini curso é que o professor consegue explicar algo complexo como o computador, de forma simples e lúdica. <br />
 
 A ideia de passar esse vídeo é que ele reforça um pouco o conceito do que é tecnologia, pra que serve e o que podemos fazer com ela. <br />
 
@@ -48,7 +48,6 @@ Assista somente as aulas **Week 0** e **Week 1** <br />
 
 **Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.**
 
-
 ## Introdução - Fundamentos da Internet
 
 Nesse material, você vai entender como a internet funciona. Como é trafegado as informações pela rede, o que acontece quando você acessa um site, qual o papel do navegador, entre outras coisas. <br />
@@ -75,7 +74,6 @@ Assista somente a aula **Week 8**, acione as legendas no vídeo clicando nas leg
  10. Faça um desenho da arquitetura da internet da sua casa até um servidor que você acessa.
 
 **Responda você mesmo primeiro, caso não saiba a resposta, assista novamente os vídeos e depois confira as Respostas no final da página.**
-
 
 ### Reforçando conteúdo sobre fundamentos da internet
 
