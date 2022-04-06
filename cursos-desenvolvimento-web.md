@@ -1,10 +1,10 @@
 Nessa página você encontrará cursos de:
  - **Fundamentos da Ciência da computação**: Como um computador funciona e processa informações.
  - **Fundamentos da Internet**: Como a internet funciona e como é compartilhado informações entre dispositivos ligados a internet.
- - **HTML**: linguagem de **marcação** de texto responsável por representar efeitos de fonte, cor, gráfico, botões, input de textos, arquivos e hiperlink em páginas da Internet.
- - **CSS**: linguagem de **marcação** responsável por estilizar/posicionar/animar os elementos HTML.
+ - **HTML**: linguagem de *marcação* de texto responsável por representar efeitos de fonte, cor, gráfico, botões, input de textos, arquivos e hiperlink em páginas da Internet.
+ - **CSS**: linguagem de *marcação* responsável por estilizar/posicionar/animar os elementos HTML.
  - **Algoritmos**: Você irá aprender o que é algoritmo, para que serve e como criar os seus próprios. Isso é a base fundamental para qualquer linguagem de programação que você irá aprender no futuro.
- - **Javascript**: linguagem de **programação** responsável por deixar as páginas da internet interativas. Com o js você consegue criar comportamentos específicos ao interagir com uma página da Internet.
+ - **Javascript**: linguagem de *programação* responsável por deixar as páginas da internet interativas. Com o js você consegue criar comportamentos específicos ao interagir com uma página da Internet.
  - **React**: Biblioteca JavaScript responsável por facilitar a criação e interatividade de páginas da Internet, é uma das bibliotecas mais utilizadas no mundo para desenvolvimento de sites.
  - **Git**: Sistema responsável pelo armazenamento/versionamento e controle de códigos fontes.
 
