@@ -29,7 +29,7 @@ Após concluir esse guia você:
 
 Mas como? <br />
 
-Essa trilha possui **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até se tornar um profissional na área de TI. Aqui você também contrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar e ser achado para vagas de trabalho/estágio.** <br />
+Essa trilha possui **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até se tornar um profissional na área de TI. Aqui você também contrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar** e **ser achado para vagas de trabalho/estágio.** <br />
 
 Criei esse material pois identifiquei a necessidade/falta de conteúdos com um viés mais iniciante.
 A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia. <br />
