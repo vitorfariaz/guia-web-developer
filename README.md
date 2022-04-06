@@ -1,12 +1,12 @@
-# Guia para se tornar uma pessoa Desenvolvedora de sites (Desenvolvimento Frontend Web)
+# Guia para Desenvolvedores(as) de sites (Desenvolvimento Frontend Web)
 A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e conseguir entrar no mercado de trabalho! <br />
 
 Após concluir esse guia você:
  - Terá uma boa noção sobre COMO funciona a internet e os computadores
- - Terá aprendido a programar
- - Poderá criar sistemas e aprender novas tecnologias com mais facilidade
- - Saberá criar um site
- - Estará MAIS próximo ou conseguirá atuar na área de TI como desenvolvedor Web  
+ - Terá aprendido a programar em uma linguagem de programação
+ - Poderá aprender novas tecnologias com mais facilidade
+ - Saberá criar sites
+ - Estará MAIS próximo ou conseguirá atuar na área de TI profissionalmente como desenvolvedor Web  
 
 Mas como? <br />
 
@@ -21,9 +21,8 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
  colocado aqui são extremamente importantes.
 
 ## Introdução
-Você quer uma profissão que provavelmente nem sabe muito bem o que quem trabalha com isso faz, certo?! <br />
-
-No início são bastante conteúdos, várias coisas passam pela nossa cabeça e nos perdemos quando temos contato com tanta informação nova, mas eu preparei esse material com muito cuidado, tentando tirar as principais dúvidas para que você consiga se "achar" e entender onde está e quais são os passos para que você consiga entrar na área sabendo o que fazer. <br />
+No início são bastante conteúdos mas eu preparei esse material com muito cuidado, tentando tirar as principais dúvidas para que você consiga trilhar um caminho
+e entender onde está e quais são os passos para que você consiga entrar na área sabendo o que fazer. <br />
 
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada:
  - [O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
