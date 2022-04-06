@@ -1,4 +1,4 @@
-## O QUE É TECNOLOGIA? 
+## O que é tecnologia? 
 Tecnologia é um conjunto de instrumentos, métodos e técnicas para realizar algo. É a aplicação prática do conhecimento científico em diversas áreas de pesquisas. <br />
 
 Alguns exemplos: <br />
