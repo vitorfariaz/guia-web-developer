@@ -1,17 +1,13 @@
-# Guia para Desenvolvedores(as) de sites (Desenvolvimento Frontend Web)
+# Guia para desenvolvedores de sites
   
-|Início do Mês  | Final do Mês |
-| :------------:|:---------------:| 
- <img src="https://i.makeagif.com/media/12-06-2015/xb2feE.gif" height="140"  alt="monkey typing" />  | <img src="https://c.tenor.com/j5dZt5jLdpkAAAAC/monkey-money.gif" height="140" alt="monkey with money vitor" /><br /><br />
-
 A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e conseguir entrar no mercado de trabalho! <br />
 
 Após concluir esse guia você:
- - Terá uma boa noção sobre COMO funciona a internet e os computadores
- - Terá aprendido a programar em uma linguagem de programação
- - Poderá aprender novas tecnologias com mais facilidade
- - Saberá criar sites
- - Estará MAIS próximo ou conseguirá atuar na área de TI profissionalmente como desenvolvedor Web  
+<br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
+<br />  ✔ Terá aprendido a programar em uma linguagem de programação
+<br />  ✔ Poderá aprender novas tecnologias com mais facilidade
+<br />  ✔ Saberá criar sites
+<br />  ✔ Estará MAIS próximo ou conseguirá atuar na área de TI profissionalmente como desenvolvedor Web  
 
 Mas como? <br />
 
@@ -25,8 +21,8 @@ A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologi
 Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e texto
  colocado aqui são extremamente importantes.
 
-
-<p align="center">Caso tenho alguma dúvida, pode entrar em contato comigo através das minhas redes sociais<p>
+<br />
+<p align="center"><i>Caso tenho qualquer dúvida, será uma prazer de ajudar! Minhas redes sociais.<i><p>
 
 <p align="center">
      <a href="https://instagram.com/vitorfariaz">
@@ -40,8 +36,11 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
     </a>
 </p>
  
+  
+  
 
-## Introdução
+  <h1 align="center">Introdução</h1>
+  
 No início são bastante conteúdos mas eu preparei esse material com muito cuidado, tentando tirar as principais dúvidas para que você consiga trilhar um caminho
 e entender onde está e quais são os passos para que você consiga entrar na área sabendo o que fazer. <br />
 
