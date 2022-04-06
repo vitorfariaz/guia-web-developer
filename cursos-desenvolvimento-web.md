@@ -1,3 +1,19 @@
+Nessa página você encontrará cursos de:
+ - **Fundamentos da Ciência da computação**: Como um computador funciona e processa informações.
+ - **Fundamentos da Internet**: Como a internet funciona e como é compartilhado informações entre dispositivos ligados a internet.
+ - **HTML**: linguagem de **marcação** de texto responsável por representar efeitos de fonte, cor, gráfico, botões, input de textos, arquivos e hiperlink em páginas da Internet.
+ - **CSS**: linguagem de **marcação** responsável por estilizar/posicionar/animar os elementos HTML.
+ - **Algoritmos**: Você irá aprender o que é algoritmo, para que serve e como criar os seus próprios. Isso é a base fundamental para qualquer linguagem de programação que você irá aprender no futuro.
+ - **Javascript**: linguagem de **programação** responsável por deixar as páginas da internet interativas. Com o js você consegue criar comportamentos específicos ao interagir com uma página da Internet.
+ - **React**: Biblioteca JavaScript responsável por facilitar a criação e interatividade de páginas da Internet, é uma das bibliotecas mais utilizadas no mundo para desenvolvimento de sites.
+ - **Git**: Sistema responsável pelo armazenamento/versionamento e controle de códigos fontes.
+
+Você conhecendo bem cada uma dessas tecnologias, conseguirá dominar o desenvolvimento de sites e estará pronto para diversas vagas na área. <br />   
+**Já vou adiantando, não adianta só assistir os cursos e não praticar**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
+
+Você deve ir praticando a cada aula, geralmente os cursos deixam alguns exercícios e no final da aula vou passar exercícios também, que exigirá todo o conhecimento adquirido no curso. Então você pode reassistir as aulas caso você não se lembre como fazer. Os cursos servem também como material prático, um "livro" que você pode consultar quando não se lembrar de como fazer algo. <br />
+
+
 ## Introdução - Fundamentos da Computação
 Agora que você entendeu o que é TI, ainda que de maneira bem ampla e conceitual, você vai entender como funciona um computador e as linguagens de programação. O que acho fantástico nesse mini curso é que o professor consegue explicar algo complexo como o computador, de forma simples e lúdica. <br />
 
