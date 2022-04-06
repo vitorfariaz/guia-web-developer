@@ -12,7 +12,8 @@ Mas como? <br />
 
 Montei essa trilha de estudos com tudo que você irá precisar conhecer **DESDE O ZERO** para entrar na área de TI e indiquei cursos BONS e GRATUITOS para cada um desses assuntos, além disso, dei algumas dicas de como estudar melhor e achar e ser achado para vagas de trabalho/estágio. <br />
 
-Criei esse material pois identifiquei a necessidade/falta de conteúdo com um viés para pessoas mais iniciantes. A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia, separado por tópicos. <br />
+Criei esse material pois identifiquei a necessidade/falta de conteúdo com um viés mais iniciante.
+ A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia, separado por tópicos. <br />
 
 É um passo a passo detalhado do zero para você entender: 
  - O que é um computador e como ele funciona
