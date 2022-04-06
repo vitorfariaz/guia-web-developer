@@ -30,7 +30,7 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - [Tipos de desenvolvedores](tipos-de-desenvolvedores.md)(10Min)
  - [Dicas essenciais para melhor aprendizado](melhor-aprendizado.md)(5Min)
  - [Cursos gratuitos para desenvolvimento](cursos-desenvolvimento-web.md)(+ 40Hrs)
- - [Dicas para criação do teu currículo](dicas-criacao-curriculo.md)(30Min)
+ - [Dicas para criação do currículo](dicas-criacao-curriculo.md)(30Min)
 
 
 ## Metodologia de trabalho Agil
