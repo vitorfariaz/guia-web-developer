@@ -110,8 +110,8 @@ Use os erros para aprender. Deu erro, encare a mensagem de exceção e tente ent
 O sistema não está se comportando como deveria? Leia de novo todo o seu código com calma, se atente para os ponto e vírgula, provavelmente sua lógica está errada. 
 No início é bem comum acharmos que programar é coisa do demônio e que as ferramentas que estamos usando estão com problemas porém é geralmente algum erro de lógica ou sintaxe(ponto e vírgula, letra maiuscula/minuscula).
 
+<h1 align="center">📋 Resumo das dicas, ANOTA AÍ! 📋</h1> 
 
-## Resumo das dicas
  - Siga uma **trilha de estudos** e deixe **visível** para você acompanhar o **progresso**
  - Crie um **cronograma** de estudos com **horários** e **metas**
  - Use alguma técnica de **concentração** para estudar
