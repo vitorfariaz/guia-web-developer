@@ -39,7 +39,7 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
  colocados aqui são extremamente importantes. Não pule etapas!
 
 <br />
-<p align="center"><i>Caso tenho qualquer dúvida, será um prazer te ajudar! Minhas redes sociais.</i><p>
+<p align="center"><i>Caso tenha qualquer dúvida, será um prazer te ajudar! Minhas redes sociais.</i><p>
 
 <p align="center">
      <a href="https://instagram.com/vitorfariaz">
