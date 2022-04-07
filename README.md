@@ -67,11 +67,20 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  <br />
   
 <h1 align="center">Você pode contribuir com esse projeto!</h1>
-Solicite alterações a qualquer parte desse projeto, basta seguir o exemplo abaixo. <br />
 Suas contribuições serão muito bem vindas! <br />
-
-
-
+Solicite alterações a qualquer parte desse projeto, basta seguir o passo a passo abaixo. <br />
+- Você precisa estar logado no git
+- Acesse a página que você deseja alterar
+- Clique no nome do arquivo(na parte superior da tela) da página que você deseja alterar
+- Clique no lápis de edição do arquivo
+- Faça a alteração
+- Clique no botão propose changes(propor alterações)
+- Clique em Create Pull Request
+- Escolha um nome para a sua solicitação de alteração
+- Clique em Create Pull Request
+Sua solicitação de alteração ficará na aba "Pull requests". 
+Após você solicitar a alteração eu iriei avaliar e aprovar se fizer sentido. <br />
+Segue um Gif do fluxo <br />
 
 
 <br />
