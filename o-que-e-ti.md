@@ -14,8 +14,6 @@ Temos também tecnologias ainda mais avançadas como energia nuclear, nanotecnol
 Essas últimas geralmente são chamadas de tecnologia de ponta, mas não são elas o foco do nosso conteúdo. <br />
 
 ## O que é informação? 
-Bom, acho que deu pra entender o que é tecnologia mas o que é informação? <br />
-
 É o ato de informar, notícia, conhecimento, ciência, é a reunião ou o conjunto de dados e conhecimentos organizados, 
 que possam constituir referências sobre um determinado acontecimento, fato ou fenômeno... <br />
 
@@ -48,17 +46,7 @@ Geralmente não vemos essas informações, eles não são para nós usuários, m
 as empresas conseguem nos oferecer produtos mais assertivos, 
 e isso pode ser considerado uma "tecnologia da informação" <br />
 
-Voltando ao exemplo do robô, digamos que seja um robô que tem como objetivo limpar a nossa casa, 
-se ele só executa a tarefa e não faz mais nada, ele é só um robô, só uma tecnologia mecânica,
-por mais inteligente que ele seja, que ele calcule quantas vezes precisa limpar por dia,
-quais quartos, qual a forma mais rápida de limpar etc... Ele só limpa a casa.
-É algo mecânico, não gera informação, mas agora se ele guarda os dados, por exemplo, de quantas vezes ele andou pela 
-casa e ela estava suja, e quanto tempo ele levou para limpar tudo, com esses dados ele poderia gerar a informação de
-o quanto de sujeira alguém faz por dia, por semana etc.. E ele nos mostra essa informação de alguma maneira consolidada, 
-ele acaba de ser evoluído para um sistema/tecnologia da informação E robótica, por que ele consegue gerar informação com 
-os dados que ele coletou. Deu pra entender? <br />
-
-Então é isso, geralmente empresas maduras, médias, grandes e até pequenas, usam e criam diversos sistemas 
+Geralmente empresas maduras, médias, grandes e até pequenas, usam e criam diversos sistemas 
 para resolver um problema e obter o máximo de informação possível, oferecendo algo pra nós em troca, resolvendo algum problema ou facilitando algo...
 E com essas informações certas, elas podem ser muito mais úteis para a sociedade, gerar mais lucro, ser mais eficiente... 
 <br />
