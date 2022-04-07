@@ -5,14 +5,14 @@ Qual o problema que esse guia visa resolver:
 <br /> ❌ Taxa de desemprego altíssima no Brasil
 <br /> ❌ Muita concorrência para poucas vagas
 <br /> ❌ Salários baixos devido a ter muitos candidatos e poucas vagas
-<br /> ❌ Muitas Pessoas formadas em faculdade estão sem emprego
-<br /> ❌ Muitas Pessoas formadas em faculdade com salários baixos(menos de 2 salários mínimos)
-<br /> ❌ Muitas Pessoas formadas em faculdade concorrendo a poucas vagas
+<br /> ❌ Muitas pessoas formadas em faculdade estão sem emprego
+<br /> ❌ Muitas pessoas formadas em faculdade com salários baixos(menos de 2 salários mínimos)
+<br /> ❌ Muitas pessoas formadas em faculdade concorrendo a poucas vagas
 
 E por outro lado, na área de TI:
 <br /> 📣 Falta profissionais na área 
 <br /> 📣 Milhares de vagas de emprego novas todos os dias
-<br /> 📣 Profissionais podendo trabalhar para empresas do brasil inteiro remotamente
+<br /> 📣 Profissionais podendo trabalhar para empresas do brasil inteiro de casa
 <br /> 📣 Salários altos devido a demanda de profissionais muito alta
 <br /> 📣 Profissionais podendo trabalhar para fora do brasil ganhando em Dólar/Euro/Libra
 
