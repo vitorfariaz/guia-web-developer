@@ -31,6 +31,10 @@ e ela só pode nos engrandecer de conhecimento fazendo sentido e sempre com um c
 
 Um robô é uma tecnologia da informação? Qual a diferença entre a robótica e a TI? <br />
 
+|  |  |
+| :------------:|:---------------:| 
+ <img src="https://tm.ibxk.com.br/2021/10/08/08175721815374.jpg?ims=1120x420" height="208" alt="roadmaps" /> | <img src="https://www.mindinventory.com/blog/wp-content/uploads/2018/10/banking-app-1.png" height="288" alt="roadmaps" /><br /><br />
+
 Um robô, é técnológico porém, ele não é criado, geralmente, para nos dar informação,
 ele é criado para executar uma tarefa da melhor forma possível. <br />
 
@@ -40,8 +44,8 @@ porém, esse sistema também guarda nossos dados e gera informações a partir d
 informações eles conseguem oferecer "produtos" que façam mais sentido para o nosso perfil. 
 Como o google por exemplo que guarda nosso histórico de pesquisas e apresenta as propagandas a partir
 dessas informações que ele guardou(aplicativos que baixamos, vídeos que olhamos etc...).
-Geralmente não vemos essas informações, eles não  são para nós usuários, mas com elas, 
-os donos das empresas que guardam elas conseguem nos oferecer produtos mais assertivos, 
+Geralmente não vemos essas informações, eles não são para nós usuários, mas com elas, 
+as empresas conseguem nos oferecer produtos mais assertivos, 
 e isso pode ser considerado uma "tecnologia da informação" <br />
 
 Voltando ao exemplo do robô, digamos que seja um robô que tem como objetivo limpar a nossa casa, 
