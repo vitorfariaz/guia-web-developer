@@ -68,7 +68,7 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
   
 <h1 align="center">Você pode contribuir com esse projeto!</h1>
 
-Suas contribuições serão muito bem vindas! <br />
+
 Solicite alterações a qualquer parte desse projeto, basta seguir o passo a passo abaixo.
  - Você precisa estar logado no git
  - Acesse a página que você deseja alterar
@@ -82,9 +82,9 @@ Solicite alterações a qualquer parte desse projeto, basta seguir o passo a pas
  
 Sua solicitação de alteração ficará na aba "Pull requests". <br />
 Após você solicitar a alteração eu iriei avaliar e aprovar se fizer sentido. <br />
-Segue um Gif do fluxo <br />
-<img src="https://github.com/vitorfariaz/guia-web-developer/blob/main/public/pull-request.gif">
-          
+Segue um GIF solicitando uma alteração<br />
+<img src="https://github.com/vitorfariaz/guia-web-developer/blob/main/public/pull-request.gif"><br />
+Suas contribuições serão muito bem vindas! <br />
 
 
 
