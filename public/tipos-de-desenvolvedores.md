@@ -1,4 +1,4 @@
-## Tipos de desenvolvedores
+<h1 align="center">🤓 Tipos de desenvolvedores 👩‍💻</h1> 
 Aqui vou explicar quais são os tipos de desenvolvedores, alguns cargos na área de TI e por que Desenvolvimento de Sites (Desenvolvimento FrontEnd Web) é minha indicação e falarei também um pouco mais sobre o que são esses termos todos.<br />
 
 Se você pesquisou as vagas como sugeri no material anterior, deve ter lido os termos frontend/backend/web... 
