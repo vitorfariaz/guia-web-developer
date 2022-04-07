@@ -1,24 +1,23 @@
 <h1 align="center">💻 Guia para desenvolvedor de sites 💻</h1> 
-  
-A ideia dessa página é ser um **guia prático** DO ZERO onde possui TUDO que você precisará conhecer para conseguir desenvolver um site e trabalhar profissionalmente como Desenvolvedor Frontend! <br />
+<h3 align="center">Guia para iniciantes DO ZERO até você Desenvolver seu primeiro site profissional! </h3><br />
 
 Qual o problema que esse guia visa resolver:
 <br /> ❌ Taxa de desemprego altíssima no Brasil
 <br /> ❌ Muita concorrência para poucas vagas
 <br /> ❌ Salários baixos devido a ter muitos candidatos para as vagas
-<br /> ❌ Pessoas formadas em diversas áreas estão sem emprego
-<br /> ❌ Pessoas formadas em diversas áreas com salários baixos(menos de 2 salários mínimos)
-<br /> ❌ Pessoas formadas em diversas áreas concorrendo a poucas vagas
+<br /> ❌ Muitas Pessoas formadas em faculdade estão sem emprego
+<br /> ❌ Muitas Pessoas formadas em faculdade com salários baixos(menos de 2 salários mínimos)
+<br /> ❌ Muitas Pessoas formadas em faculdade concorrendo a poucas vagas
 
-E por outro lado, na área de TI
-<br /> 📣 Falta profissionais na área de desenvolvimento de software 
-<br /> 📣 Milhares de vagas de emprego
+E por outro lado, na área de TI:
+<br /> 📣 Falta profissionais na área 
+<br /> 📣 Milhares de vagas de emprego novas todos os dias
 <br /> 📣 Profissionais podendo trabalhar para empresas do brasil inteiro remotamente
 <br /> 📣 Salários altos devido a demanda de profissionais muito alta
 <br /> 📣 Profissionais podendo trabalhar para fora do brasil ganhando em Dólar/Euro/Libra
 
-Com esse guia, busco fomentar e ajudar mais pessoas a entrarem na área de TI. Aqui você encontrará ferramentas que te auxiliaram na sua jornada 
-até se tornar um desenvolvedor se software! <br />
+Com esse guia, busco fomentar e ajudar mais pessoas a entrarem na área de TI. Aqui você encontrará ferramentas que te auxiliarão na sua jornada 
+até se tornar um desenvolvedor de software! <br />
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
@@ -29,12 +28,12 @@ Após concluir esse guia você:
 
 Mas como? <br />
 
-Essa trilha possui **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até se tornar um profissional na área de TI. Aqui você também contrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar** e **ser achado para vagas de trabalho/estágio.** <br />
+Essa trilha possui **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até se tornar um profissional na área de TI. Aqui você também encontrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar** e **ser achado para vagas de trabalho/estágio.** <br />
 
 Criei esse material pois identifiquei a necessidade/falta de conteúdos com um viés mais iniciante.
 A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia. <br />
 
-É um passo a passo detalhado do zero para você se tornar um profissional da área de TI.
+É um passo a passo detalhado do zero para você se tornar um profissional na área de TI.
 
 Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e textos
  colocados aqui são extremamente importantes. Não pule etapas!
