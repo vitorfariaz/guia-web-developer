@@ -52,9 +52,9 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
     	 <img src="https://www.gov.br/agricultura/pt-br/centrais-de-conteudo/imagens/linkedin.png" height="68" alt="linkedin vitor" />
     </a>
 </p>
-     
+<br />
 
-<h1 align="center">Introdução</h1>
+<h1 align="center">Conteúdo</h1>
   
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada
  - 💻[O que é TI(por alguém que trabalha nela há mais de 5 anos)](o-que-e-ti.md)(5Min)
@@ -64,6 +64,18 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - 🎬[Cursos gratuitos para desenvolvimento](cursos-desenvolvimento-web.md)(+ 40Hrs)
  - 📝[Dicas para criação do currículo](dicas-criacao-curriculo.md)(30Min)
  
+ <br />
+ 
+ 
+<h1 align="center">Você pode contribuir com alterações nesse projeto!</h1>
+
+Você pode solicitar alterações a qualquer parte dessa página, basta seguir o exemplo abaixo. <br />
+Suas contribuições serão muito bem vindas! <br />
+
+
+
+
+
 <br />
 
 <h1 align="center">Roadmaps para outros tipos de desesenvolvedores</h1>
