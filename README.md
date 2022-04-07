@@ -83,8 +83,8 @@ Solicite alterações a qualquer parte desse projeto, basta seguir o passo a pas
 Sua solicitação de alteração ficará na aba "Pull requests". <br />
 Após você solicitar a alteração eu iriei avaliar e aprovar se fizer sentido. <br />
 Segue um Gif do fluxo <br />
-<img src="https://github.com/vitorfariaz/guia-web-developer/public//pull-request.gif" >
-
+<img src="https://github.com/vitorfariaz/guia-web-developer/blob/main/public/pull-request.gif">
+          
 
 
 
