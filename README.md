@@ -65,11 +65,9 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - 📝[Dicas para criação do currículo](dicas-criacao-curriculo.md)(30Min)
  
  <br />
- 
- 
-<h1 align="center">Você pode contribuir com alterações nesse projeto!</h1>
-
-Você pode solicitar alterações a qualquer parte dessa página, basta seguir o exemplo abaixo. <br />
+  
+<h1 align="center">Você pode contribuir com esse projeto!</h1>
+Solicite alterações a qualquer parte desse projeto, basta seguir o exemplo abaixo. <br />
 Suas contribuições serão muito bem vindas! <br />
 
 
