@@ -1,11 +1,22 @@
 <h1 align="center">✍ Dicas para melhor Aprendizado e Disciplina ✍</h1> 
-
 Essas dicas são **essenciais** para  que você consiga atingir seus objetivos Pessoais e Profissionais. <br />
 Você pode adicionar alguns pontos se achar necessário ou fazer alguma leve alteração, mas eu indico que faça **ao menos** o que estão nessas dicas. <br />
 
 Pegue um 📝CADERNO📝 ou anote em algum outro lugar essas dicas e bote o plano em PRÁTICA!
 
-##  🛣 Tenha e Siga uma trilha de estudos 🛣
+
+<h1 align="center">📋 Resumo, anota aí! 📋</h1> 
+
+ - Siga uma **trilha de estudos** e deixe **visível** para você acompanhar o **progresso**
+ - Crie um **cronograma** de estudos com **horários** e **metas**
+ - Use alguma técnica de **concentração** para estudar
+ - Faça **resumos** de todos conteúdos como se tivesse ensinando uma criança o que aprendeu em cada aula
+ - Praticar é fundamental e obrigatório para aprender.
+
+Abaixo, segue detalhe e sugestão de como fazer cada uma das dicas.
+<br /><br />
+
+##  🛣 Trilha de estudos 🛣
 Ter uma trilha de estudos bem mapeada serve para você
  - Não se perder nos estudos e ter **foco**
  - Criar **metas** e **objetivos** pequenos atingíveis
@@ -109,11 +120,3 @@ E é fato que você irá CAIR muito no início. Você não vai escrever o primei
 Use os erros para aprender. Deu erro, encare a mensagem de exceção e tente entender o motivo do erro. <br />
 O sistema não está se comportando como deveria? Leia de novo todo o seu código com calma, se atente para os ponto e vírgula, provavelmente sua lógica está errada. 
 No início é bem comum acharmos que programar é coisa do demônio e que as ferramentas que estamos usando estão com problemas porém é geralmente algum erro de lógica ou sintaxe(ponto e vírgula, letra maiuscula/minuscula).
-
-<h1 align="center">📋 Resumo das dicas, ANOTA AÍ! 📋</h1> 
-
- - Siga uma **trilha de estudos** e deixe **visível** para você acompanhar o **progresso**
- - Crie um **cronograma** de estudos com **horários** e **metas**
- - Use alguma técnica de **concentração** para estudar
- - Faça **resumos** de todos conteúdos como se tivesse ensinando uma criança o que aprendeu em cada aula
- - Praticar é fundamental e obrigatório para aprender.
