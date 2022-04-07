@@ -44,26 +44,24 @@ Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma va
    - [ ] Aprendi a colocar o código fonte do meu site num repositório compartilhado(github)
    - [ ] Aprendi a baixar código fonte dos outros pela internet
    - [ ] Aprendi a fazer alterações no meu código fonte hospedado na internet
-
 <br />
 
 Atividades/Metas pessoais para conseguir a primeira vaga
  - [ ] Criar / Atualizar o perfil no LinkedIn
    - [ ] Preenchido com O QUE consigo fazer através da tecnologia
-   - [ ] + 100 contatos de Recutradores
-   - [ ] + 100 contatos de Desenvolvedores
-   - [ ] Seguindo + 50 empresas na área de TI no Brasil(olhar [meu perfil no linkedin](https://www.linkedin.com/in/vitor-farias-a60760121/) e ir em empresas que sigo para sugestões)
+   - [ ] Adicionar + 100 contatos de Recutradores
+   - [ ] Adicionar + 100 contatos de Desenvolvedores
+   - [ ] Seguir + 50 empresas na área de TI no Brasil(olhar [meu perfil no linkedin](https://www.linkedin.com/in/vitor-farias-a60760121/) e ir em empresas que sigo para sugestões)
    - [ ] Preenchido com POR QUE eu mereço uma oportunidade
-   - [ ] Preenchido com POR QUE uma empresa deve me contratar
    - [ ] Preenchido com QUAL valor eu entrego
    - [ ] Preenchido com QUAIS minhas principais conquistas
  - [ ] Achar vagas de estágio ou programas de diversidade
    - [ ] Achei mais de 3 vagas de estágio / programas de diversidade na minha área (desenvolvimento frontend)
    - [ ] Vi os requisitos em comum das vagas
-   - [ ] Me preparei para os requisitos de no mínino 3 vagas
+   - [ ] Me preparei para os requisitos de no mínimo 3 vagas
  - [ ] Me vinculei a alguma faculdade para iniciar um estágio logo no início
  - [ ] Fiz algum(s) processos seletivos para estágios ou programas de diversidade
- - [ ] **Consegui uma vaga num estágio ou programa de diversidade!!!** Vou lá comemorar com o @vitorfariaz no instagram!
+ - [ ] **Consegui uma vaga num estágio ou programa de diversidade!!!** Vou lá comemorar com o **@vitorfariaz** no instagram!
 
 Siga essa trilha com **unhas e dentes**! Escreva-a numa folha de papel cole na parede do seu quarto ou num local onde fique visível para você TODOS OS DIAS e vá marcando cada vez que você concluir uma etapa. Cada etapa concluída é um passo mais próximo do seu objetivo. <br />
 
@@ -79,17 +77,17 @@ Concluindo essa trilha básica de estudos para desenvolvimento, você:
  - Vai estar BEM qualificado para vagas de estágio, programas, etc...
  - Vai estar 70% apto a criar um site do zero e hospeda-lo na internet
 
-## Crie cronograma de estudos
+## ⏲Crie cronograma de estudos⏲
 Faça planejamentos CURTOS dos estudos, planeje o que você vai estudar na semana, com horários e datas que você SABE que conseguirá.
 NÃO planeje começar a estudar somente daqui uma semana durante 4-8 horas por dia sendo que você SABE que NÃO irá conseguir. <br />
 
 Comece PEQUENO e HOJE. Tente estudar todos os dias ao menos 30 minutos, com o tempo crie a displina para estudar mais e vá aprendendo qual melhor horário você se adapta melhor e aprende mais.
 
-## Use técnicas de concentração
+## ⏳ Use técnicas de concentração ⏳
 Desligue as notificações do celular enquanto for estudar, deixa somente ligações. <br />
 Use uma técnica de concentração como a **Pomodoro**: Quando você começar a estudar, separe seu tempo de estudo em intervalos de 25 minutos e entre os intervalos, dê uma pausa de 5 minutos e vá fazer outra coisa completamente diferente para aliviar. Faça isso até fechar seu tempo de estudo.  
 
-## Faça resumos de cada aula
+## ✏📋Faça resumos de cada aula📋✏
 Cada aula que você assistir a partir daqui, faça resumos. Escreva de preferencia em algum lugar que você consiga acessar pela internet.
 Eu aconselho o aplicativo [Notion](https://www.notion.so/pt-br) e caso você não se adapte use o [OneNote](https://www.onenote.com). <br />
 
@@ -103,7 +101,7 @@ Quando você tenta simplificar algo complexo para ensinar alguém usando o seu j
 
 Caso você não se adapte com os aplicativos de anotações que sugeri, use um caderno ou bloco de anotações de sua preferência, mas anotar e criar resumos de fácil acesso e que você consiga buscar uma informação de maneira fácil, é ESSENCIAL para o aprendizado.
 
-## Intercale teoria com a prática
+## ✊⚒Intercale teoria com a prática⚒✊
 Aprender a programar é que nem andar de bicicleta, não adianta ver 300 vídeos sobre a teoria e/ou outras pessoas praticando. <br />
 Só quando você subir na bike e tentar andar que você irá de fato aprender. <br />
 E é fato que você irá CAIR muito no início. Você não vai escrever o primeiro programa sem errar. <br />
