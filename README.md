@@ -4,7 +4,7 @@
 Qual o problema que esse guia visa resolver:
 <br /> ❌ Taxa de desemprego altíssima no Brasil
 <br /> ❌ Muita concorrência para poucas vagas
-<br /> ❌ Salários baixos devido a ter muitos candidatos para as vagas
+<br /> ❌ Salários baixos devido a ter muitos candidatos e poucas vagas
 <br /> ❌ Muitas Pessoas formadas em faculdade estão sem emprego
 <br /> ❌ Muitas Pessoas formadas em faculdade com salários baixos(menos de 2 salários mínimos)
 <br /> ❌ Muitas Pessoas formadas em faculdade concorrendo a poucas vagas
