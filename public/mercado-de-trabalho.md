@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Mercado de trabalho 👨‍💻</h1>  Mercado de trabalho
+<h1 align="center">👩‍💻 Mercado de trabalho 👨‍💻</h1> 
 Você já sabe que tem muitas vagas nessa área e se eu falar em números não sei se vai ficar tão mais claro, 
 mas vou tentar trazer uma reflexão. <br />
 

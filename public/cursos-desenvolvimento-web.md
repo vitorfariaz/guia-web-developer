@@ -260,7 +260,7 @@ Body: ~ arquivo html
 
  8. Geralmente quando acessamos uma página, é retornado diversos arquivos e é feito diversas requisições http "por baixo dos panos" para retornar todas os conteúdos de uma página html como música, imagens, vídeos, etc...
  9. PC, Modem/roteador de casa, roteador/modem da sua internet provedora, roteadores/cabos da internet, provedora de internet do server, roteador/modem do server, Server.
- 10. [Verifique a imagem](arquitetura-internet.png)
+ 10. [Verifique a imagem](public/arquitetura-internet.png)
 
 ### Reforçando conceitos da internet
  1. HTTP(Protocolo de Transferência de Hipertexto) é o padrão que espeficica o formato das mensagens que são enviadas entre os computadores e servidores. Através desse padrão é possível compartilhar todo tipo de arquivo; texto, imagens, vídeos, sons, páginas HTML, etc..
