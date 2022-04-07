@@ -77,7 +77,7 @@ Me inspirei na versão abaixo para criar este guia. Clicando na imagem, você en
 </p>
   
   
-## Metodologia de trabalho Agil
+## Metodologia de trabalho
 Como as empresas se organizam no dia a dia para desenvolver software? Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
 Ele faz o pedido pelo whats? <br />
 Como funciona o fluxo de trabalho? <br />
