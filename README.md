@@ -69,7 +69,6 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
   
 <h1 align="center">Você pode contribuir com esse projeto!</h1>
 
-
 Solicite alterações a qualquer parte desse projeto, basta seguir o passo a passo abaixo.
  - Você precisa estar logado no git
  - Acesse a página que você deseja alterar
@@ -87,17 +86,19 @@ Segue um GIF solicitando uma alteração<br />
 <img src="https://github.com/vitorfariaz/guia-web-developer/blob/main/public/pull-request.gif"><br />
 Suas contribuições serão muito bem vindas! <br />
 
-
-
 <br />
+
 
 <h1 align="center">Roadmaps para outros tipos de desesenvolvedores</h1>
-Me inspirei na versão abaixo para criar este guia. 
-Clicando na imagem, você encontrará demais guias e a fonte de inspiração desse repositório
+
+Me inspirei na versão abaixo para criar este guia. <br />
+Clicando na imagem, você encontrará demais guias e a fonte de inspiração desse repositório.
 <br />
+
 [Guia frontend original em inglês](https://roadmap.sh/frontend)
 
 <br /><br />
+
 <p align="center">
    <a href="https://roadmap.sh/roadmaps">
      <img src="https://raw.githubusercontent.com/vitorfariaz/developer-roadmap/1b9d74525aae3c4e95daedbbdbea3945a15964b9/public/logo.svg" height="128">
