@@ -92,14 +92,12 @@ Suas contribuições serão muito bem vindas! <br />
 <h1 align="center">Roadmaps para outros tipos de desenvolvedores</h1>
 
 Me inspirei na versão abaixo para criar este guia. <br />
-Clicando na imagem, você encontrará demais guias e a fonte de inspiração desse repositório.
-<br />
 
 [Guia frontend original em inglês](https://roadmap.sh/frontend)
 <br />
 Obs.: Clicando no ícone de cada opção do guia original, é apresentado uma guia com artigos e cursos sobre o assunto, vale a pena conferir.<br /> 
 
-Imagem traduzida do guia original <br /><br />
+Abaixo, segue uma imagem traduzida do guia original <br /><br />
 
 <img src="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web/blob/master/images/frontend.png"><br />
 
