@@ -96,6 +96,11 @@ Clicando na imagem, você encontrará demais guias e a fonte de inspiração des
 <br />
 
 [Guia frontend original em inglês](https://roadmap.sh/frontend)
+<br />
+Obs.: Clicando no ícone de cada opção do guia original, é apresentado uma guia com artigos e cursos sobre o assunto, vale a pena conferir.<br /> 
+
+<img src="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web/blob/master/images/frontend.png"><br />
+
 
 <br /><br />
 
