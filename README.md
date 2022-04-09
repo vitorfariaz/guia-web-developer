@@ -92,7 +92,11 @@ Suas contribuições serão muito bem vindas! <br />
 <br />
 
 <h1 align="center">Roadmaps para outros tipos de desesenvolvedores</h1>
-Me inspirei na versão abaixo para criar este guia. Clicando na imagem, você encontrará demais guias e a fonte de inspiração desse repositório
+Me inspirei na versão abaixo para criar este guia. 
+Clicando na imagem, você encontrará demais guias e a fonte de inspiração desse repositório
+<br />
+[Guia frontend original em inglês](https://roadmap.sh/frontend)
+
 <br /><br />
 <p align="center">
    <a href="https://roadmap.sh/roadmaps">
