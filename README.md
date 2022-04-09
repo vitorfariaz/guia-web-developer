@@ -99,8 +99,8 @@ Clicando na imagem, você encontrará demais guias e a fonte de inspiração des
 <br />
 Obs.: Clicando no ícone de cada opção do guia original, é apresentado uma guia com artigos e cursos sobre o assunto, vale a pena conferir.<br /> 
 
+Imagem traduzida do guia original <br />
 <img src="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web/blob/master/images/frontend.png"><br />
-
 
 <br /><br />
 
@@ -110,7 +110,8 @@ Obs.: Clicando no ícone de cada opção do guia original, é apresentado uma gu
    </a>
     <h2 align="center">roadmap.sh</h2>
 </p>
-  
+<br />
+<br />
   
 ## Metodologia de trabalho
 Como as empresas se organizam no dia a dia para desenvolver software? Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
