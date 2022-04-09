@@ -57,13 +57,13 @@ Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importante
 <h1 align="center">Conteúdo</h1>
   
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada
- - 💻[O que é TI(por alguém que trabalha nela há mais de 5 anos)](public/o-que-e-ti.md)(5Min)
- - 👷‍♂️[Mercado de trabalho](public/mercado-de-trabalho.md)(10Min)
- - 👨‍💻[Tipos de desenvolvedores](public/tipos-de-desenvolvedores.md)(10Min)
- - ✍[Dicas essenciais para melhor aprendizado](public/melhor-aprendizado.md)(5Min)
- - 🗺️[Mapa visual do que vocẽ irá aprender](public/roadmap-visual)(5Min)
- - 🎬[Cursos gratuitos para desenvolvimento](public/cursos-desenvolvimento-web.md)(+ 40Hrs)
- - 📝[Dicas para criação do currículo](public/dicas-criacao-curriculo.md)(30Min)
+ - 💻 [O que é TI(por alguém que trabalha nela há mais de 5 anos)](public/o-que-e-ti.md)(5Min)
+ - 👷‍♂️ [Mercado de trabalho](public/mercado-de-trabalho.md)(10Min)
+ - 👨‍💻 [Tipos de desenvolvedores](public/tipos-de-desenvolvedores.md)(10Min)
+ - ✍ [Dicas essenciais para melhor aprendizado](public/melhor-aprendizado.md)(5Min)
+ - 🗺️ [Mapa visual do que vocẽ irá aprender](public/roadmap-visual.md)(5Min)
+ - 🎬 [Cursos gratuitos para desenvolvimento](public/cursos-desenvolvimento-web.md)(+ 40Hrs)
+ - 📝 [Dicas para criação do currículo](public/dicas-criacao-curriculo.md)(30Min)
  
  <br />
   
