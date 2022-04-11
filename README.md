@@ -7,7 +7,6 @@ Qual o problema que esse guia visa resolver:
 <br /> ❌ Salários baixos devido a ter muitos candidatos e poucas vagas
 <br /> ❌ Muitas pessoas formadas em faculdade estão sem emprego
 <br /> ❌ Muitas pessoas formadas em faculdade com salários baixos(menos de 2 salários mínimos)
-<br /> ❌ Muitas pessoas formadas em faculdade concorrendo a poucas vagas
 
 E por outro lado, na área de TI:
 <br /> 📣 Falta profissionais na área 
@@ -15,9 +14,6 @@ E por outro lado, na área de TI:
 <br /> 📣 Profissionais podendo trabalhar para empresas do brasil inteiro de casa
 <br /> 📣 Salários altos devido a demanda de profissionais muito alta
 <br /> 📣 Profissionais podendo trabalhar para fora do brasil ganhando em Dólar/Euro/Libra
-
-Com esse guia, busco fomentar e ajudar mais pessoas a entrarem na área de TI. Aqui você encontrará ferramentas que te auxiliarão na sua jornada 
-até se tornar um desenvolvedor de software! <br />
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
@@ -28,15 +24,14 @@ Após concluir esse guia você:
 
 Mas como? <br />
 
-Essa trilha possui **tudo** que você precisará saber 💥**DESDE O ZERO**💥 até se tornar um profissional na área de TI. Aqui você também encontrará 🔥**cursos bons e gratuitos**🔥 para cada um dos assuntos, dicas de **como estudar** e como **achar** e **ser achado para vagas de trabalho/estágio.** <br />
+<br />  ✔ Através de uma trilha de conteúdos
+<br />  ✔ Cursos bons e gratuitos
+<br />  ✔ Dicas de como estudar
+<br />  ✔ Dicas de como achar e ser achado para vagas de trabalho/estágio
 
 Criei esse material pois identifiquei a necessidade/falta de conteúdos com um viés mais iniciante.
-A maioria dos conteúdos na internet simplesmente indicam uma lista de tecnologias mas não explicam nada fundamental ou base conceitual, então antes de despejar um monte de cursos técnicos, esse material explica sobre o contexto geral da área de tecnologia. <br />
-
-É um passo a passo detalhado do zero para você se tornar um profissional na área de TI.
-
-Tomei o cuidado de passar alguns conteúdos bem fundamentais que são importantes, cada curso indicado e textos
- colocados aqui são extremamente importantes. Não pule etapas!
+Antes de despejar um monte de cursos técnicos, esse material explica sobre fundamentos. <br />
+Cada curso indicado e textos colocados aqui são extremamente importantes. Não pule etapas!
 
 <br />
 <p align="center"><i>Caso tenha qualquer dúvida, será um prazer te ajudar! Minhas redes sociais.</i><p>
