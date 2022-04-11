@@ -115,8 +115,6 @@ coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próx
  - "Lógica" é usada somente na tecnologia e desenvolvimento de sistemas?  
  - Em quais outros lugares a lógica pode ser usada? 
 
-[Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
-
 
 ## RESPOSTAS para os exercícios
 
@@ -188,3 +186,6 @@ Body: ~ arquivo html
  5. Domain Name System. É o sistema que identifica o endereço IP dos computadores a partir do nome de domínio
  7. Arquivos HTML, CSS
  8. Javascript
+
+<br /><br /><br />
+[Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
