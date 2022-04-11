@@ -61,8 +61,11 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - 👷‍♂️ [Mercado de trabalho](public/mercado-de-trabalho.md)(10Min)
  - 👨‍💻 [Tipos de desenvolvedores](public/tipos-de-desenvolvedores.md)(10Min)
  - ✍ [Dicas essenciais para melhor aprendizado](public/melhor-aprendizado.md)(5Min)
- - 🗺️ [Mapa visual do que vocẽ irá aprender](public/roadmap-visual.md)(5Min)
- - 🎬 [Cursos gratuitos para desenvolvimento](public/cursos-desenvolvimento-web.md)(+ 40Hrs)
+ - 🗺️ [Mapa visual conhecimentos Frontend](public/roadmap-visual-frontend.md)(5Min)
+ - 🗺️ [Mapa visual conhecimentos Backend](public/roadmap-visual-backend.md)(5Min)
+ - 🎬 [Cursos gratuitos fundamentos da internet e computação](public/cursos-fundamentos.md)(+ 40Hrs)
+ - 🎬 [Cursos gratuitos para desenvolvimento Frontend](public/cursos-frontend.md)(+ 40Hrs)
+ - 🎬 [Cursos gratuitos para desenvolvimento Backend](public/cursos-backend.md)(+ 40Hrs)
  - 📝 [Dicas para criação do currículo](public/dicas-criacao-curriculo.md)(30Min)
  
  <br />
