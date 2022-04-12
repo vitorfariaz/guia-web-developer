@@ -2,7 +2,7 @@
   
  - 📄 **Javascript**: Linguagem de programação usada tanto para frontend quanto backend
  - 📄 **NodeJs**: Intepretador de código javascript que permite a execução de códigos js fora do navegador e criar sistemas backend.
- -    **Npm**
+ - 📄 **Npm**: Gerenciador de pacotes para o Node.JS
 
 **Pratique ao menos a mesma quantidade de tempo que você levou fazendo o curso.**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
