@@ -2,6 +2,7 @@
   
  - 📄 **Javascript**: Linguagem de programação usada tanto para frontend quanto backend
  - 📄 **NodeJs**: Intepretador de código javascript que permite a execução de códigos js fora do navegador e criar sistemas backend.
+ -    **Npm**
 
 **Pratique ao menos a mesma quantidade de tempo que você levou fazendo o curso.**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
@@ -33,3 +34,7 @@ Até agora, você já absorveu no mínimo 25 Horas de conteúdo/cursos em vídeo
 que aprendeu. Faça no mínimo mais 2 projetos com o conhecimento que você aprendeu. Além de fortalecer o seu conhecimento você estará melhorando seu 
 currículo/portifólio para as futuras vagas que você irá se candidatar. 
 
+### Npm
+Npm é um gerenciador de pacotes para o Node.JS. Ele gerencia/baixa e instala as dependências do seu projeto. <br />
+
+[Clique aqui para acessar](https://www.youtube.com/watch?v=QYH-vX_7Cfo)
