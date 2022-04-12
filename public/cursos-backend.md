@@ -1,7 +1,7 @@
   <h1 align="center">📘 Cursos desenvolvimento de software Backend 📙</h1>  
   
  - 📄 **Javascript**: Linguagem de programação usada tanto para frontend quanto backend
- - 📄 **NodeJs**: 
+ - 📄 **NodeJs**: Intepretador de código javascript que permite a execução de códigos js fora do navegador e criar sistemas backend.
 
 **Pratique ao menos a mesma quantidade de tempo que você levou fazendo o curso.**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
