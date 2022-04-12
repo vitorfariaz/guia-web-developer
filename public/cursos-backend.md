@@ -19,7 +19,7 @@ Até agora, você já absorveu no mínimo 25 Horas de conteúdo/cursos em vídeo
 que aprendeu. Faça no mínimo mais 2 projetos com o conhecimento que você aprendeu. Além de fortalecer o seu conhecimento você estará melhorando seu 
 currículo/portifólio para as futuras vagas que você irá se candidatar. 
 
-### NodeJs (9Hrs)
+### NodeJs (8Hrs)
 Você irá aprender a como criar uma API utilizando o NodeJs
 
 [Clique aqui para acessar](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
