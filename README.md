@@ -55,13 +55,13 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - 💻 [O que é TI(por alguém que trabalha nela há mais de 5 anos)](public/o-que-e-ti.md)(5Min)
  - 👷‍♂️ [Mercado de trabalho](public/mercado-de-trabalho.md)(10Min)
  - 👨‍💻 [Tipos de desenvolvedores](public/tipos-de-desenvolvedores.md)(10Min)
- - ✍ [Dicas essenciais para melhor aprendizado](public/melhor-aprendizado.md)(5Min)
- - 🗺️ [Mapa visual conhecimentos Frontend](public/mapa-visual-frontend.md)(5Min)
- - 🗺️ [Mapa visual conhecimentos Backend](public/mapa-visual-backend.md)(5Min)
- - 🎬 [Cursos gratuitos fundamentos da internet e computação](public/cursos-fundamentos.md)(+ 40Hrs)
- - 🎬 [Cursos gratuitos para desenvolvimento Frontend](public/cursos-frontend.md)(+ 40Hrs)
- - 🎬 [Cursos gratuitos para desenvolvimento Backend](public/cursos-backend.md)(+ 40Hrs)
- - 📝 [Dicas para criação do currículo](public/dicas-criacao-curriculo.md)(30Min)
+ - ✍ [Dicas: melhore seu aprendizado](public/melhor-aprendizado.md)(5Min)
+ - 🗺️ [Mapa visual Frontend](public/mapa-visual-frontend.md)(5Min)
+ - 🗺️ [Mapa visual Backend](public/mapa-visual-backend.md)(5Min)
+ - 🎬 [Cursos: fundamentos da internet e computação](public/cursos-fundamentos.md)(+ 40Hrs)
+ - 🎬 [Cursos: desenvolvimento Frontend](public/cursos-frontend.md)(+ 40Hrs)
+ - 🎬 [Cursos: desenvolvimento Backend](public/cursos-backend.md)(+ 40Hrs)
+ - 📝 [Dicas: criação do currículo](public/dicas-criacao-curriculo.md)(30Min)
  
  <br />
   
