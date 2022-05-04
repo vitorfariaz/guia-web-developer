@@ -2,7 +2,6 @@
   
  - 📄 **HTML**: linguagem de *marcação* de texto responsável por representar efeitos de fonte, cor, gráfico, botões, input de textos, arquivos e hiperlink em páginas da Internet.
  - 🖌 **CSS**: linguagem de *marcação* responsável por estilizar/posicionar/animar os elementos HTML.
- - 📋 **Algoritmos**: Base fundamental para qualquer linguagem de programação que você irá aprender no futuro.
  - 🖱 **Javascript**: linguagem de *programação* responsável por deixar as páginas da internet interativas.
  - 😎 **React**: Biblioteca JavaScript responsável por facilitar a criação e interatividade de páginas da Internet, é uma das bibliotecas mais utilizadas no mundo para desenvolvimento de sites.
  - 🐱 **Git**: Sistema responsável pelo armazenamento/versionamento e controle de códigos fontes.
@@ -35,18 +34,6 @@ PRIMEIRO EXERCÍCIO PRÁTICO, GUARDE ESSE CÓDIGO POIS SERÁ USADO PARA SEU PORT
  - Cadastro: Deve ser possível cadastrar o paciente com as seguintes informações: nome, data de nascimento, sintomas, doenças, cpf. (não precisa salvar em banco de dados real) 
  - Alteração: deve ser possível alterar qualquer uma das informações(Pode ser somente uma página, sem a funcionalidade de alterar os dados de fato pois ainda não terão sido salvos) 
  - Pesquisa: deve ser possível consultar por CPF, nome parcial ou completo e doenças. (Pode ser somente a página com os filtros, sem a funcionalidade de trazer de fato os registros pois ainda não terão sido construído) 
-
-### Lógica e algoritmos (7Hrs)
-Nesse curso você irá aprender sobre lógica e algoritmos. Isso é fundamental e é "alheio" a tecnologias e a linguagem de programação.
-É basicamente sobre como pensar de forma racional para resolver um problema específico. Entender isso e ter esse racional antes mesmo de aprender 
-coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próximos conteúdos mais complexos. <br />
-
-[Clique aqui para acessar](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
-
-**EXERCÍCIOS**
- - O que é um algoritmo? 
- - "Lógica" é usada somente na tecnologia e desenvolvimento de sistemas?  
- - Em quais outros lugares a lógica pode ser usada? 
 
 
 ### JavaScript (9Hrs)
