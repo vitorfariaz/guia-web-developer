@@ -1,4 +1,14 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UlHqiNznZX8/0.jpg)](https://www.youtube.com/watch?v=UlHqiNznZX8)
+<p align="center">
+      <a href="https://www.youtube.com/watch?v=UlHqiNznZX8">
+    	 <img src="https://img.youtube.com/vi/UlHqiNznZX8/0.jpg" height="468" alt="linkedin vitor" />
+    </a>
+ <br />
+ Clique para ver o vídeo no youtube ou se preferir, leia abaixo
+</p>
+
+
+</p>
+<br />
 
 <h1 align="center">🔥 O que é tecnologia? 🔥</h1>  
 Tecnologia é um conjunto de instrumentos, métodos e técnicas para realizar algo. É a aplicação prática do conhecimento científico em diversas áreas de pesquisas. <br />
