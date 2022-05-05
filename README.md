@@ -13,9 +13,7 @@ E por outro lado, na área de TI:
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
-<br />  ✔ Terá aprendido a programar em uma linguagem de programação
-<br />  ✔ Poderá aprender novas tecnologias com mais facilidade
-<br />  ✔ Saberá criar sites
+<br />  ✔ Aprenderá a criar sistemas para automatizar tarefas
 <br />  ✔ Estará próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Frontend Web  
 
 Mas como? 
