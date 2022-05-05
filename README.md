@@ -3,27 +3,22 @@
 
 Qual o problema que esse guia visa resolver:
 <br /> ❌ Taxa de desemprego altíssima no Brasil
-<br /> ❌ Muita concorrência para poucas vagas
-<br /> ❌ Salários baixos devido a ter muitos candidatos e poucas vagas
-<br /> ❌ Muitas pessoas formadas em faculdade estão sem emprego
+<br /> ❌ Muita concorrência e salários baixos em outras áreas
 <br /> ❌ Muitas pessoas formadas em faculdade com salários baixos(menos de 2 salários mínimos)
 
 E por outro lado, na área de TI:
-<br /> 📣 Falta profissionais na área 
-<br /> 📣 Milhares de vagas de emprego novas todos os dias
-<br /> 📣 Profissionais podendo trabalhar para empresas do brasil inteiro de casa
-<br /> 📣 Salários altos devido a demanda de profissionais muito alta
-<br /> 📣 Profissionais podendo trabalhar para fora do brasil ganhando em Dólar/Euro/Libra
+<br /> 📣 Milhares de novas vagas de emprego todos os dias
+<br /> 📣 Possibilidade de trabalhar para empresas do brasil e do mundo de casa, ganhando em dólar/Euro/libra
+<br /> 📣 Salários altos devido a alta demanda
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
 <br />  ✔ Terá aprendido a programar em uma linguagem de programação
 <br />  ✔ Poderá aprender novas tecnologias com mais facilidade
 <br />  ✔ Saberá criar sites
-<br />  ✔ Estará MAIS próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Frontend Web  
+<br />  ✔ Estará próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Frontend Web  
 
-Mas como? <br />
-
+Mas como? 
 <br />  ✔ Através de uma trilha de conteúdos
 <br />  ✔ Cursos bons e gratuitos
 <br />  ✔ Dicas de como estudar
@@ -52,12 +47,12 @@ Cada curso indicado e textos colocados aqui são extremamente importantes. Não 
 <h1 align="center">Conteúdo</h1>
   
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada
- - 💻 [O que é TI(por alguém que trabalha nela há mais de 5 anos)](public/o-que-e-ti.md)(5Min)
+ - 💻 [O que é TI](public/o-que-e-ti.md)(5Min)
  - 👷‍♂️ [Mercado de trabalho](public/mercado-de-trabalho.md)(10Min)
  - 👨‍💻 [Tipos de desenvolvedores](public/tipos-de-desenvolvedores.md)(10Min)
  - ✍ [Dicas: melhore seu aprendizado](public/melhor-aprendizado.md)(5Min)
- - 🗺️ [Mapa visual Frontend](public/mapa-visual-frontend.md)(5Min)
- - 🗺️ [Mapa visual Backend](public/mapa-visual-backend.md)(5Min)
+ - 🗺️ [Mapa visual: Frontend](public/mapa-visual-frontend.md)(5Min)
+ - 🗺️ [Mapa visual: Backend](public/mapa-visual-backend.md)(5Min)
  - 🎬 [Cursos: fundamentos da internet e computação](public/cursos-fundamentos.md)(+ 40Hrs)
  - 🎬 [Cursos: desenvolvimento Frontend](public/cursos-frontend.md)(+ 40Hrs)
  - 🎬 [Cursos: desenvolvimento Backend](public/cursos-backend.md)(+ 40Hrs)
@@ -85,7 +80,6 @@ Segue um GIF solicitando uma alteração<br />
 Suas contribuições serão muito bem vindas! <br />
 
 <br />
-
 
 <h1 align="center">Roadmaps para outros tipos de desenvolvedores</h1>
 
