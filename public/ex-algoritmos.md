@@ -27,9 +27,9 @@ Por que
   - Variáveis e tipos
   - Estruturas de controle 
     - Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
-      - Quando quiser que uma uma mais instruções sejam executadas de acordo com uma ou mais condições
+      - Quando quiser que uma ou mais instruções sejam executadas de acordo com uma ou mais condições
     - Condicionais(SE/SENAO, ESCOLHA-CASO)
-      - Quando quiser que uma ou mais instruções sejam executadas somente de acordo com uma ou mais condições
+      - Quando quiser que uma ou mais instruções sejam executadas somente se uma ou mais condições forem verdadeiras
   - Expressões booleanas (true e false)
     - Operadores lógicos: E, OU, NÃO, NÃO-E, NÃO-OU, OU-EXCLUSIVO E NÃO-OU-EXCLUSIVO
     - Operadores relacionais: igual, diferente, maior, menor
