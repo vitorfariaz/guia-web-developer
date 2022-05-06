@@ -115,8 +115,42 @@ FAÇA-ENQUANTO
         }enquanto(contador > 0)
 ```
 
+FUNCOES sem retorno
+```
+programa {
+    
+	funcao inicio() {
+	 
+	    apresentaLinhas()
+	    escreva("Ola mundo")
+        apresentaLinhas()
+	}
 
+	funcao apresentaLinhas(){
+	    escreva("\n-------------------------------------\n")
+	}
+}
+```
 
+FUNCOES com retorno 
+```
+programa {
+	funcao inicio() {
+	 
+	    inteiro numero1, numero2
+	    escreva("digite primeiro numero")
+	    leia(numero1)
+	    escreva("digite segundo numero")
+	    leia(numero2)
+	    inteiro resultado = soma(numero1, numero2)
+	    escreva("resultado da soma: ", resultado)
+	}
+	
+	funcao inteiro soma(inteiro nro1, inteiro nro2){
+	    retorne nro1 + nro2
+	}
+}
+```
 
 
 
