@@ -1,6 +1,6 @@
 <h1 align="center">✍ Dicas para melhor Aprendizado e Disciplina ✍</h1> 
-Essas dicas são **essenciais** para  que você consiga atingir seus objetivos Pessoais e Profissionais. <br />
-Você pode adicionar alguns pontos se achar necessário ou fazer alguma leve alteração, mas eu indico que faça **ao menos** o que estão nessas dicas. <br />
+Essas dicas são essenciais para  que você consiga atingir seus objetivos Pessoais e Profissionais. <br />
+Você pode adicionar alguns pontos se achar necessário ou fazer alguma leve alteração, mas eu indico que faça ao menos o que estão nessas dicas. <br />
 
 Pegue um 📝CADERNO📝 ou anote em algum outro lugar essas dicas e bote o plano em PRÁTICA!
 
