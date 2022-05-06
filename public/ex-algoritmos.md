@@ -4,15 +4,15 @@
   - Aprendi para que serve os algoritmos
 
 Aprendi a resolver problemas com algoritmos
-  1. Aprendi a criar variáveis
-  2. Aprendi como fazer Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
-  3. Aprendi o que são condicionais(SE/SENAO, ESCOLHA-CASO)
+  1. Variáveis e tipos
+  2. Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
+  3. Condicionais(SE/SENAO, ESCOLHA-CASO)
   4. Expressões booleanas (true e false)
   5. Operadores lógicos: E, OU, NÃO, NÃO-E, NÃO-OU, OU-EXCLUSIVO E NÃO-OU-EXCLUSIVO
   6. Operadores relacionais: igual, diferente, maior, menor
   7. Operadores aritméticos: adição, subtração, divisão, multiplicação, resto
-  8. Aprendi sobre estrutura dados: listas, mapas e objetos
-  9. Aprendi o que são métodos/funções e parâmetros
+  8. Aprendi o que são métodos/funções e parâmetros
+  9. Aprendi sobre estrutura dados: listas, mapas e objetos
 
 ## Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
