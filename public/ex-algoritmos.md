@@ -15,7 +15,43 @@ Aprendi a resolver problemas com algoritmos
   9. Aprendi o que são métodos/funções e parâmetros
       
 # Exercícios:
-Crie um algoritmo que 
+https://portugol-webstudio.cubos.io/ide
+
+Materiais
+http://rafaelmuniz.com.br/ifsp/alpt2020/
+
+
+## Entrada, saída e variáveis
+
+Tipo variáveis| O que é               | Exemplos
+------------- | -------------         |  -------------
+inteiro       | número inteiro        | 123, 333, 1 , 2 , 4 
+real          | número fracionado     | 12,21 , 13,32 , 12 , 99
+caracter      | um caractere          | 'A', '#', 'k', '2'
+cadeia        | lista de caracteres   | "palavra", "palavra com espaço"
+logico        | verdadeiro ou falso  |  verdadeiro, falso
+
+ATRIBUIÇÃO
+```
+inteiro idade  = 32
+real preco  = 22,22
+caracter resposta = 'a'
+cadeira pergunta   = "Qual seu nome"
+```
+
+ENTRADA e SAÍDA
+```
+     cadeia nome 
+     escreva("Digite seu nome: ")
+     leia(nome)
+     escreva("ola, ", nome)
+
+	    //comentario
+	    escreva("\n QUEBRA DE \n linha, ", nome)
+
+```
+
+
 
 1. Apresente "hello, world" na tela
 
@@ -26,6 +62,10 @@ soma
 
 4. O usuário informará 3 valores e o sistema calculará a média dos 3 valores
 soma e divisão
+
+##
+
+
 
 ## Condicionais
 5. O sistema apresentará a pergunta "Qual o nome do sistema que os desenvolvedores usam para salvar o código fonte dos sites e poder edita-los em paralelo sem conflitos?" se o usuário responder "git" 
