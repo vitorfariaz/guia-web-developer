@@ -3,7 +3,6 @@
  - IDE download: http://lite.acad.univali.br/portugol/
 
 ## Tipos de variáveis
-
 Tipo variáveis| O que é               | Exemplos
 ------------- | -------------         |  -------------
 inteiro       | número inteiro        | 123, 333, 1 , 2 , 4 
@@ -11,6 +10,7 @@ real          | número fracionado     | 12,21 , 13,32 , 12 , 99
 caracter      | um caractere          | 'A', '#', 'k', '2'
 cadeia        | lista de caracteres   | "palavra", "palavra com espaço"
 logico        | verdadeiro ou falso   |  verdadeiro, falso
+
 
 ## Atribuição
 ```
@@ -62,7 +62,6 @@ Exemplo
  	escreva("numeros diferentes")
  }
 ```
-<br />
 
 
 Operador Aritmético  | Na liguagem
@@ -81,7 +80,7 @@ leia(nro)
 leia(nro2)
 resultado = nro + nro2
 ```
-<br />
+
 
 ## Condicional
 
@@ -114,6 +113,7 @@ ESCOLHA-CASO
         }
 ```
 
+
 ## Loops
 
 PARA
@@ -143,7 +143,7 @@ FAÇA-ENQUANTO
 
 ## Funções 
 
-FUNCOES sem retorno
+Sem retorno
 ```
 programa {
     	funcao inicio() {
@@ -159,7 +159,7 @@ programa {
 }
 ```
 
-FUNCOES com retorno 
+Com retorno 
 ```
 programa {
 	funcao inicio() {
