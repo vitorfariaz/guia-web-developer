@@ -15,7 +15,7 @@ Aprendi a resolver problemas com algoritmos
   9. Aprendi o que são métodos/funções e parâmetros
 
 ## Material de apoio para exercício
- - [Especificação portugol studio](public/spec-portugol.md)
+ - [Especificação portugol studio](spec-portugol.md)
 
 # Exercícios
 
