@@ -13,7 +13,7 @@ Aprendi a resolver problemas com algoritmos
   7. Operadores aritméticos: adição, subtração, divisão, multiplicação, resto
   8. Aprendi sobre estrutura dados: listas, mapas e objetos
   9. Aprendi o que são métodos/funções e parâmetros
-      
+
 # Materiais
 IDE
 https://portugol-webstudio.cubos.io/ide
@@ -21,8 +21,7 @@ https://portugol-webstudio.cubos.io/ide
 Materiais
 http://rafaelmuniz.com.br/ifsp/alpt2020/
 
-
-## Entrada, saída e variáveis
+## Tipos de variáveis
 
 Tipo variáveis| O que é               | Exemplos
 ------------- | -------------         |  -------------
@@ -32,7 +31,7 @@ caracter      | um caractere          | 'A', '#', 'k', '2'
 cadeia        | lista de caracteres   | "palavra", "palavra com espaço"
 logico        | verdadeiro ou falso   |  verdadeiro, falso
 
-ATRIBUIÇÃO
+## Atribuição
 ```
 inteiro idade     = 32
 real preco        = 22,22
@@ -44,7 +43,8 @@ inteiro idade
 idade = 12
 ```
 
-ENTRADA e SAÍDA
+## Entrada e saída
+
 ```
      cadeia nome 
      escreva("Digite seu nome: ")
@@ -55,7 +55,7 @@ ENTRADA e SAÍDA
      escreva("\n QUEBRA DE \n linha, ", nome)
 ```
 
-
+## Operadores
 Operador Lógico | Na liguagem
 -------------   | -------------       
 e               | e
@@ -66,7 +66,7 @@ Exemplo
 ```
    se((letra == 'c' ou nao(letra == 'd')) e (letra2 == 'c' ou letra2 == 'd') ){
 ```
-
+<br />
 
 Operador Relacional | Na liguagem
 -------------       | -------------       
@@ -81,6 +81,7 @@ Exemplo
  	escreva("numeros diferentes")
  }
 ```
+<br />
 
 
 Operador Aritmético  | Na liguagem
@@ -99,6 +100,9 @@ leia(nro)
 leia(nro2)
 resultado = nro + nro2
 ```
+<br />
+
+## Condicional
 
 SE/SENÃO 
 ```
@@ -129,6 +133,8 @@ ESCOLHA-CASO
         }
 ```
 
+## Loops
+
 PARA
 ```	 
             para(inteiro i = 0 ; i < 10 ; i++){
@@ -153,6 +159,8 @@ FAÇA-ENQUANTO
             contador--
         }enquanto(contador > 0)
 ```
+
+## Funções 
 
 FUNCOES sem retorno
 ```
@@ -189,6 +197,11 @@ programa {
 }
 ```
 
+<br />
+
+
+## Material de apoio para exercício
+ - [Especificação portugol studio](#portugol-spec.md)
 
 # Exercícios
 
