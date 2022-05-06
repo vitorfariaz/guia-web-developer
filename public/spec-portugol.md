@@ -1,6 +1,6 @@
 # Materiais
-IDE: https://portugol-webstudio.cubos.io/ide
-Materiais: http://rafaelmuniz.com.br/ifsp/alpt2020/
+ - IDE Online: https://portugol-webstudio.cubos.io/ide
+ - IDE download: http://lite.acad.univali.br/portugol/
 
 ## Tipos de variáveis
 
