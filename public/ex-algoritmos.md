@@ -22,19 +22,18 @@ Por que tu quer essa vaga?
 Por que tu nerece?
 Por que 
  - Linkedin
- - 
-
 
 ## Algoritmos
-  1. Variáveis e tipos
-  2. Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
-  3. Condicionais(SE/SENAO, ESCOLHA-CASO)
-  4. Expressões booleanas (true e false)
-  5. Operadores lógicos: E, OU, NÃO, NÃO-E, NÃO-OU, OU-EXCLUSIVO E NÃO-OU-EXCLUSIVO
-  6. Operadores relacionais: igual, diferente, maior, menor
-  7. Operadores aritméticos: adição, subtração, divisão, multiplicação, resto
-  8. Aprendi o que são métodos/funções e parâmetros
-  9. Aprendi sobre estrutura dados: listas, mapas e objetos
+  - Variáveis e tipos
+  - Estruturas de controle 
+    - Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
+    - Condicionais(SE/SENAO, ESCOLHA-CASO)
+  - Expressões booleanas (true e false)
+    - Operadores lógicos: E, OU, NÃO, NÃO-E, NÃO-OU, OU-EXCLUSIVO E NÃO-OU-EXCLUSIVO
+    - Operadores relacionais: igual, diferente, maior, menor
+  - Operadores aritméticos: adição, subtração, divisão, multiplicação, resto
+  - Aprendi o que são métodos/funções e parâmetros
+  - Aprendi sobre estrutura dados: listas, mapas e objetos
 
 ## Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
