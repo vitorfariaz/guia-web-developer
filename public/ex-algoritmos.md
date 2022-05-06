@@ -14,8 +14,9 @@ Aprendi a resolver problemas com algoritmos
   8. Aprendi sobre estrutura dados: listas, mapas e objetos
   9. Aprendi o que são métodos/funções e parâmetros
 
-## Material de apoio para exercício
+## Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
+
 
 # Exercícios
 
