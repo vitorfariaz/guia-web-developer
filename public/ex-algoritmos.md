@@ -83,7 +83,7 @@ Exemplo
 ```
 
 
-Operador Relacional  | Na liguagem
+Operador Aritmético  | Na liguagem
 -------------        | -------------       
 soma                 | +
 subtração            | -
