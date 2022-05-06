@@ -32,8 +32,8 @@ Por que
     - Operadores lógicos: E, OU, NÃO, NÃO-E, NÃO-OU, OU-EXCLUSIVO E NÃO-OU-EXCLUSIVO
     - Operadores relacionais: igual, diferente, maior, menor
   - Operadores aritméticos: adição, subtração, divisão, multiplicação, resto
-  - Aprendi o que são métodos/funções e parâmetros
-  - Aprendi sobre estrutura dados: listas, mapas e objetos
+  - Métodos/funções e parâmetros
+  - Estrutura dados: listas, mapas e objetos
 
 ## Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
