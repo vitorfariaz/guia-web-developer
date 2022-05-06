@@ -23,7 +23,7 @@ Por que tu nerece?
 Por que 
  - Linkedin
 
-## Algoritmos
+## Algoritmos (regras do jogo)
   - Variáveis e tipos
   - Estruturas de controle 
     - Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
