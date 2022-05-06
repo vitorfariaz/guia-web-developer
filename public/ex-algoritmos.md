@@ -39,15 +39,11 @@ real preco        = 22,22
 caracter letra    = 'a'
 cadeia pergunta   = "Qual seu nome"
 logico resposta   = verdadeiro
-
-cadeia[12] nomes  = ["asdf","sdafas","12"]
-
 OU
-
 inteiro idade
 idade = 12
-
 ```
+
 ENTRADA e SAÍDA
 ```
      cadeia nome 
@@ -59,6 +55,51 @@ ENTRADA e SAÍDA
      escreva("\n QUEBRA DE \n linha, ", nome)
 ```
 
+
+Operador Lógico | Na liguagem
+-------------   | -------------       
+e               | e
+nao             | nao
+ou              | ou
+
+Exemplo
+```
+   se((letra == 'c' ou nao(letra == 'd')) e (letra2 == 'c' ou letra2 == 'd') ){
+```
+
+
+Operador Relacional | Na liguagem
+-------------       | -------------       
+maior               | >
+menor               | <
+igual               | ==
+diferente           | !
+
+Exemplo
+```
+ se(nro == nro2){ 
+ 	escreva("numeros diferentes")
+ }
+```
+
+
+Operador Relacional  | Na liguagem
+-------------        | -------------       
+soma                 | +
+subtração            | -
+divisão              | /
+multiplicação        | *
+incremento           | ++
+decremento           | --
+
+Exemplo
+```
+inteiro nro,nro2, resultado
+leia(nro)
+leia(nro2)
+resultado = nro + nro2
+```
+
 SE/SENÃO 
 ```
 	    inteiro idade 
@@ -68,7 +109,6 @@ SE/SENÃO
                escreva("NÃO pode votar!")
             }senao
                escreva("Pode votar!")
-	       
 ```
 
 ESCOLHA-CASO
@@ -99,8 +139,7 @@ PARA
 ENQUANTO
 ```
 	inteiro idade 
-
-        inteiro contador = 5
+	inteiro contador = 5
         enquanto(contador > 0){
             escreva("\ncontador: ", contador)
             contador--
@@ -118,12 +157,11 @@ FAÇA-ENQUANTO
 FUNCOES sem retorno
 ```
 programa {
-    
-	funcao inicio() {
+    	funcao inicio() {
 	 
 	    apresentaLinhas()
 	    escreva("Ola mundo")
-        apresentaLinhas()
+            apresentaLinhas()
 	}
 
 	funcao apresentaLinhas(){
@@ -136,7 +174,6 @@ FUNCOES com retorno
 ```
 programa {
 	funcao inicio() {
-	 
 	    inteiro numero1, numero2
 	    escreva("digite primeiro numero")
 	    leia(numero1)
@@ -151,7 +188,6 @@ programa {
 	}
 }
 ```
-
 
 
 # Exercícios
