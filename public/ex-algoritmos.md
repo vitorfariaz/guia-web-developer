@@ -36,6 +36,10 @@ Por que
   - Operadores aritméticos: adição, subtração, divisão, multiplicação, resto
   - Métodos/funções e parâmetros
   - Estrutura dados: listas, mapas e objetos
+  - Boas práticas de código
+    - Nomes de variáveis
+    - Metodos
+    - Identacao
 
 ## Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
