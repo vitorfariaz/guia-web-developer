@@ -1,6 +1,10 @@
- # Conhecimentos técnicos 
+# Preparação para estágio
+Tópicos para te ajudar na hora de fazer o processo para um estágio!
+
+
+## Conhecimentos técnicos 
  
- ## Fundamentos da Computação e Internet
+### Fundamentos da Computação e Internet
  - Como funciona as linguagens de programação
  - Para que serve os algoritmos
  - Como funciona a internet
@@ -8,7 +12,7 @@
    - Sites
    - Navegador
  
- ### Perguntas técnicas comuns:
+#### Perguntas técnicas comuns:
   - Como funciona o computador? Ele recebe inputs através do teclado/mouse e processa a informa, ele recebe em binário as informações
   - O que é a internet? Um monte de computadores interligados
   - Como funciona as linguagens de programação: nós codamos em linguagem que um programa transforma em binário depois
@@ -19,7 +23,7 @@
   - O que acontece quando acessamos um site? Nosso dispositivo está fazendo uma requisição http para um servidor que retorna um arquivo HTML, que nosso navegador interpreta e renderiza pra nós apresentando da forma que vemos o site. Caso tenha fotos/videos o navegador fará diversas requisições pro servidor para buscar essas infos.
 
 
-## Algoritmos (regras do jogo)
+### Algoritmos (regras do jogo)
   - Variáveis e tipos
   - Estruturas de controle 
     - Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
@@ -35,12 +39,15 @@
     - Metodos
     - Identacao
 
+ - Métodos ágeis
+
 [Exercícios](ex.estagio.md)
 
-### Material de apoio para exercícios
+#### Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
 
-# Comportamental
+
+## Comportamental
 - Linkedin 
   - Descrição bem feita conhecimentos tecnicos
   - Mini apresentação sobre vc
@@ -56,13 +63,31 @@
 - Outras redes sociais
   - Excluir e não postar fotos usando DROGAS e nem bebendo de preferência
 
-## Entrevista
+### Entrevistas
 
 - Fazer a apresentação sobre vocẽ
 
 Obs.: geralmente no início das entrevistas pedem pra você se apresentar em poucos minutos 5 a 10.
 
+
+### Etapas
+
+#### Avaliação perfil
+   - Conversa com alguém de RH: vão pedir p/ vc se apresentar, falar sobre sua história, expirências, o que está procurando e pq, etc..
+     - Nessa entrevista, algúem do RH pode saber quais são os requisitos técnicos para o estágio e vão pergunta sobre, mas não sabem o que significam, só irão perguntar se você já estudou ou conhece determinado assunto técnico
+ 
+ 
+#### Avaliação técnica
+Na primeira entrevista com o pessoal técnico vão pedir para você se apresentar e falar também do que está estudando/praticando e o que já conhece técnicamente
 <br />
+E pode rolar alguns desafios também:
+   - Resolva um algoritmo na frente dos jurados durante a entrevista
+   - Tente Resolver um desafio em casa e depois apresente para os jurados
+   - Resolver um algoritmo no papel 
+ - Avaliação trabalho em equipe    
+   - Resolva um algoritmo em conjunto com outras pessoas
+     - É apresentado um problema, que precisará ser solucionado através do algoritmo. O "apresentador" dará controle para cada participante tentar resolver o problema em 2 minutos, depois o próximo candidato cotinuará codificando a solução do participante anterior até que acabe o tempo ou que todos os participantes consigam resolver o problema.
+    - 
 
 ### Dicas
 
