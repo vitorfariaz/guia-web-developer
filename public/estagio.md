@@ -35,40 +35,46 @@
     - Metodos
     - Identacao
 
-[Exercícios](ex.algoritmos.md)
+[Exercícios](ex.estagio.md)
 
 ### Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
 
 # Comportamental
-- Linkedin
-  - Descrição bem feita conhecimentos tecnicos: mini pitch
+- Linkedin 
+  - Descrição bem feita conhecimentos tecnicos
+  - Mini apresentação sobre vc
   - O que estão procurando
-  - Contatos
-  - Foto
-  - Profissão
-  - Estudos
-  - Cursos
-  - Criar/compartilhar post do interesse de voces
-  - Seguir pessoas/empresas
-  - Interagir em algum post  
-
-- Currículo
-  - Mini do pitch
-  - Experiências profissionais
   - Qual a diferença vocês fizeram onde trabalharam
-  - O que estão procurando 
+  - Contatos, Foto formal, exp anterior, Estudos
+  - Criar/compartilhar post do interesse de voces
+  - Seguir/interagir pessoas/empresas
+  
+- Currículo
+  - Mini apresentação / Exp prof / Estudo
 
 - Outras redes sociais
-  - Excluir e não postar fotos usando DROGAS e nem bebendo
+  - Excluir e não postar fotos usando DROGAS e nem bebendo de preferência
 
-### Entrevista
+## Entrevista
 
-- Fazer o pitch
+- Fazer a apresentação sobre vocẽ
+
+Obs.: geralmente no início das entrevistas pedem pra você se apresentar em poucos minutos 5 a 10.
+
+<br />
+
+### Dicas
+
+Dicas pra apresentação
    - Contar tua história(breve)
    - Exp anteriores
    - O que tu procura
    - O que tu já fez pra conseguir o que procura
+   - O que tu já fez pra merecer a vaga e por que tu merece
+
+
+### Perguntas comuns entrevista
 
 - Quais tuas qualidades e como tu demonstrou elas
 - Quais teus defeitos
@@ -77,4 +83,3 @@
 - Como tu lida com conflito? 
 - Dá um exemplo da última fez que tu sugeriu algo e não foi aceito o que tu fez?
 - Como tu lida com trabalho em grupo?
-
