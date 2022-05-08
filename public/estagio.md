@@ -9,6 +9,8 @@ Tópicos para te ajudar na hora de fazer o processo para um estágio!
  - Avaliação trabalho em equipe: Dinâmica em grupo
  - Entrevista individual
 
+Obs.: Cada etapa pode ser eliminatória! Faça com cuidado e se prepare para CADA etapa.
+
 
 #### Detalhe Avaliação Perfil
    - Conversa com alguém de RH: vão pedir p/ vc se apresentar, falar sobre sua história, expirências, o que está procurando e pq, etc..
