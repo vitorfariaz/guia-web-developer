@@ -6,7 +6,7 @@ Tópicos para te ajudar na hora de fazer o processo para um estágio!
  - Avaliação do Curiculo/Linkedin
  - Avaliação perfil: Entrevista com RH da Estagiar
  - Avaliação técnica: Exercicio em casa
- - Avaliação trabalho em equipe: Dinâmica em grupo
+ - Avaliação trabalho em equipe: entrevista em grupo
  - Entrevista individual
 
 Obs.: Cada etapa pode ser eliminatória! Faça com cuidado e se prepare para CADA etapa.
