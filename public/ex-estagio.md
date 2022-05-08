@@ -9,6 +9,7 @@ soma
 4. O usuário informará 3 valores e o sistema calculará a média dos 3 valores
 soma e divisão
 
+
 ## Condicionais
 5. O sistema apresentará a pergunta "Qual o nome do sistema que os desenvolvedores usam para salvar o código fonte dos sites e poder edita-los em paralelo sem conflitos?" se o usuário responder "git" 
 o sistema apresentará a mensagem "Acertou!" se não, o sistema apresentará "Errou!"
@@ -27,3 +28,9 @@ Caso o usuário digite 1 apresentará 3 perguntas abaixo
 "Qual o mês que contém menos dias no ano?" resposta: fevereiro
 "Qual o mês que contém menos dias no ano?" respota: 
 "Qual o mês que contém menos dias no ano?"
+
+## Vetores
+https://educapes.capes.gov.br/bitstream/capes/597925/2/Lista%20de%20Exerc%C3%ADcios%20sobre%20Vetores%20Num%C3%A9ricos.pdf
+
+
+
