@@ -1,6 +1,6 @@
  # Conhecimentos técnicos 
  
- ### Fundamentos da Computação e Internet
+ ## Fundamentos da Computação e Internet
  - Como funciona as linguagens de programação
  - Para que serve os algoritmos
  - Como funciona a internet
@@ -8,7 +8,7 @@
    - Sites
    - Navegador
  
- Perguntas técnicas comuns:
+ ### Perguntas técnicas comuns:
   - Como funciona o computador? Ele recebe inputs através do teclado/mouse e processa a informa, ele recebe em binário as informações
   - O que é a internet? Um monte de computadores interligados
   - Como funciona as linguagens de programação: nós codamos em linguagem que um programa transforma em binário depois
@@ -19,7 +19,7 @@
   - O que acontece quando acessamos um site? Nosso dispositivo está fazendo uma requisição http para um servidor que retorna um arquivo HTML, que nosso navegador interpreta e renderiza pra nós apresentando da forma que vemos o site. Caso tenha fotos/videos o navegador fará diversas requisições pro servidor para buscar essas infos.
 
 
-### Algoritmos (regras do jogo)
+## Algoritmos (regras do jogo)
   - Variáveis e tipos
   - Estruturas de controle 
     - Loops (PARA, ENQUANTO, FAÇA-ENQUANTO)
@@ -39,7 +39,6 @@
 
 ### Material de apoio para exercícios
  - [Especificação portugol studio](spec-portugol.md)
-
 
 # Comportamental
 - Linkedin
