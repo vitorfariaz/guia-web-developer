@@ -11,6 +11,22 @@ Tópicos para te ajudar na hora de fazer o processo para um estágio!
 
 Obs.: Cada etapa pode ser eliminatória! Faça com cuidado e se prepare para CADA etapa.
 
+#### Detalhe avaliação Currículo/Linkedin
+
+- Linkedin 
+  - Descrição bem feita com conhecimentos tecnicos
+  - Mini apresentação sobre vc
+  - O que está procurando
+  - Qual a diferença você fez onde trabalhou
+  - Ter Contatos, boa foto de perfil(social), Exp anterior, Estudo/cursos
+  - Seguir/interagir pessoas/empresas
+  
+- Currículo
+  - Mini apresentação / Exp prof / Estudo / informações pessoais(cel,email,onde mora)
+
+- Outras redes sociais
+  - Excluir e não postar fotos usando DROGAS e nem bebendo de preferência
+
 
 #### Detalhe Avaliação Perfil
    - Conversa com alguém de RH: vão pedir p/ vc se apresentar, falar sobre sua história, expirências, o que está procurando e pq, etc..
@@ -71,24 +87,6 @@ E pode rolar alguns desafios também:
 
 [Exercícios](ex.estagio.md)<br />
 [Especificação portugol studio](spec-portugol.md)
-
-
-## Dicas avaliação currículo/Linkedin
-
-- Linkedin 
-  - Descrição bem feita conhecimentos tecnicos
-  - Mini apresentação sobre vc
-  - O que estão procurando
-  - Qual a diferença vocês fizeram onde trabalharam
-  - Contatos, Foto formal, exp anterior, Estudos
-  - Criar/compartilhar post do interesse de voces
-  - Seguir/interagir pessoas/empresas
-  
-- Currículo
-  - Mini apresentação / Exp prof / Estudo
-
-- Outras redes sociais
-  - Excluir e não postar fotos usando DROGAS e nem bebendo de preferência
 
 
 ### Dicas Entrevistas
