@@ -41,6 +41,9 @@ Base de cálculo <br />
 - De R$ 3.751,06 até R$ 4.664,68	paga 22,5% menos  R$ 636,13
 - Acima de R$ 4.664,68 paga 27,5% menos  R$ 869,36
 
+
+Obs.: Pode se verificar o resultado olhando no site https://www27.receita.fazenda.gov.br/simulador-irpf/
+
 ```
 Exemplo 1
 Salário de R$2.000
