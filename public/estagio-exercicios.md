@@ -2,21 +2,21 @@
 1. Apresente "hello, world" na tela
 
 2. Peça para o usuário informar um nome e apresente a mensagem "Olá" e mais o nome que o usuário informou
-Exemplo: 
+<br />Exemplo: 
 ```
 O usuário digita "Eduardo"
 O sistema apresenta "Olá, Eduardo"
 ```
 
 3. O usuário informará 2 números e o sistema retornará a soma dos 2
-Exemplo:
+<br />Exemplo:
 ```
 O usuário digita "3 e 3"
 O sistema apresenta "6"
 ```
 
 4. O usuário informará 3 valores e o sistema calculará a média dos 3 valores
-Exemplo: 
+<br />Exemplo: 
 ```
 O usuário digita "10, 10 e 1"
 O sistema apresenta "7"
@@ -29,9 +29,10 @@ Perguntas:
 - Digite algum operador aritmético? Possíveis respostas certas: "+","-","/","*","++", "--"
 - Digite algum operador relacional? Possíveis respostas certas: ">", "<", "=", "!="
 
+
 6. Faça um sistema em que o usuário digite o salário dele e o sistema calcule se o usuário precisará pagar o imposto de renda
  ou não e qual será o valor mensal do imposto.
-
+<br />
 Base de cálculo <br />
 - Até R$ 1.903,99, isento
 - De R$ 1.903,99 até R$ 2.826,65,	paga 7,5% do salário	menos R$ 142,80
