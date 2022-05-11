@@ -99,6 +99,11 @@ contribuição fixa de R$828,38
 
 ```
 
+<br /> 
+
+Lista con mais algoritmos: <br />
+https://docente.ifsc.edu.br/rafael.grebogi/MaterialDidatico/Mecatronica/Linguagem%20de%20Programacao%20I%20(Old)/Introducao%20a%20Informatica/Lista%20de%20Exerc%C3%ADcios%20-%20Algoritmos%20sequenciais.pdf
+
 ## Vetores
 https://educapes.capes.gov.br/bitstream/capes/597925/2/Lista%20de%20Exerc%C3%ADcios%20sobre%20Vetores%20Num%C3%A9ricos.pdf
 
