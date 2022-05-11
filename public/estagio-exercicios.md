@@ -61,8 +61,43 @@ Cai no isento
 Usuário não precisa pagar imposto de renda
 ```
 
-7. 
+7. Subtraia o desconto do INSS antes de calcular o percentual de imposto de renda sobre o salário do exercício anterior. 
 
+Base de cálculo INSS:
+- até R$1.212,00,	7,5% sobre o salário
+- de R$1.212,01 e R$2.427,35,	9% sobre o exceder do desconto anterior 
+- de R$2.427,36 e R$3.641,03,	12% sobre o exceder dos descontos anteriores
+- de R$3.641,04 e R$7.087,22, 	14% sobre o exceder dos descontos anteriores 
+
+Exemplos:
+```
+Salário de R$1.212,00
+Cai nos 7,5% de R$1.212 = R$90,90 
+---------------------------------
+Salário de R$2.000
+Cai nos 9% do que exceder o desconto anterior.
+desconto anterior é: 7,5% de 1.212 = R$90,90
+O que excede a faixa anterior R$1.212: 2.000 - 1.212 = R$788 
+9% sobre o que excedeu: 788 - 9% = R$70,92
+Soma os descontos: 70,92 + 90,90 = R$161,82 de desconto de INSS
+--------------------------------------------
+Salário de R$7.087,22
+Cai nos 14% do que exceder as faixas anteriores.
+1. desconto: 7,5% de 1.212 = R$90,90
+
+2. O que excede: 2.427,35 - 1.212,01 = 1.215,34
+desconto: 9% de 1.215,34 = R$109,38 desconto
+
+3. O que excede: 3.641,03 - 2.427,36 = 1.213,67
+12% sobre o que excedeu: 1.213,67 - 12% = R$145,64 de desconto
+
+4. O que excede: 7087,22 - 3.641,03 = 3.446,19
+14% sobre o que excedeu: 3.446,19 = 482,46 de desconto
+-----------------------------------------------------
+Salário de R$8.000
+contribuição fixa de R$828,38
+
+```
 
 ## Vetores
 https://educapes.capes.gov.br/bitstream/capes/597925/2/Lista%20de%20Exerc%C3%ADcios%20sobre%20Vetores%20Num%C3%A9ricos.pdf
