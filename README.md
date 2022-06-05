@@ -1,4 +1,4 @@
-<h1 align="center">💻 Guia para desenvolvedor de sites 💻</h1> 
+<h1 align="center">💻 Guia para desenvolvedoras(es) 💻</h1> 
 <h3 align="center">Guia para iniciantes DO ZERO até você Desenvolver seu primeiro site profissional! </h3><br />
 
 Qual o problema que esse guia visa resolver:
