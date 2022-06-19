@@ -1,40 +1,42 @@
   <h1 align="center">📘 Cursos desenvolvimento de software Backend 📙</h1>  
   
- - 📄 **Javascript**: Linguagem de programação usada tanto para frontend quanto backend
- - 📄 **NodeJs**: Intepretador de código javascript que permite a execução de códigos js fora do navegador e criar sistemas backend.
- - 📄 **Npm**: Gerenciador de pacotes para o Node.JS
+ - 📄 **Java**: Linguagem de programação usada tanto mais utiizada para backend
+ - 📄 **Java: orientação a objetos**: Boa prática para criar sistemas backend.
+ - 📄 **Spring**: Framework para criação de API's
+ - 📄 **Banco de dados**: Tecnologia que guarda informação dos sistema de maneira permanente
 
 **Pratique ao menos a mesma quantidade de tempo que você levou fazendo o curso.**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
-### JavaScript (9Hrs)
-Com esse curso, você irá aprender a deixar sua página HTML mais dinâmica, poderá fazer com que quando um botão seja apertado na página, a mesma seja 
-modificada e/ou seja chamada uma função do "backend" ou diversas outras possibilidades. Esse é somente um curso inicial, o potencial do Javascript é
-enorme. Existe diversos Games que são criados somente com JavaScript, HTML e CSS. Isso é a base fundamental do desenvolvimento Web, é extremamente 
-importante você conhecer esses conceitos. Pratique, faça os exercícios junto com o professor do curso. <br />
+### Java (9Hrs)
+Com esse curso, você irá aprender como funciona uma linguagem de programação e a como fazer algoritmos básicos com ela
+
+Pratique, faça os exercícios junto com o professor do curso. <br />
 
 <br />
 
-[Clique aqui para acessar](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1)
+[Clique aqui para acessar](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLJH2yd19u4hzRtpzm2dDCWZx58UrE85ye&ab_channel=CursoemV%C3%ADdeo)
 
-Até agora, você já absorveu no mínimo 25 Horas de conteúdo/cursos em vídeo. Isso já é bastante coisa. Agora você precisa colocar em prática aquilo 
-que aprendeu. Faça no mínimo mais 2 projetos com o conhecimento que você aprendeu. Além de fortalecer o seu conhecimento você estará melhorando seu 
-currículo/portifólio para as futuras vagas que você irá se candidatar. 
 
-### NodeJs (8Hrs)
-Você irá aprender a como criar uma API utilizando o NodeJs
+### Java: orientação a objetos (8Hrs)
+Essa é uma boa prática muito utilizada no mundo, fala sobre como organizar seu código fonte para criar projetos complexos.
 
-[Clique aqui para acessar](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+<br />
 
-**EXERCÍCIOS**
- - Crie a parte do "backend" do cadastro de pacientes, faça com que salve em memória os dados dos pacientes  
- - Crie a parte do "backend" da funcionalidade de alteração das informações do paciente. 
- - Crie a parte do "backend" da funcionalidade de pesquisa dos pacientes, possibilitando a pesquisa por CPF, nome parcial ou completo e doenças.  
+[Clique aqui para acessar](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
-Até agora, você já absorveu no mínimo 25 Horas de conteúdo/cursos em vídeo. Isso já é bastante coisa. Agora você precisa colocar em prática aquilo 
-que aprendeu. Faça no mínimo mais 2 projetos com o conhecimento que você aprendeu. Além de fortalecer o seu conhecimento você estará melhorando seu 
-currículo/portifólio para as futuras vagas que você irá se candidatar. 
 
-### Npm
-Npm é um gerenciador de pacotes para o Node.JS. Ele gerencia/baixa e instala as dependências do seu projeto. <br />
+### Spring
+Uma das bibliotecas mais utilizadas no mundo Java para criar API's
 
-[Clique aqui para acessar](https://www.youtube.com/watch?v=QYH-vX_7Cfo)
+<br />
+[Clique aqui para acessar](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
+
+### Banco de dados
+Banco de dados são utilizadas na maioria dos sistemas e na criação de API's, nesse curso você irá aprender sobre um deles mas os conceitos são parecidos para quase todos os bancos de dados relacionais.
+<br />
+
+[Clique aqui para acessar](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&ab_channel=CursoemV%C3%ADdeo)
+
+
+
+
