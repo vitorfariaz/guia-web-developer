@@ -104,7 +104,7 @@ Algumas definições <br />
 <br /> Esse bando de siglas é como se fosse o encanamento de como uma informação vai de um ponto para o outro. Como a água. Sabendo disso, somos capazes de construir sistemas que funcionam através desses "canos"
 
 
-### Lógica e algoritmos (7Hrs)
+## Lógica e algoritmos (7Hrs)
 Nesse curso você irá aprender sobre lógica e algoritmos. Isso é fundamental e é "alheio" a tecnologias e a linguagem de programação.
 É basicamente sobre como pensar de forma racional para resolver um problema específico. Entender isso e ter esse racional antes mesmo de aprender 
 coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próximos conteúdos mais complexos. <br />
@@ -117,7 +117,7 @@ coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próx
  - Em quais outros lugares a lógica pode ser usada? 
 
 
-## GITHUB
+## Github
 
 Já parou para pensar como as empresas atualizam o código fonte dos seus sistemas? Imagina vários desenvolvedores mexendo no mesmo código fonte de um site? 😧 <br />
 GitHub é o site de armazenamento e gestão de código fonte. É através dessa ferramenta que as empresas fazem a gestão dos códigos fontes de seus sistemas. <br /> 
