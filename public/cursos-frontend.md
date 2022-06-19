@@ -4,7 +4,6 @@
  - 🖌 **CSS**: linguagem de *marcação* responsável por estilizar/posicionar/animar os elementos HTML.
  - 🖱 **Javascript**: linguagem de *programação* responsável por deixar as páginas da internet interativas.
  - 😎 **React**: Biblioteca JavaScript responsável por facilitar a criação e interatividade de páginas da Internet, é uma das bibliotecas mais utilizadas no mundo para desenvolvimento de sites.
- - 🐱 **Git**: Sistema responsável pelo armazenamento/versionamento e controle de códigos fontes.
 
 Basicamente dominando esses assuntos de forma prática, conseguirá desenvolver sites e estará pronto para diversas vagas na área. <br />   
 
