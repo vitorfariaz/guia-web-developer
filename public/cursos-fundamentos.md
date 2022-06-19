@@ -4,6 +4,7 @@ Nessa página você encontrará cursos de:
  - 🖥 **Fundamentos da Ciência da computação**: Como um computador funciona e processa informações.
  - 🌐 **Fundamentos da Internet**: Como a internet funciona e como é compartilhado informações entre dispositivos ligados a internet.
  - 📋 **Algoritmos**: Você irá aprender o que é algoritmo, para que serve e como criar os seus próprios. Isso é a base fundamental para qualquer linguagem de programação que você irá aprender no futuro.
+ - 🐱 **Git**: Sistema responsável pelo armazenamento/versionamento e controle de códigos fontes.
 
 Basicamente dominando esses assuntos de forma prática, conseguirá desenvolver sites e estará pronto para diversas vagas na área. <br />   
 
@@ -116,7 +117,28 @@ coisas mais complexas e técnicas é fundamental e vai ti ajudar muito nos próx
  - Em quais outros lugares a lógica pode ser usada? 
 
 
-## RESPOSTAS para os exercícios
+## GITHUB
+
+Já parou para pensar como as empresas atualizam o código fonte dos seus sistemas? Imagina vários desenvolvedores mexendo no mesmo código fonte de um site? 😧 <br />
+GitHub é o site de armazenamento e gestão de código fonte. É através dessa ferramenta que as empresas fazem a gestão dos códigos fontes de seus sistemas. <br /> 
+Ela fornece diversas ferramentas de versionamento de código para que vários desenvolvedores consigam editar diversos arquivos fontes. <br />
+Você irá disponibilizar seus projetos que fez até aqui nessa ferramenta e irá colocar o link do seu Github no currículo e Linkedin para que os avaliadores vejam seus projetos, servirá como seu portifólio. <br />
+
+
+<p align="left">
+      <a href="https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo">
+    	 <img src="https://img.youtube.com/vi/xEKo29OWILE/0.jpg" height="468" alt="Curso de Git" />
+    </a>
+ <br />
+ 
+  *Clique na imagem para acessar o curso*
+
+  
+https://github.com/PauloGoncalvesBH/treinamento-git
+
+
+
+# RESPOSTAS para os exercícios
 
 ### Fundamentos Computação
  1. Binário, zeros e uns
