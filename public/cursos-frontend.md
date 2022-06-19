@@ -91,22 +91,4 @@ desenvolvimento. <br />
   
 <br /> 
 
-## GITHUB
-
-Já parou para pensar como as empresas atualizam o código fonte dos seus sistemas? Imagina vários desenvolvedores mexendo no mesmo código fonte de um site? 😧 <br />
-GitHub é o site de armazenamento e gestão de código fonte. É através dessa ferramenta que as empresas fazem a gestão dos códigos fontes de seus sistemas. <br /> 
-Ela fornece diversas ferramentas de versionamento de código para que vários desenvolvedores consigam editar diversos arquivos fontes. <br />
-Você irá disponibilizar seus projetos que fez até aqui nessa ferramenta e irá colocar o link do seu Github no currículo e Linkedin para que os avaliadores vejam seus projetos, servirá como seu portifólio. <br />
-
-
-<p align="left">
-      <a href="https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo">
-    	 <img src="https://img.youtube.com/vi/xEKo29OWILE/0.jpg" height="468" alt="Curso de Git" />
-    </a>
- <br />
- 
-  *Clique na imagem para acessar o curso*
-
-  
-https://github.com/PauloGoncalvesBH/treinamento-git
 
