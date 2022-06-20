@@ -74,7 +74,7 @@ Atividades/Metas pessoais para conseguir a primeira vaga
    - [ ] Vi os requisitos em comum das vagas
    - [ ] Me preparei para os requisitos de no mínimo 3 vagas
  - [ ] **Me vinculei a alguma faculdade para iniciar um estágio logo no início**
- - [ ] Fiz algum(s) processos seletivos para estágios ou programas de diversidade**
+ - [ ] **Fiz algum(s) processos seletivos para estágios ou programas de diversidade**
  - [ ] **Consegui uma vaga num estágio ou programa de diversidade!!!** Vou lá comemorar com o **@vitorfariaz** no instagram!
 
 Siga essa trilha com **unhas e dentes**! Escreva-a numa folha de papel cole na parede do seu quarto ou num local onde fique visível para você TODOS OS DIAS e vá marcando cada vez que você concluir uma etapa. Cada etapa concluída é um passo mais próximo do seu objetivo. <br />
