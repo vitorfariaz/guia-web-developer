@@ -22,7 +22,9 @@ Ter uma trilha de estudos bem mapeada serve para você
  - Criar **metas** e **objetivos** pequenos atingíveis
  - Ter visão clara do caminho que você deve percorrer para conseguir a primeira vaga
 
-Essa trilha de estudos que indico abaixo serve **perfeitamente** para quem deseja se tornar um desenvolvedor de site(desenvolvedor frontend) porém o conteúdo é 80% reaproveitável para caso você queira seguir outros caminhos como, cientista de dados, desenvolvedor backend, etc.. <br />
+Essa trilha de estudos que indico abaixo serve **perfeitamente** para quem deseja 
+se tornar um desenvolvedor de site(desenvolvedor frontend)
+ <br />
 
 Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma vaga:
  - [ ] Fundamentos da computação
@@ -41,7 +43,7 @@ Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma va
    - [ ] Aprendi o que é HTML e CSS e para que serve
    - [ ] Aprendi a criar uma página HTML
    - [ ] Aprendi a deixar uma página HTML estilosa com CSS
-   - [ ] Aprendi a criar todos os componentes de um site como: botões, campos de texto, cabeçalho, rodapé, menus, imagens, etc..
+   - [ ] Aprendi a criar todos os componentes de um site como: botões, campos de texto, cabeçalho, etc..
  - [ ] Alroritmos
    - [ ]  Aprendi a criar variáveis
    - [ ]  Aprendi o que são métodos/funções e parâmetros
