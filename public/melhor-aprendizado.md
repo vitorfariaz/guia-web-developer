@@ -27,41 +27,41 @@ se tornar um desenvolvedor de site(desenvolvedor frontend)
  <br />
 
 Segue abaixo minha sugestão de trilha de estudos e passos até conseguir uma vaga:
- - [ ] Fundamentos da computação
+ - [ ] **Fundamentos da computação**
    - [ ] Aprendi como funciona o computador
    - [ ] Aprendi como funciona as linguagens de programação
    - [ ] Aprendi como criar um programa de computador básico
    - [ ] Aprendi para que serve os algoritmos
    - [ ] Aprendi a como criar algoritmos simples
- - [ ] Fundamentos da internet
+ - [ ] **Fundamentos da internet**
    - [ ] Aprendi o que é a internet
    - [ ] Aprendi como funciona a internet
    - [ ] Aprendi como funciona o navegador
    - [ ] Aprendi como é trafegado informações pela internet
    - [ ] Aprendi como é criado um site e o que acontece quando acessamos ele   
- - [ ] HTML e CSS
+ - [ ] **HTML e CSS**
    - [ ] Aprendi o que é HTML e CSS e para que serve
    - [ ] Aprendi a criar uma página HTML
    - [ ] Aprendi a deixar uma página HTML estilosa com CSS
    - [ ] Aprendi a criar todos os componentes de um site como: botões, campos de texto, cabeçalho, etc..
- - [ ] Alroritmos
+ - [ ] **Alroritmos**
    - [ ]  Aprendi a criar variáveis
    - [ ]  Aprendi o que são métodos/funções e parâmetros
    - [ ]  Aprendi como fazer Loops
    - [ ]  Aprendi o que são condicionais e expressões booleanas
    - [ ]  Aprendi sobre estrutura dados: listas, mapas e objetos
- - [ ] Javascript
+ - [ ] **Javascript**
    - [ ] Aprendi a realizar alterações em elementos HTML via javascript
- - [ ] React
+ - [ ] **React**
    - [ ] Aprendi a criar um site usando um framework de desenvolvimento
- - [ ] Git
+ - [ ] **Git**
    - [ ] Aprendi a colocar o código fonte do meu site num repositório compartilhado(github)
    - [ ] Aprendi a baixar código fonte dos outros pela internet
    - [ ] Aprendi a fazer alterações no meu código fonte hospedado na internet
 <br />
 
 Atividades/Metas pessoais para conseguir a primeira vaga
- - [ ] Criar / Atualizar o perfil no LinkedIn
+ - [ ] **Criar / Atualizar o perfil no LinkedIn**
    - [ ] Preenchido com O QUE consigo fazer através da tecnologia
    - [ ] Adicionar + 100 contatos de Recutradores
    - [ ] Adicionar + 100 contatos de Desenvolvedores
@@ -69,12 +69,12 @@ Atividades/Metas pessoais para conseguir a primeira vaga
    - [ ] Preenchido com POR QUE eu mereço uma oportunidade
    - [ ] Preenchido com QUAL valor eu entrego
    - [ ] Preenchido com QUAIS minhas principais conquistas
- - [ ] Achar vagas de estágio ou programas de diversidade
+ - [ ] **Achar vagas de estágio ou programas de diversidade**
    - [ ] Achei mais de 3 vagas de estágio / programas de diversidade na minha área (desenvolvimento frontend)
    - [ ] Vi os requisitos em comum das vagas
    - [ ] Me preparei para os requisitos de no mínimo 3 vagas
- - [ ] Me vinculei a alguma faculdade para iniciar um estágio logo no início
- - [ ] Fiz algum(s) processos seletivos para estágios ou programas de diversidade
+ - [ ] **Me vinculei a alguma faculdade para iniciar um estágio logo no início**
+ - [ ] Fiz algum(s) processos seletivos para estágios ou programas de diversidade**
  - [ ] **Consegui uma vaga num estágio ou programa de diversidade!!!** Vou lá comemorar com o **@vitorfariaz** no instagram!
 
 Siga essa trilha com **unhas e dentes**! Escreva-a numa folha de papel cole na parede do seu quarto ou num local onde fique visível para você TODOS OS DIAS e vá marcando cada vez que você concluir uma etapa. Cada etapa concluída é um passo mais próximo do seu objetivo. <br />
