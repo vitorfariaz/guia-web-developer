@@ -13,7 +13,6 @@ E por outro lado, na área de TI:
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
-<br />  ✔ Aprenderá a criar sistemas para automatizar tarefas
 <br />  ✔ Estará próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Frontend ou Backend  
 
 Mas como? 
@@ -22,8 +21,6 @@ Mas como?
 <br />  ✔ Dicas de como estudar
 <br />  ✔ Dicas de como achar e ser achado para vagas de trabalho/estágio
 
-Criei esse material pois identifiquei a necessidade/falta de conteúdos com um viés mais iniciante.
-Antes de despejar um monte de cursos técnicos, esse material explica sobre fundamentos. <br />
 Cada curso indicado e textos colocados aqui são extremamente importantes. Não pule etapas!
 
 <br />
