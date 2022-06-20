@@ -8,8 +8,7 @@ Qual o problema que esse guia visa resolver:
 
 E por outro lado, na área de TI:
 <br /> 📣 Milhares de novas vagas de emprego todos os dias
-<br /> 📣 Possibilidade de trabalhar para empresas do brasil e do mundo de casa, ganhando em dólar/Euro/libra
-<br /> 📣 Salários altos devido a alta demanda
+<br /> 📣 Possibilidade de trabalhar para empresas do brasil e do mundo de casa, ganhando salário alto em dólar/Euro/libra
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
@@ -42,14 +41,18 @@ Cada curso indicado e textos colocados aqui são extremamente importantes. Não 
 <h1 align="center">Conteúdo</h1>
   
 A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estimado para cada
+ - ✍ [Dicas: aprenda mais rápido](public/melhor-aprendizado.md)(5Min)
  - 💻 [O que é TI](public/o-que-e-ti.md)(5Min)
  - 👨‍💻 [Tipos de desenvolvedores](public/tipos-de-desenvolvedores.md)(10Min)
- - ✍ [Dicas: aprenda mais rápido](public/melhor-aprendizado.md)(5Min)
  - 🎬 [Cursos: fundamentos da internet e computação](public/cursos-fundamentos.md)(+ 40Hrs)
+ - ESCOLHA UM DOS CAMINHOS ABAIXO, FRONTEND OU BACKEND E FAÇA TODOS CURSOS
  - 🎬 [Cursos: desenvolvimento Frontend(parte visual)](public/cursos-frontend.md)(+ 40Hrs)
  - 🎬 [Cursos: desenvolvimento Backend(processamento dos dados](public/cursos-backend.md)(+ 40Hrs)
  - 📝 [Dicas: criação do currículo](public/dicas-criacao-curriculo.md)(30Min)
  - 👷‍♂️ [Mercado de trabalho](public/mercado-de-trabalho.md)(10Min)
+
+
+Caso queira saber de uma maneira visual o que você deve aprender para cada caminho, pode olhar abaixo
  - 🗺️ [Mapa visual: Frontend](public/mapa-visual-frontend.md)(5Min)
  - 🗺️ [Mapa visual: Backend](public/mapa-visual-backend.md)(5Min)
 
