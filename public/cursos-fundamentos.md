@@ -2,7 +2,7 @@
   
 Nessa página você encontrará cursos de:
  - 🖥 **Fundamentos da Ciência da computação**(opcional): Como um computador funciona e processa informações.
- - 🌐 **Fundamentos da Internet**: Como a internet funciona e como é compartilhado informações entre dispositivos ligados a internet.
+ - 🌐 **Fundamentos da Internet**(opcional): Como a internet funciona e como é compartilhado informações entre dispositivos ligados a internet.
  - 📋 **Algoritmos**: Você irá aprender o que é algoritmo, para que serve e como criar os seus próprios. Isso é a base fundamental para qualquer linguagem de programação que você irá aprender no futuro.
  - 🐱 **Git**: Sistema responsável pelo armazenamento/versionamento e controle de códigos fontes.
 
