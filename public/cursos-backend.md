@@ -2,8 +2,8 @@
   
  - 📄 **Java**: Linguagem de programação usada tanto mais utiizada para backend
  - 📄 **Java: orientação a objetos**: Boa prática para criar sistemas backend.
- - 📄 **Spring**: Framework para criação de API's
  - 📄 **Banco de dados**: Tecnologia que guarda informação dos sistema de maneira permanente
+ - 📄 **Spring**: Framework para criação de API's
 
 **Pratique ao menos a mesma quantidade de tempo que você levou fazendo o curso.**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
@@ -24,18 +24,17 @@ Essa é uma boa prática muito utilizada no mundo, fala sobre como organizar seu
 
 [Clique aqui para acessar](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
+### Banco de dados
+Banco de dados são utilizadas na maioria dos sistemas e na criação de API's, nesse curso você irá aprender sobre um deles mas os conceitos são parecidos para quase todos os bancos de dados relacionais.
+<br />
+
+[Clique aqui para acessar](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&ab_channel=CursoemV%C3%ADdeo)
 
 ### Spring
 Uma das bibliotecas mais utilizadas no mundo Java para criar API's
 
 <br />
 [Clique aqui para acessar](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
-
-### Banco de dados
-Banco de dados são utilizadas na maioria dos sistemas e na criação de API's, nesse curso você irá aprender sobre um deles mas os conceitos são parecidos para quase todos os bancos de dados relacionais.
-<br />
-
-[Clique aqui para acessar](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&ab_channel=CursoemV%C3%ADdeo)
 
 
 
