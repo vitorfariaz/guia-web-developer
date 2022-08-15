@@ -34,7 +34,7 @@ Banco de dados são utilizadas na maioria dos sistemas e na criação de API's, 
 Uma das bibliotecas mais utilizadas no mundo Java para criar API's
 
 <br />
-[Clique aqui para acessar](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
+[Clique aqui para acessar](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
 
 
 
