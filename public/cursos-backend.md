@@ -2,7 +2,7 @@
   
  - 📄 **Java**: Linguagem de programação usada tanto mais utiizada para backend
  - 📄 **Java: orientação a objetos**: Boa prática para criar sistemas backend.
- - 📄 **Banco de dados**: Tecnologia que guarda informação dos sistema de maneira permanente
+ - 📄 **Banco de dados**: Tecnologia que guarda informação dos sistemas de maneira permanente
  - 📄 **Spring**: Framework para criação de API's
 
 **Pratique ao menos a mesma quantidade de tempo que você levou fazendo o curso.**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
