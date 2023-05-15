@@ -36,7 +36,6 @@ Cada curso indicado e textos colocados aqui são extremamente importantes. Não 
     	 <img src="https://www.gov.br/agricultura/pt-br/centrais-de-conteudo/imagens/linkedin.png" height="68" alt="linkedin vitor" />
     </a>
 </p>
-<br />
 
 <h1 align="center">Conteúdo</h1>
   
