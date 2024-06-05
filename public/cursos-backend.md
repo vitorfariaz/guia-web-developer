@@ -1,9 +1,9 @@
   <h1 align="center">📘 Cursos desenvolvimento de software Backend 📙</h1>  
   
- - 📄 **Java**: Linguagem de programação usada mais utiizada para backend
+ - 📄 **Java**: Linguagem de programação mais utiizada para backend
  - 📄 **Java: orientação a objetos**: Boa prática para programar.
  - 📄 **Banco de dados**: Tecnologia que guarda informação dos sistemas de maneira permanente
- - 📄 **Spring**: Framework para criação de API's
+ - 📄 **Spring**: Biblioteca para criação de API's
 
 **Pratique ao menos a mesma quantidade de tempo que você levou fazendo o curso.**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
 
