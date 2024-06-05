@@ -1,10 +1,10 @@
 <h1 align="center">💻 Guia para desenvolvedoras(es) 💻</h1> 
-<h3 align="center">Guia para iniciantes DO ZERO até você Desenvolver seu primeiro site profissional! </h3><br />
+<h3 align="center">Guia para iniciantes! </h3><br />
 
 Qual o problema que esse guia visa resolver:
 <br /> ❌ Taxa de desemprego altíssima no Brasil
 <br /> ❌ Muita concorrência e salários baixos em outras áreas
-<br /> ❌ Muitas pessoas formadas em faculdade com salários baixos(menos de 2 salários mínimos)
+<br /> ❌ Muitas pessoas formadas trabalhando em outras áreas e com salários baixos(menos de 2 salários mínimos)
 
 E por outro lado, na área de TI:
 <br /> 📣 Milhares de novas vagas de emprego todos os dias
@@ -12,7 +12,7 @@ E por outro lado, na área de TI:
 
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
-<br />  ✔ Estará próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Frontend ou Backend  
+<br />  ✔ Estará próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Backend  
 
 Mas como? 
 <br />  ✔ Através de uma trilha de conteúdos
@@ -23,7 +23,7 @@ Mas como?
 Cada curso indicado e textos colocados aqui são extremamente importantes. Não pule etapas!
 
 <br />
-<p align="center"><i>Caso tenha qualquer dúvida, será um prazer te ajudar! Minhas redes sociais.</i><p>
+<p align="center"><i>Caso tenha qualquer dúvida, será um prazer te ajudar! Minhas redes sociais abaixo </i><p>
 
 <p align="center">
      <a href="https://instagram.com/vitorfariaz">
@@ -43,16 +43,13 @@ A ideia é que você consuma o conteúdo na ordem, segue tópicos e tempo estima
  - ✍ [Dicas: aprenda mais rápido](public/melhor-aprendizado.md)(5Min)
  - 💻 [O que é TI](public/o-que-e-ti.md)(5Min)
  - 👨‍💻 [Tipos de desenvolvedores](public/tipos-de-desenvolvedores.md)(10Min)
- - 🎬 [Cursos: fundamentos da internet e computação](public/cursos-fundamentos.md)(+ 40Hrs)
- - ESCOLHA UM DOS CAMINHOS ABAIXO, FRONTEND OU BACKEND E FAÇA TODOS CURSOS
- - 🎬 [Cursos: desenvolvimento Frontend(parte visual)](public/cursos-frontend.md)(+ 40Hrs)
+ - 🎬 [Curso: fundamentos da internet e computação](public/cursos-fundamentos.md)(+ 40Hrs)
  - 🎬 [Cursos: desenvolvimento Backend(processamento dos dados](public/cursos-backend.md)(+ 40Hrs)
  - 📝 [Dicas: criação do currículo](public/dicas-criacao-curriculo.md)(30Min)
  - 👷‍♂️ [Mercado de trabalho](public/mercado-de-trabalho.md)(10Min)
 
 
 Caso queira saber de uma maneira visual o que você deve aprender para cada caminho, pode olhar abaixo
- - 🗺️ [Mapa visual: Frontend](public/mapa-visual-frontend.md)(5Min)
  - 🗺️ [Mapa visual: Backend](public/mapa-visual-backend.md)(5Min)
 
  <br />
@@ -106,7 +103,7 @@ Como as empresas se organizam no dia a dia para desenvolver software? Será que 
 Ele faz o pedido pelo whats? <br />
 Como funciona o fluxo de trabalho? <br />
 O ágil, é uma metodologia de trabalho, que tem valores e princípios que direcionam as práticas do dia a dia para o desenvolvimento de software. <br />
-Hoje em dia, grande parte das empresas trabalham com essa metodologia e algumas vezes chega ser um requisito para você conseguir um vaga entender essaa metodologia. <br />
+Hoje em dia, grande parte das empresas trabalham com essa metodologia e algumas vezes é requisito para você conseguir um vaga entender essa metodologia. <br />
 
  - [O que é Agilidade](https://www.linkedin.com/video/event/urn:li:ugcPost:6914525357228331009/)
 
