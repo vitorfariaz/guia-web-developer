@@ -1,5 +1,4 @@
-<h1 align="center">💻 Guia para desenvolvedoras(es) 💻</h1> 
-<h3 align="center">Guia para iniciantes! </h3><br />
+<h1 align="center">💻 Guia para iniciar na programação 💻</h1> 
 
 Qual o problema que esse guia visa resolver:
 <br /> ❌ Taxa de desemprego altíssima no Brasil
