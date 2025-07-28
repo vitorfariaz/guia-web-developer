@@ -53,27 +53,6 @@ Caso queira saber de uma maneira visual o que você deve aprender para cada cami
 
  <br />
   
-<h1 align="center">Você pode contribuir com esse projeto!</h1>
-
-Solicite alterações a qualquer parte desse projeto, basta seguir o passo a passo abaixo.
- - Você precisa estar logado no git
- - Acesse a página que você deseja alterar
- - Clique no nome do arquivo(na parte superior da tela) da página que você deseja alterar
- - Clique no lápis de edição do arquivo
- - Faça a alteração
- - Clique no botão propose changes(propor alterações)
- - Clique em Create Pull Request
- - Escolha um nome para a sua solicitação de alteração
- - Clique em Create Pull Request
- 
-Sua solicitação de alteração ficará na aba "Pull requests". <br />
-Após você solicitar a alteração eu iriei avaliar e aprovar se fizer sentido. <br />
-Segue um GIF solicitando uma alteração<br />
-<img src="https://github.com/vitorfariaz/guia-web-developer/blob/main/public/pull-request.gif"><br />
-Suas contribuições serão muito bem vindas! <br />
-
-<br />
-
 <h1 align="center">Roadmaps para outros tipos de desenvolvedores</h1>
 
 Me inspirei na versão abaixo para criar este guia. <br />
@@ -95,10 +74,10 @@ Abaixo, segue uma imagem traduzida do guia original <br /><br />
     <h2 align="center">roadmap.sh</h2>
 </p>
 <br />
-<br />
   
 ## Metodologia de trabalho
-Como as empresas se organizam no dia a dia para desenvolver software? Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
+Como as empresas se organizam no dia a dia para desenvolver software?  <br /> 
+Será que o chefe pede para o desenvolvedor criar uma tela com a ideia da cabeça dele? <br /> 
 Ele faz o pedido pelo whats? <br />
 Como funciona o fluxo de trabalho? <br />
 O ágil, é uma metodologia de trabalho, que tem valores e princípios que direcionam as práticas do dia a dia para o desenvolvimento de software. <br />
