@@ -42,8 +42,8 @@ Mensageria é usada para comunicar sistemas de forma assíncrona e desacoplada. 
 ### CI/CD
 Automatizar testes, builds e deploys melhora a produtividade e reduz erros.
 - CI ->  verifica se o sistema continua funcionando a cada mudança (PR), rodando testes automaticamente.
-   - Github Actions -> [Clique aqui para acessar](https://www.youtube.com/watch?v=IKjcdYQvcDo&ab_channel=MarioSouto-DevSoutinho)
-   - Github Actions -> [Clique aqui para acessar](https://www.youtube.com/watch?v=F51HlrEeedw&ab_channel=FernandaKipper%7CDev)
+   - Github Actions (Opção 1) -> [Clique aqui para acessar](https://www.youtube.com/watch?v=IKjcdYQvcDo&ab_channel=MarioSouto-DevSoutinho)
+   - Github Actions (Opção 2) -> [Clique aqui para acessar](https://www.youtube.com/watch?v=F51HlrEeedw&ab_channel=FernandaKipper%7CDev)
    - ~GitLab CI
    - ~Jenkins
 - CD ->  faz o deploy automático para ambientes (produção ou homologação).
