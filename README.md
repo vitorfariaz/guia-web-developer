@@ -1,21 +1,11 @@
 <h1 align="center">💻 Guia para iniciar na programação 💻</h1> 
 
-Qual o problema que esse guia visa resolver:
-<br /> ❌ Taxa de desemprego altíssima no Brasil
-<br /> ❌ Muita concorrência e salários baixos em outras áreas
-<br /> ❌ Muitas pessoas formadas trabalhando em outras áreas e com salários baixos(menos de 2 salários mínimos)
-
-E por outro lado, na área de TI:
-<br /> 📣 Milhares de novas vagas de emprego todos os dias
-<br /> 📣 Possibilidade de trabalhar para empresas do brasil e do mundo de casa, ganhando salário alto em dólar/Euro/libra
-
 Após concluir esse guia você:
 <br />  ✔ Terá uma boa noção sobre COMO funciona a internet e os computadores
 <br />  ✔ Estará próximo ou conseguirá atuar na área de TI profissionalmente como Desenvolvedor Backend  
 
 Mas como? 
-<br />  ✔ Através de uma trilha de conteúdos
-<br />  ✔ Cursos bons e gratuitos
+<br />  ✔ Através de uma trilha de cursos gratuitos
 <br />  ✔ Dicas de como estudar
 <br />  ✔ Dicas de como achar e ser achado para vagas de trabalho/estágio
 
