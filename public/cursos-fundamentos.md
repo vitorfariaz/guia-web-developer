@@ -46,11 +46,13 @@ GitHub é o site de armazenamento, versionamento e gestão de código fonte. É 
  
   *Clique na imagem para acessar o curso*
 
-
-### Exercícios caso queira praticar o conhecimento adquirido nos cursos
-[Clique aqui](#./exercicios
-  
 https://github.com/PauloGoncalvesBH/treinamento-git
 
 <br /><br /><br />
+
+### Exercícios caso queira praticar o conhecimento adquirido nos cursos
+[Clique aqui](#../exercicios.md)
+
+
+
 [Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
