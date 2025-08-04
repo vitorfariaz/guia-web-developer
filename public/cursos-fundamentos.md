@@ -51,7 +51,7 @@ https://github.com/PauloGoncalvesBH/treinamento-git
 <br /><br /><br />
 
 ### Exercícios caso queira praticar o conhecimento adquirido nos cursos
-[Clique aqui](#../exercicios.md)
+[Clique aqui](https://github.com/vitorfariaz/guia-web-developer/blob/main/public/exercicios.md)
 
 
 
