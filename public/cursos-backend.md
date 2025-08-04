@@ -19,7 +19,7 @@ Essa é uma boa prática muito utilizada no mundo, fala sobre como organizar seu
 
 [Curso](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
-## Banco de dados (MySQL)
+## Banco de dados (MySQL) (8 Hrs)
 <details>
 <summary>Observações</summary>
 Banco de dados são utilizadas na maioria dos sistemas e na criação de API's, nesse curso você irá aprender sobre um deles mas os conceitos são parecidos para quase todos os bancos de dados relacionais. <br />
@@ -38,7 +38,7 @@ Gerenciar dependências é fundamental para facilitar o uso de bibliotecas de te
 
 [Curso](https://www.youtube.com/watch?v=N7AyIfUQxGc&ab_channel=GiulianaBezerra)
 
-## Testes
+## Testes (Java) (20 min)
 <details>
 <summary>Observações</summary>
 Testes garantem a qualidade do código e previnem erros. Existem diferentes tipos:
@@ -50,7 +50,7 @@ Testes garantem a qualidade do código e previnem erros. Existem diferentes tipo
 
 [Curso - testes unitários](https://www.youtube.com/watch?v=rVSwDX9KUt8&ab_channel=Javanauta)
 
-## Mensageria (kafka)
+## Mensageria (kafka) (3Hrs)
 <details>
 <summary>Observações</summary>
 Mensageria é usada para comunicar sistemas de forma assíncrona e desacoplada. Permite escalar, distribuir carga e melhorar a resiliência.
@@ -62,7 +62,7 @@ Mensageria é usada para comunicar sistemas de forma assíncrona e desacoplada. 
 [Curso - Kafka - Prática com Java](https://www.youtube.com/watch?v=EKj8lDRgvLc&ab_channel=Prof.Rog%C3%A9rioNapole%C3%A3oJr.) 
 
 
-## CI/CD
+## CI/CD (GitHub Actions) (1Hr)
 <details>
 <summary>Observações</summary>
 Automatizar testes, builds e deploys melhora a produtividade e reduz erros.
@@ -80,14 +80,13 @@ Automatizar testes, builds e deploys melhora a produtividade e reduz erros.
 [Curso - CD Básico Github Actions](https://www.youtube.com/watch?v=df_WMXk7JxE&ab_channel=FernandaKipper%7CDev)  
 
 
-## Framework (Java Spring)
+## Framework (Java Spring) (2Hrs)
 <details>
 <summary>Observações</summary>
 Uma das bibliotecas mais utilizadas no mundo Java para criar API's <br />
 </details>
 
 [Clique aqui para acessar](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
-
 
 ## Docker 
 <details>
