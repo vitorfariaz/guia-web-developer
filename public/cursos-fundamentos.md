@@ -1,6 +1,6 @@
   <h1 align="center">📘 Fundamentos da internet e computação 📙</h1>  
   
-**Já vou adiantando, não adianta só assistir os cursos e não praticar**. É crucial que você pratique, senão você realmente **não irá aprender.** <br /> 
+**Não adianta só assistir os cursos e não praticar**. É crucial que você pratique no mínimo o mesmo tempo em que assistiu os cursos, senão você realmente **não irá aprender.** <br /> 
 
 ## Introdução - Fundamentos da Computação
 Nesse material você vai entender como funciona um computador e as linguagens de programação.
