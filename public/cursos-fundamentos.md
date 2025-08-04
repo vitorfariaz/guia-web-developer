@@ -42,17 +42,16 @@ GitHub é o site de armazenamento, versionamento e gestão de código fonte. É 
       <a href="https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo">
     	 <img src="https://img.youtube.com/vi/xEKo29OWILE/0.jpg" height="468" alt="Curso de Git" />
     </a>
- <br />
- 
+  
   *Clique na imagem para acessar o curso*
 
 https://github.com/PauloGoncalvesBH/treinamento-git
 
-<br /><br /><br />
 
 ### Exercícios caso queira praticar o conhecimento adquirido nos cursos
 [Clique aqui](https://github.com/vitorfariaz/guia-web-developer/blob/main/public/exercicios.md)
 
 
+<br /><br /><br />
 
 [Voltar para página inicial](https://github.com/vitorfariaz/guia-web-developer)
