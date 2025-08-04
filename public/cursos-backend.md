@@ -5,7 +5,7 @@
 ## Linguagem de programação (Java) (9Hrs)
 <details>
 <summary>Observações</summary>
-Com esse curso, você irá aprender como funciona uma linguagem de programação e a como fazer algoritmos básicos com ela
+Com esse curso, você irá aprender como funciona uma linguagem de programação e a como fazer algoritmos básicos com ela </br>
 Pratique, faça os exercícios junto com o professor do curso. <br />
 </details>
 
@@ -30,10 +30,10 @@ Banco de dados são utilizadas na maioria dos sistemas e na criação de API's, 
 ## Gerenciamento de dependencias (Maven) (20 min)
 <details>
 <summary>Observações</summary>
-Gerenciar dependências é fundamental para facilitar o uso de bibliotecas de terceiros e manter seu projeto organizado. Ferramentas como Maven (Java), Gradle (Java/Kotlin) e npm (JavaScript) automatizam esse processo, cuidando de versões, atualizações e estruturação do projeto.
-- Básico de Maven 
-- Curso Gradle - Programação Moderna (1h)
-- Curso npm para iniciantes - Node.js (30min)
+Gerenciar dependências é fundamental para facilitar o uso de bibliotecas de terceiros e manter seu projeto organizado. Ferramentas como Maven (Java), Gradle (Java/Kotlin) e npm (JavaScript) automatizam esse processo, cuidando de versões, atualizações e estruturação do projeto. </br>
+- Básico de Maven  </br>
+- Curso Gradle - Programação Moderna (1h) </br>
+- Curso npm para iniciantes - Node.js (30min) </br>
 </details>
 
 [Curso](https://www.youtube.com/watch?v=N7AyIfUQxGc&ab_channel=GiulianaBezerra)
@@ -41,11 +41,11 @@ Gerenciar dependências é fundamental para facilitar o uso de bibliotecas de te
 ## Testes (Java) (20 min)
 <details>
 <summary>Observações</summary>
-Testes garantem a qualidade do código e previnem erros. Existem diferentes tipos:
-- **Unitários**: testam pequenas partes isoladas do sistema (ex: métodos). 
-- **Integrados**: verificam a interação entre componentes.
-- **Contrato**: garantem que diferentes serviços concordam sobre como se comunicar.
-- **Pirâmide de testes**: boa prática que mostra a proporção ideal de cada tipo de teste
+Testes garantem a qualidade do código e previnem erros. Existem diferentes tipos:</br>
+- **Unitários**: testam pequenas partes isoladas do sistema (ex: métodos). </br>
+- **Integrados**: verificam a interação entre componentes. </br>
+- **Contrato**: garantem que diferentes serviços concordam sobre como se comunicar. </br>
+- **Pirâmide de testes**: boa prática que mostra a proporção ideal de cada tipo de teste </br>
 </details>
 
 [Curso - testes unitários](https://www.youtube.com/watch?v=rVSwDX9KUt8&ab_channel=Javanauta)
@@ -53,9 +53,9 @@ Testes garantem a qualidade do código e previnem erros. Existem diferentes tipo
 ## Mensageria (kafka) (3Hrs)
 <details>
 <summary>Observações</summary>
-Mensageria é usada para comunicar sistemas de forma assíncrona e desacoplada. Permite escalar, distribuir carga e melhorar a resiliência.
-- Kafka 
-- ~Rabbit MQ
+Mensageria é usada para comunicar sistemas de forma assíncrona e desacoplada. Permite escalar, distribuir carga e melhorar a resiliência. </br>
+- Kafka  </br>
+- ~Rabbit MQ </br>
 </details>
   
 [Curso - Kafka - Conceito ](https://www.youtube.com/watch?v=o5yviW6QSrE&ab_channel=FullCycle) </br>
@@ -65,14 +65,13 @@ Mensageria é usada para comunicar sistemas de forma assíncrona e desacoplada. 
 ## CI/CD (GitHub Actions) (1Hr)
 <details>
 <summary>Observações</summary>
-Automatizar testes, builds e deploys melhora a produtividade e reduz erros.
-- CI ->  verifica se o sistema continua funcionando a cada mudança (PR), rodando testes automaticamente.
-   - Github Actions (Opção 1) 
-   - Github Actions (Opção 2) 
-   - ~GitLab CI
-   - ~Jenkins
-- CD ->  faz o deploy automático para ambientes (produção ou homologação).
-   - Github Actions CD  
+Automatizar testes, builds e deploys melhora a produtividade e reduz erros. </br>
+- CI ->  verifica se o sistema continua funcionando a cada mudança (PR), rodando testes automaticamente. </br>
+   - Github Actions  </br>
+   - ~GitLab CI </br>
+   - ~Jenkins </br>
+- CD ->  faz o deploy automático para ambientes (produção ou homologação). </br>
+   - Github Actions CD   </br>
 </details>
 
 [Curso - CI Básico Github Actions - Opção 1](https://www.youtube.com/watch?v=IKjcdYQvcDo&ab_channel=MarioSouto-DevSoutinho) </br>
@@ -91,8 +90,8 @@ Uma das bibliotecas mais utilizadas no mundo Java para criar API's <br />
 ## Docker 
 <details>
 <summary>Observações</summary>
-O Docker serve para empacotar aplicações e suas dependências em containers, garantindo que rodem de forma consistente em qualquer ambiente.
-Ele facilita o desenvolvimento, teste e deployment com mais agilidade e isolamento.
+O Docker serve para empacotar aplicações e suas dependências em containers, garantindo que rodem de forma consistente em qualquer ambiente. </br>
+Ele facilita o desenvolvimento, teste e deployment com mais agilidade e isolamento. </br>
 </details>
 
 WIP 
