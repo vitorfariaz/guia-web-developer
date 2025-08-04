@@ -86,7 +86,7 @@ Automatizar testes, builds e deploys melhora a produtividade e reduz erros.
 Uma das bibliotecas mais utilizadas no mundo Java para criar API's <br />
 </details>
 
-[Clique aqui para acessar](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
+[Curso](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
 
 ## Docker 
 <details>
