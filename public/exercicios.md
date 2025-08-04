@@ -1,6 +1,3 @@
-
-
-
 **EXERCÍCIOS: fundamentos computação**
  1. Qual a linguagem que o  computador entende? 
  2. Como o computador representa informações? O que ele "guarda"? 
