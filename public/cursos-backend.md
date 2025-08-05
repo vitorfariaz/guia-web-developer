@@ -38,17 +38,13 @@ Gerenciar dependências é fundamental para facilitar o uso de bibliotecas de te
 
 [Curso](https://www.youtube.com/watch?v=N7AyIfUQxGc&ab_channel=GiulianaBezerra)
 
-## Testes (Java) (20 min)
+## Framework (Java Spring) (2Hrs)
 <details>
 <summary>Observações</summary>
-Testes garantem a qualidade do código e previnem erros. Existem diferentes tipos:</br>
-- **Unitários**: testam pequenas partes isoladas do sistema (ex: métodos). </br>
-- **Integrados**: verificam a interação entre componentes. </br>
-- **Contrato**: garantem que diferentes serviços concordam sobre como se comunicar. </br>
-- **Pirâmide de testes**: boa prática que mostra a proporção ideal de cada tipo de teste </br>
+Uma das bibliotecas mais utilizadas no mundo Java para criar API's <br />
 </details>
 
-[Curso - testes unitários](https://www.youtube.com/watch?v=rVSwDX9KUt8&ab_channel=Javanauta)
+[Curso](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
 
 ## Mensageria (kafka) (3Hrs)
 <details>
@@ -61,6 +57,20 @@ Mensageria é usada para comunicar sistemas de forma assíncrona e desacoplada. 
 [Curso - Kafka - Conceito ](https://www.youtube.com/watch?v=o5yviW6QSrE&ab_channel=FullCycle) </br>
 [Curso - Kafka - Prática com Java](https://www.youtube.com/watch?v=EKj8lDRgvLc&ab_channel=Prof.Rog%C3%A9rioNapole%C3%A3oJr.) 
 
+## Testes (Java) (20 min)
+<details>
+<summary>Observações</summary>
+Testes garantem a qualidade do código e previnem erros. Existem diferentes tipos:</br>
+- **Unitários**: testam pequenas partes isoladas do sistema (ex: métodos). </br>
+- **Integrados**: verificam a interação entre componentes. </br>
+- **Contrato**: garantem que diferentes serviços concordam sobre como se comunicar. </br>
+- **Pirâmide de testes**: boa prática que mostra a proporção ideal de cada tipo de teste </br>
+</details>
+
+[Curso - testes unitários](https://www.youtube.com/watch?v=rVSwDX9KUt8&ab_channel=Javanauta)
+
+
+# Tópicos mais avançados abaixo
 
 ## CI/CD (GitHub Actions) (1Hr)
 <details>
@@ -79,14 +89,6 @@ Automatizar testes, builds e deploys melhora a produtividade e reduz erros. </br
 [Curso - CD Básico Github Actions](https://www.youtube.com/watch?v=df_WMXk7JxE&ab_channel=FernandaKipper%7CDev)  
 
 
-## Framework (Java Spring) (2Hrs)
-<details>
-<summary>Observações</summary>
-Uma das bibliotecas mais utilizadas no mundo Java para criar API's <br />
-</details>
-
-[Curso](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
-
 ## Docker 
 <details>
 <summary>Observações</summary>
@@ -102,7 +104,13 @@ Pode ser AWS, Google Cloud Platform, Azure
 WIP 
 
 
-# Tópicos mais avançados abaixo
+## Monitoramento (Grafana)
+
+WIP 
+
+## Tracing
+
+WIP
 
 
 ## Estilos arquiteturais
